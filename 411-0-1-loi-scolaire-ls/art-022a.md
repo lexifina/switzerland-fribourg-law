@@ -1,0 +1,5 @@
+# Art. 22a Equipements numériques des établissements
+1 Afin de répondre aux exigences des plans d'études en matière d'éducation numérique, les communes mettent à disposition des établissements les équipements numériques des élèves nécessaires, ainsi que le support technique matériel y relatif.
+2 La Direction émet des recommandations sur les dotations minimales et maximales de l'équipement numérique des élèves par degré de scolarité. A des fins de sobriété, elle promeut la mutualisation des équipements numériques. L'acquisition d'appareils se base sur un concept d'utilisation pédagogique déposé par les établissements.
+3 La Direction définit les standards de qualité, de sécurité et de durabilité des équipements numériques ainsi que les prestations techniques liées. Elle spécifie également les standards de l'infrastructure informatique des locaux et installations scolaires, en particulier des éléments de connexion et des périphériques.
+4 Le Conseil d'Etat édicte les dispositions d'exécution nécessaires.
