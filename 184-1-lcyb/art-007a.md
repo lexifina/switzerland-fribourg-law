@@ -1,0 +1,4 @@
+# Art. 7a Prestations communales – Répartition des coûts et responsabilités
+1 L'Etat prend en charge les coûts de mise à disposition du guichet virtuel, ainsi que les coûts des services de base qui forment le socle technologique à caractère transversal servant pour différentes prestations.
+2 Les communes, les associations de communes et les établissements communaux dotés de la personnalité juridique prennent en charge les coûts de la mise à disposition de leurs propres prestations dans le guichet, y compris le soutien aux bénéficiaires de ces prestations.
+3 L'Etat ainsi que les communes, les associations de communes et les établissements communaux dotés de la personnalité juridique assument chacun pour ce qui le concerne l'entière responsabilité des outils et des prestations qu'ils mettent à disposition.
