@@ -1,0 +1,2 @@
+# Art. 24a Reconnaissance des années de service
+1 En cas d'engagement d'un maître par l'Etat, les années d'enseignement accomplies auprès d'une institution spécialisée reconnue par l'Etat sont prises en compte comme années de service, aux conditions des articles 75 et 149 du règlement du 17 décembre 2002 sur le personnel de l'Etat (RPers), lorsque la personne concernée continue d'exercer auprès de l'Etat la même fonction que celle qu'elle exerçait auprès de l'institution spécialisée.
