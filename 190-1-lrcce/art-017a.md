@@ -1,0 +1,3 @@
+# Art. 17a Perception
+1 Les impôts ecclésiastiques dus par les personnes physiques peuvent être prélevés par l'Etat ou par une commune, sur la base d'une convention passée avec les paroisses intéressées. La perception des impôts englobe le traitement du contentieux.
+2 L'impôt dû par les personnes morales est perçu par l'Etat, moyennant une provision de perception fixée par le Conseil d'Etat. Pour les paroisses dont le territoire ne correspond pas aux limites communales, les impôts sont perçus à un coefficient unique. A défaut d'entente entre les paroisses, il est fixé par le Conseil d'Etat après consultation des conseils paroissiaux et du conseil exécutif de la corporation ecclésiastique concernée.
