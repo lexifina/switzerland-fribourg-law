@@ -1,0 +1,8 @@
+Protection des biens culturels – R
+# Règlement d'exécution de la loi sur la protection des biens culturels
+(RELPBC)
+du 17.08.1993 (version entrée en vigueur le 01.10.2012)
+Le Conseil d'Etat du canton de Fribourg
+Vu la loi du 7 novembre 1991 sur la protection des biens culturels (LPBC);
+Sur la proposition de la Direction de l'instruction publique et des affaires culturelles,
+Arrête:
