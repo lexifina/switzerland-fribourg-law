@@ -1,0 +1,31 @@
+## 1 Dispositions générales
+## 2 Mise en œuvre de la politique agricole fédérale
+### 2.1 Conditions cadres de la production et de l'écoulement (art. 7ss LAgr)
+#### 2.1.1 Dispositions économiques générales (art. 8ss LAgr)
+#### 2.1.2 Production animale (art. 46ss LAgr)
+#### 2.1.3 Production végétale (art. 54ss LAgr)
+#### 2.1.4 Economie vitivinicole (art. 60ss LAgr)
+### 2.2 Paiements directs et contributions (art. 56ss et 70ss LAgr et 7 LAgri)
+### 2.3 Mesures d'accompagnement social (art. 78ss LAgr et 39 LAgri)
+### 2.4 Amélioration des structures (art. 87ss LAgr)
+#### 2.4.1 Contributions (art. 93ss LAgr et OAS)
+#### 2.4.2 Crédits d'investissements (art. 105ss LAgr)
+#### 2.4.3 Dispositions communes (art. 87ss LAgr)
+### 2.5 Recherche et vulgarisation, encouragement de la sélection végétale et animale (art. 113ss LAgr)
+### 2.6 Protection des végétaux et moyens de production (art. 148ss LAgr)
+#### 2.6.1 Protection des végétaux (art. 149ss LAgr)
+#### 2.6.2. Moyens de production (art. 158ss LAgr)
+### 2.7 Tâches particulières d'exécution de la LAgr (art. 178 LAgr)
+#### 2.7.1 Formes d'exploitation et de communautés (art. 29a, 29b, 30 et 30a OTerm)
+#### 2.7.2 Exécution et coordination des contrôles (art. 181 al. 1 LAgr et 7 al. 2 LAgri)
+#### 2.7.3 Autres tâches d'exécution
+## 3 Mise en œuvre de la politique agricole cantonale
+### 3.1 Organisation (art. 5ss LAgri)
+### 3.2 Fonds rural (art. 16ss LAgri)
+### 3.3 Promotion et développement économique (art. 23ss LAgri)
+### 3.4 Mesures particulières (art. 30ss LAgri)
+#### 3.4.1 Contributions d'estivage (art. 30ss LAgri)
+#### 3.4.2 Innovation (art. 34 LAgri)
+#### 3.4.3 Méthodes et techniques culturales (art. 35ss LAgri)
+#### 3.4.4 Aides aux exploitations paysannes en difficulté (art. 39 LAgri et 78ss LAgr)
+## 4 Dispositions finales
