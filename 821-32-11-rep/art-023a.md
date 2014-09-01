@@ -1,0 +1,2 @@
+# Art. 23a
+1 Le tarif des frais du Service fait l'objet d'une ordonnance spécifique.
