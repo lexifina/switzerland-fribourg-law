@@ -1,0 +1,3 @@
+# Art. 14a Commission du personnel
+1 La Commission du personnel est composée de cinq membres, dont quatre sont choisis au sein des catégories de personnel (procureur-e, greffier ou greffière, secrétaire de procureur-e et secrétaire auprès de la réception ou du service comptable). Les membres ainsi désignés choisissent un cinquième membre parmi l'ensemble du personnel du Ministère public. Les membres sont nommés pour une période de deux ans, renouvelable.
+2 La Commission est un organe consultatif de la direction du Ministère public. En cette qualité, elle lui propose notamment des améliorations ou des projets pour le personnel du Ministère public.
