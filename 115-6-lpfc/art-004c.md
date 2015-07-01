@@ -1,0 +1,4 @@
+# Art. 4c Mise sous pli et envoi du matériel de propagande électorale – Versement de la prise en charge
+1 Le versement total, le versement partiel ou le refus de versement font l'objet d'une décision de la Chancellerie d'Etat. Cette décision est publiée dans la Feuille officielle et sur le site Internet de la Chancellerie d'Etat aux fins d'information du public, en application de la loi sur l'information et l'accès aux documents.
+2 Les partis politiques et groupes d'électeurs et électrices qui n'ont pas pris part, de manière volontaire, aux opérations en commun n'ont aucun droit à une prise en charge.
+3 Si un ou des partis politiques ou groupes d'électeurs et électrices sont exclus des opérations en commun par la majorité des autres partis politiques ou groupes d'électeurs et électrices, aucune prise en charge n'est versée. Les cas d'exclusion pour de justes motifs sont réservés.
