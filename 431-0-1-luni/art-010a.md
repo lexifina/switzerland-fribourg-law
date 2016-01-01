@@ -1,0 +1,2 @@
+# Art. 10a Financement – Fonds de l'innovation et du développement
+1 L'Université crée un fonds en faveur de l'innovation et du développement de l'Université. Ce fonds, qui est plafonné selon une limite fixée dans son règlement d'utilisation, est alimenté par le budget et par la moitié de la part non utilisée du budget annuel, qui reste acquise à l'Université. Le Conseil d'Etat peut affecter une plus grande proportion du budget non utilisé au fonds de l'Université, s'il y a une justification suffisante.
