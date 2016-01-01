@@ -1,0 +1,5 @@
+Arrêté sur l'inventaire fiscal au décès
+du 20.03.2001 (version entrée en vigueur le 01.01.2016)
+Le Conseil d'Etat du canton de Fribourg
+Vu les articles 195 et suivants de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD); Considérant: Aux termes des articles 195 et suivants LICD, un inventaire est établi au décès du contribuable en vue de l'imposition de la succession. Cet inventaire a pour objet de déterminer les biens faisant partie de la succession en vue de la clôture du dossier fiscal du contribuable décédé. L'énoncé des articles 195 et suivants LICD est identique à celui des articles 154 et suivants de la loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct (LIFD). Le 16 novembre 1994, le Conseil fédéral a adopté une ordonnance sur l'établissement de l'inventaire de la succession en vue de l'impôt fédéral direct (Oinv). Les mêmes règles devant présider à l'établissement des deux inventaires, il convient que le Conseil d'Etat déclare applicables par analogie celles qui sont posées en exécution de la LIFD. Sur la proposition de la Direction des finances,
+Arrête:
