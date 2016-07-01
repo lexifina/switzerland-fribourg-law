@@ -1,0 +1,4 @@
+# Art. 75b Groupement de cercles électoraux pour l'élection au Grand Conseil – Répartition des sièges entre les listes groupées en paires
+1 Le nombre des suffrages de parti valables de chaque liste est divisé par le nombre de sièges attribués au cercle électoral concerné, puis arrondi au nombre entier immédiatement inférieur. Les suffrages ainsi pondérés des listes formant une paire sont additionnés.
+2 La somme des suffrages pondérés des listes est divisée par le nombre de sièges à attribuer au groupe de cercles, plus un. Le nombre entier immédiatement supérieur au quotient obtenu constitue le chiffre de répartition.
+3 Chaque paire de listes et les éventuelles listes individuelles se voient attribuer autant de sièges que le nombre de leurs suffrages pondérés contient de fois le chiffre de répartition. Les sièges restants sont attribués conformément à l'article 75, applicable par analogie.

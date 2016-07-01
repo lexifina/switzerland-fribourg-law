@@ -1,0 +1,4 @@
+# Art. 75c Groupement de cercles électoraux pour l'élection au Grand Conseil – Répartition des sièges entre les cercles électoraux
+1 Le nombre des suffrages pondérés de chaque paire de listes est divisé par le nombre de sièges obtenu. Le résultat, arrondi au nombre entier immédiatement supérieur, constitue le chiffre de répartition.
+2 Chaque liste se voit attribuer autant de sièges que son nombre de suffrages pondérés contient de fois son chiffre de répartition. Les sièges non encore attribués sont répartis entre les listes des deux cercles électoraux groupés ayant obtenu les plus forts restes.
+3 S'il y a des restes identiques, le siège concerné revient à la liste dont la personne candidate pouvant prétendre à un siège a obtenu le plus grand nombre de suffrages. En cas d'égalité des nombres de suffrages, le sort décide.
