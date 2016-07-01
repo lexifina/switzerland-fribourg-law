@@ -1,0 +1,3 @@
+# Art. 17d Assemblée constitutive – Organisation
+1 Le préfet de la Sarine préside l'assemblée constitutive. Si plusieurs districts sont concernés, le ou les autres préfets participent aux séances de l'assemblée constitutive avec voix consultative.
+2 Pour le surplus, l'assemblée constitutive s'organise elle-même et se donne un règlement. Elle fixe une clé de répartition des frais de constitution du Grand Fribourg entre les communes, avec un soutien financier, logistique et administratif accordé par l'Etat pour son fonctionnement. L'aide financière de l'Etat s'élève à 50% des frais de l'assemblée constitutive, mais au maximum à 200'000 francs par année.

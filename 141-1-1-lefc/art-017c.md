@@ -1,0 +1,4 @@
+# Art. 17c Assemblée constitutive – Composition
+1 Chaque commune désignée conformément à l'article précédent a droit à deux délégué-e-s jusqu'à 1000 habitants et habitantes, trois délégué-e-s entre 1001 et 5000 habitants et habitantes, puis à un ou une délégué-e supplémentaire pour chaque tranche ou fraction de 5000 habitants et habitantes. Une commune ne peut disposer de plus de la moitié des délégué-e-s.
+2 Le conseil communal désigne un ou une délégué-e de la commune parmi ses membres. Les autres délégué-e-s sont, dans chaque commune, élus au scrutin populaire.
+3 Le mandat des délégué-e-s court jusqu'à la dissolution de l'assemblée constitutive. Le mandat des délégué-e-s désignés par le conseil communal est toutefois limité à la législature communale; si les travaux se poursuivent au-delà d'une législature, leur mandat doit être renouvelé.

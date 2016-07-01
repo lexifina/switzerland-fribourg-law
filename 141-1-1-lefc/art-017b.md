@@ -1,0 +1,4 @@
+# Art. 17b Introduction de la procédure
+1 A la requête des conseils communaux ou de l'organe législatif ou du dixième des citoyens actifs et citoyennes actives d'au moins deux communes, dont la commune de Fribourg et une de ses communes limitrophes, le Conseil d'Etat détermine le périmètre provisoire du Grand Fribourg.
+2 Lorsque la demande émane des citoyens et citoyennes, les règles de la loi sur l'exercice des droits politiques relatives à l'initiative en matière communale sont applicables par analogie dans chaque commune initiatrice, à l'exception de celles qui ont trait au nombre de signatures requises ainsi qu'à la transmission et à la validation de l'initiative. Les initiatives qui ont abouti sont transmises au Conseil d'Etat par le conseil communal de chaque commune ou par le comité d'initiative.
+3 Le Conseil d'Etat consulte notamment toutes les communes susceptibles d'être intégrées au périmètre du Grand Fribourg ainsi que le ou les préfets concernés.
