@@ -1,0 +1,3 @@
+# Art. 25a Utilisation de véhicules automobiles
+1 Les gardes-faune et les surveillants s'attachent à préserver le milieu naturel, notamment à l'occasion de chacun de leurs déplacements.
+2 Ils limitent de ce fait leurs déplacements en véhicules automobiles au strict nécessaire.
