@@ -1,0 +1,3 @@
+# Art. 78a Décisions de la Direction
+1 Les décisions de la Direction peuvent faire l'objet d'un recours au Tribunal cantonal.
+2 …
