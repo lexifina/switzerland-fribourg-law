@@ -1,0 +1,2 @@
+# Art. 5b Locaux de célébration de mariages et de conclusion de partenariats (art. 9 LEC) – Autres lieux (art. 1a al. 4, 70 al. 2 et 75i al. 2 OEC; art. 9 al. 3 LEC)
+1 L'officier ou l'officière de l'état civil peut exceptionnellement autoriser la célébration d'un mariage ou la conclusion d'un partenariat enregistré dans d'autres lieux si les fiancés ou les partenaires ne peuvent pas accéder à une salle officielle ou une salle agréée, notamment pour cause de maladie, de handicap ou d'exécution d'une peine privative de liberté.
