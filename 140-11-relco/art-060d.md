@@ -1,0 +1,3 @@
+# Art. 60d Organe de révision – Formulaire de vérification des comptes et remarques complémentaires (art. 98e LCo)
+1 Les résultats détaillés de la vérification des comptes sont consignés dans le formulaire de vérification des comptes établi par le Service; l'organe de révision le transmet au conseil communal et à la commission financière.
+2 Lorsque l'organe de révision constate des lacunes ou erreurs, il invite le conseil communal à y remédier; il peut formuler des propositions. Ces remarques et ces propositions ne figurent pas dans le rapport de révision. Elles sont également communiquées à la commission financière.
