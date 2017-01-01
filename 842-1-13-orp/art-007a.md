@@ -1,0 +1,2 @@
+# Art. 7a Début et fin du droit (art. 17 LALAMal)
+1 Le droit à la réduction naît le premier jour du mois au cours duquel les conditions d'octroi sont remplies pour la première fois, mais au plus tôt le premier jour du mois du dépôt de la demande auprès de la Caisse AVS; la date du dépôt de la demande est la date de réception par la Caisse AVS. Le droit s'éteint le dernier jour du mois au cours duquel les conditions d'octroi cessent d'exister, mais au plus tard le 31 décembre.
