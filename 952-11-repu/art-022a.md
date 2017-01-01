@@ -1,0 +1,10 @@
+# Art. 22a Dispense en fonction de pratiques antérieures
+1 Sont dispensées partiellement de suivre les cours, conformément à l'article 29, les personnes qui ont déjà exercé une activité d'hôtellerie ou de restauration selon les modalités suivantes:
+a) activité pendant trois années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise. Cette activité ne doit pas avoir pris fin depuis plus de dix ans à la date du dépôt de la demande de patente;
+b) activité pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par le canton ou un Etat ou jugée pleinement valable par un organisme professionnel compétent;
+c) activité pendant deux années consécutives à titre indépendant ou en qualité de dirigeant d'entreprise lorsque le bénéficiaire prouve qu'il a exercé à titre salarié l'activité en question pendant trois ans au moins. Cette activité ne doit pas avoir pris fin depuis plus de dix ans à la date du dépôt de la demande de patente;
+d) activité pendant trois années consécutives à titre salarié, lorsque le bénéficiaire prouve qu'il a reçu, pour l'activité en question, une formation préalable sanctionnée par un certificat reconnu par un canton ou un Etat ou jugée pleinement valable par un organisme professionnel compétent.
+2 Est considérée comme exerçant une activité de dirigeant d'entreprise, au sens de l'alinéa 1, toute personne ayant exercé dans une entreprise de la branche professionnelle correspondante:
+a) soit la fonction de dirigeant d'une entreprise ou d'une succursale;
+b) soit la fonction d'adjoint au propriétaire ou au dirigeant d'une entreprise, si cette fonction implique une responsabilité correspondant à celle du propriétaire ou du dirigeant représenté;
+c) soit la fonction de cadre supérieur chargé de tâches commerciales et/ou techniques et responsable d'un ou de plusieurs départements de l'entreprise.

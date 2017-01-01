@@ -1,0 +1,2 @@
+# Art. 7a Demande de patente pour un bar dépendant d'un local de prostitution
+1 La demande de patente de bar dépendant d'un local de prostitution est adressée par écrit au Service, accompagnée d'une copie de l'autorisation d'exploitation du local de prostitution et des documents et renseignements énumérés à l'article 3 al. 1 let. f à k de l'ordonnance du 23 novembre 2010 sur l'exercice de la prostitution.
