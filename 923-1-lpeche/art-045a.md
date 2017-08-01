@@ -1,0 +1,3 @@
+# Art. 45a Procédure
+1 ...
+2 La poursuite et le jugement des infractions ont lieu conformément à la présente loi et à la loi sur la justice.
