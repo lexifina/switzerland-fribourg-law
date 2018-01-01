@@ -1,0 +1,2 @@
+# Art. 248c Disposition transitoire relative à la modification du 15 décembre 2015
+1 La Direction statue sur les demandes en remise de l'impôt fédéral direct qui, au moment de l'entrée en vigueur de la modification du 20 juin 2014 de la loi fédérale du 14 décembre 1990 sur l'impôt fédéral direct, sont pendantes devant la Commission fédérale de remise de l'impôt fédéral direct ou devant l'autorité cantonale compétente qui les transmet à cette Commission avec sa proposition.
