@@ -1,0 +1,3 @@
+# Art. 83a Dispositions transitoires – Répartition des tâches entre la Confédération et les cantons
+1 Les prestations financières formellement garanties par l'Etat avant l'entrée en vigueur de la nouvelle répartition des tâches entre la Confédération et les cantons ne sont fournies que si le décompte final relatif au projet réalisé est présenté jusqu'au 31 décembre 2010.
+2 Les prestations financières garanties par l'Etat dans le cadre de la création de réserves forestières sont, en fonction des disponibilités financières, capitalisées et versées dans l'année qui suit l'entrée en vigueur de la loi du 1er juillet 2008 modifiant la loi sur les forêts et la protection contre les catastrophes naturelles.
