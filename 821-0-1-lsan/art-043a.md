@@ -1,0 +1,4 @@
+# Art. 43a Protection juridique – Plaintes internes dans le RFSM
+1 Outre les informations écrites sur ses droits et ses devoirs ainsi que sur les conditions de sa prise en charge, chaque patient ou patiente du RFSM ou, le cas échéant, son représentant thérapeutique ou représentant légal doit recevoir des informations sur la procédure de gestion des plaintes dans le RFSM.
+2 Le RFSM doit se pourvoir d'un règlement interne fixant cette procédure et désignant les personnes responsables.
+3 La procédure de gestion des plaintes doit permettre aux patients et patientes et à leurs proches de faire valoir leurs droits en relation aussi bien avec les soins qu'avec les conditions de prise en charge ou de séjour, tout en empêchant la délation et les critiques sans raison. Chaque plainte doit être traitée de manière rapide et efficace, les plaignants étant informés des mesures prises en conséquence.

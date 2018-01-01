@@ -1,0 +1,2 @@
+# Art. 86a Assurance responsabilité civile professionnelle
+1 Toute personne qui pratique une profession de la santé doit conclure une assurance responsabilité civile professionnelle offrant une couverture adaptée à la nature et à l'étendue des risques liés à son activité ou disposer d'une telle assurance, sauf si son activité est régie par la loi sur la responsabilité civile des collectivités publiques et de leurs agents.
