@@ -1,0 +1,3 @@
+# Art. 11a Bagages de départ
+1 Lors du départ, le personnel de l'établissement se charge, avec le détenu concerné, du tri et de la préparation des bagages en fonction des directives des compagnies aériennes. Si nécessaire, des valises ou sacs de sport seront mis à la disposition du détenu.
+2 La quantité maximale de bagages que le détenu pourra emporter lors de son départ de Suisse lui est communiquée. En cas de besoin, le détenu contactera une personne de son choix afin de se faire amener les bagages auprès de l'établissement. Le détenu est informé que le surplus de bagages qui ne sera pas emporté lors du départ ou repris par la personne de contact sera remis à une œuvre caritative ou détruit.

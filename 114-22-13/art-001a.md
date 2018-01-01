@@ -1,0 +1,2 @@
+# Art. 1a Autorité de placement
+1 Le Service de la population et des migrants est l'autorité de placement dans le domaine des mesures de contrainte du droit des étrangers. Toute décision de transfert de personnes incarcérées dans le secteur des mesures de contrainte, à l'exclusion des mesures à caractère disciplinaire, doit impérativement lui être soumise au préalable. Demeurent réservées les situations d'urgence.
