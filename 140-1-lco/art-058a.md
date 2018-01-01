@@ -1,0 +1,5 @@
+# Art. 58a Constitution du conseil communal provisoire
+1 Lorsque, à l'issue des élections générales, un ou des sièges demeurent non attribués ou deviennent vacants avant la constitution, le conseil communal se constitue de manière provisoire dans les dix jours qui suivent l'assermentation des conseillers communaux élus, sur convocation de son doyen d'âge.
+2 Durant la période transitoire, le président du conseil communal est son doyen d'âge. Le vice-président est la personne la plus âgée après le doyen d'âge. Les domaines de responsabilités sont répartis provisoirement entre les conseillers communaux élus.
+3 Les actes relevant de la constitution provisoire demeurent valables jusqu'à la constitution définitive. Les actes émanant du conseil provisoirement constitué conservent leur validité au-delà de la constitution définitive.
+4 Le conseil communal se constitue définitivement, conformément à l'article 58, à l'issue de l'élection complémentaire, dix jours au plus tard après que son dernier membre a été assermenté. L'article 59 est applicable par analogie.

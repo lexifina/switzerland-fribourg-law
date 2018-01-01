@@ -1,0 +1,4 @@
+# Art. 136c Régime de transition – Elections générales reportées
+1 Lorsqu'une fusion entrant en vigueur le 1er janvier de l'année suivant le renouvellement intégral des autorités communales est promulguée au plus tard le 30 novembre de l'année qui précède ce renouvellement, la législature se prolonge pour ces communes, et leurs élus restent en fonction jusqu'à l'entrée en vigueur de la fusion.
+2 Pour ces communes, les élections générales sont remplacées par l'élection de leurs représentants au sein des autorités de la nouvelle commune, qui a lieu préalablement à l'entrée en vigueur de la fusion. Le Conseil d'Etat convoque les corps électoraux des communes concernées.
+3 Les autorités communales élues en vertu de l'alinéa 2 du présent article entrent en fonction à la date de l'entrée en vigueur de la fusion et demeurent en fonction jusqu'à la fin de la législature concernée.

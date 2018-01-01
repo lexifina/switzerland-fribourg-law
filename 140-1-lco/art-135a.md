@@ -1,0 +1,2 @@
+# Art. 135a Régime de transition – Conseil communal b) Défaut de candidats ou de personnes élues prêtes à accepter l'élection
+1 En cas de défaut de candidats ou de personnes élues prêtes à accepter leur élection dans un des cercles électoraux créés pour le régime de transition, toute personne jouissant des droits politiques en matière communale et ayant son domicile politique sur le territoire de la commune issue de la fusion est éligible. L'élargissement du cercle des personnes éligibles est précisé dans l'arrêté de convocation du corps électoral.
