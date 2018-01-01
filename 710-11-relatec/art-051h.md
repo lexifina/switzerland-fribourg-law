@@ -1,0 +1,3 @@
+# Art. 51h Restitution des montants et dispositions pénales
+1 Si le montant versé pour l'indemnité ou le financement des mesures d'aménagement au sens de l'article 51e n'est pas utilisé conformément à sa destination ou si les conditions dont il était assorti ne sont pas respectées, la Direction peut en exiger le remboursement, en vertu d'une application par analogie des articles 37 et 38 de la loi du 17 novembre 1999 sur les subventions.
+2 L'article 41 de la loi du 17 novembre 1999 sur les subventions est applicable par analogie pour ce qui concerne les demandes de financement des mesures d'aménagement au sens de l'article 51e.

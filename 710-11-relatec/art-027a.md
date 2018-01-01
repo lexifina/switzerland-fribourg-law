@@ -1,0 +1,2 @@
+# Art. 27a Réglementation communale (art. 60 LATeC) – Plan d'aménagement de détail-cadre (art. 63a LATeC)
+1 Des dérogations prévues par l'article 65 al. 2 LATeC sont également applicables à l'intérieur du périmètre du plan d'aménagement de détail-cadre, y compris dans les sous-périmètres ne faisant pas l'objet d'un plan d'aménagement de détail. Le plan d'aménagement de détail-cadre définit dans ces secteurs les dérogations possibles, de manière à assurer la cohérence des constructions qui y seront érigées avec le concept urbanistique d'ensemble.
