@@ -1,0 +1,2 @@
+# Art. 141a
+1 La Commission de conciliation en matière d'égalité des sexes dans les rapports de travail peut être appelée à rendre un avis sur un recours dirigé contre une décision de première instance portant sur les rapports de service de droit public et comprenant une discrimination au sens de la loi fédérale du 24 mars 1995 sur l'égalité entre femmes et hommes invoquée par la partie recourante.
