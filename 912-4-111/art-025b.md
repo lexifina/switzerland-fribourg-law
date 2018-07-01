@@ -1,0 +1,4 @@
+# Art. 25b Sélection de grains nobles
+1 La mention «Sélection de grains nobles» est réservée aux vins élaborés avec des raisins atteints par la pourriture noble.
+2 La teneur naturelle en sucre est au minimum de 26,0 % Brix (110° Oe).
+3 Les opérations d'enrichissement ou de concentration du moût sont interdites.
