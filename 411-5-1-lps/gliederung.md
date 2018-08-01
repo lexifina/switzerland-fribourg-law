@@ -1,10 +1,13 @@
 ## 1 Dispositions générales
-## 2 Organisation et fonctionnement
-## 3 Parents et élèves
-### 3.1 Parents
-### 3.2 Elèves
-## 4 Maîtres
-## 5 Services auxiliaires
-## 6 Autorités scolaires cantonales
-## 7 Voies de droit
-## 8 Dispositions finales
+### 1.1 Objets et principes de base
+### 1.2 Offre de pédagogie spécialisée et transports scolaires
+### 1.3 Autorités
+### 1.4 Personnel de la pédagogie spécialisée
+### 1.5 Protection des données et du domaine privé
+## 2 Organisation de l'offre en matière de pédagogie spécialisée
+### 2.1 Prestataires de services
+### 2.2 Institutions de pédagogie spécialisée et contrats de prestations
+## 3 Accès à l'offre en matière de pédagogie spécialisée
+## 4 Financement de l'offre en matière de pédagogie spécialisée
+## 5 Voies de droit
+## 6 Dispositions finales

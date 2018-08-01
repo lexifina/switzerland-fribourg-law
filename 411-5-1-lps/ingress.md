@@ -1,9 +1,11 @@
-Enseignement spécialisé – L
-# Loi sur l'enseignement spécialisé
-(LES)
-du 22.09.1994 (version entrée en vigueur le 01.01.2003)
+Pédagogie spécialisée – L
+# Loi sur la pédagogie spécialisée
+(LPS)
+du 11.10.2017 (version entrée en vigueur le 01.08.2018)
 Le Grand Conseil du canton de Fribourg
-Vu l'article 20 al. 3 de la loi du 23 mai 1985 sur l'école enfantine, l'école primaire et l'école du cycle d'orientation (loi scolaire);
-Vu le message du Conseil d'Etat du 14 mars 1994;
+Vu l'accord intercantonal du 25 octobre 2007 sur la collaboration dans le domaine de la pédagogie spécialisée;
+Vu l'article 64 de la Constitution du canton de Fribourg du 16 mai 2004;
+Vu la loi du 9 septembre 2014 sur la scolarité obligatoire (loi scolaire, LS);
+Vu le message 2015-DICS-37 du Conseil d'Etat du 28 novembre 2016;
 Sur la proposition de cette autorité,
 Décrète:
