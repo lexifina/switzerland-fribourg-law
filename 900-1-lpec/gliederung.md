@@ -5,6 +5,7 @@
 ### 3.2 Soutien à l'innovation
 ### 3.3 Terrains et bâtiments destinés aux activités économiques
 ### 3.4 …
+### 3.4a Aide au développement régional
 ## 4 Politique d'innovation régionale
 ## 5 Procédure et compétence
 ## 6 Financement

@@ -1,0 +1,5 @@
+# Art. 9a Cautionnement cantonal
+1 L'Etat peut garantir de manière subsidiaire, sous forme de cautionnements, des crédits destinés à financer des projets liés à des investissements stratégiques ou à des transmissions d'entreprises, à la condition qu'une banque soumise à la législation fédérale sur les banques et les caisses d'épargne accorde, aux conditions usuelles du marché, les crédits nécessaires au financement du projet, après l'avoir examiné selon les principes commerciaux habituels. Le montant maximal du cautionnement est de la moitié du financement bancaire. Le Conseil d'Etat peut y déroger en cas de projets exceptionnels.
+2 L'Etat peut mandater un organisme chargé de l'analyse et du suivi des projets.
+3 Il peut fournir, au cas par cas, un cautionnement à un autre organisme de cautionnement.
+4 Le règlement fixe les modalités, notamment concernant le taux de la prime de risque, la durée maximale des cautionnements, ainsi que le taux de couverture de ces derniers au bilan de l'Etat.
