@@ -8,4 +8,4 @@
 ### 3.1 Procédure en général
 ### 3.2 Procédure en matière d'inspections
 ### 3.3 Procédure en matière d'élections
-## 4 Entrée en vigueur
+### 3.4 Procédure en matière disciplinaire
