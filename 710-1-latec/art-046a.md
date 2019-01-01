@@ -1,0 +1,7 @@
+# Art. 46a Obligation de construire – Principes
+1 Les terrains affectés à la zone à bâtir doivent être construits et utilisés conformément à leur affectation dans les douze ans suivant la date d'entrée en force de la décision d'approbation. Cette exigence vaut également pour les terrains non construits dont l'affectation à la zone à bâtir est reconduite dans le cadre d'une révision générale du plan d'aménagement local.
+2 Si les terrains ne sont pas construits ni utilisés conformément à leur affectation dans le délai fixé à l'alinéa 1, l'autorité compétente dispose d'un droit d'emption légal à la valeur vénale sur tout ou partie de la surface concernée.
+3 L'autorité compétente au sens de l'alinéa 2 est l'Etat pour les terrains affectés à des zones d'activités cantonales reconnues par le plan directeur cantonal et la commune pour les autres terrains en zone à bâtir.
+4 Les communes et l'Etat peuvent exercer de manière subsidiaire le droit d'emption attribué selon l'alinéa 3.
+5 Si les terrains acquis par l'autorité sont transférés à des tiers, un droit de réméré est constitué en faveur de l'autorité avec obligation contractuelle de construire dans un délai fixé.
+6 Si les terrains ne sont pas construits ni utilisés conformément à leur affectation à l'échéance du délai de quinze ans dès la date d'entrée en force de la décision d'approbation, la commune examine l'opportunité de leur maintien en zone.
