@@ -1,0 +1,5 @@
+# Art. 14a Procédure particulière pour les fiches de projet
+1 La modification du plan directeur visant à créer ou à modifier une fiche relative à un projet ayant des incidences importantes sur le territoire et l'environnement (art. 8 al. 2 de la loi fédérale du 22 juin 1979 sur l'aménagement du territoire) fait l'objet d'une consultation publique pendant un délai d'un mois annoncé dans la Feuille officielle. Le projet de modification est déposé auprès du SeCA, des préfectures et des communes concernées.
+2 Pendant le délai de consultation, les communes et les instances régionales concernées par le projet, les communes limitrophes et les milieux intéressés peuvent adresser à la Direction, par écrit, des observations et des propositions motivées. Les articles 12 et 13 sont applicables par analogie.
+3 Les nouvelles fiches de projet au sens de l'alinéa 1 font l'objet d'un rapport présenté au Grand Conseil, à titre consultatif.
+4 Si l'élaboration d'une nouvelle fiche relative à un projet au sens de l'alinéa 1 implique une modification des objectifs ou des principes fixés dans le plan directeur cantonal, elle suit la procédure ordinaire prévue aux articles 10 à 14.
