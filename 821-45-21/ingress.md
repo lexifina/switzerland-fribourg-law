@@ -1,6 +1,6 @@
 Vaccination contre le papillomavirus humain – O
 # Ordonnance concernant la vaccination contre le papillomavirus humain
-du 08.07.2008 (version entrée en vigueur le 01.01.2018)
+du 08.07.2008 (version entrée en vigueur le 01.01.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'ordonnance fédérale du 29 septembre 1995 sur les prestations dans l'assurance obligatoire des soins en cas de maladie (OPAS);
 Considérant:
