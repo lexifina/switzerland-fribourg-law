@@ -1,6 +1,7 @@
 ## 1 Dispositions générales
 ### 1.1 Objet et étendue
 ### 1.2 Répartition des compétences
+### 1.2a Forme des actes législatifs
 ### 1.3 Information
 ## 2 Déroulement des opérations
 ### 2.1 Etude et rédaction des propositions

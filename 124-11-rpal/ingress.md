@@ -1,8 +1,7 @@
-Publication des actes législatifs – R
 # Règlement sur la publication des actes législatifs
 (RPAL)
-du 11.12.2001 (version entrée en vigueur le 01.01.2011)
+du 27.11.2018 (version entrée en vigueur le 01.01.2019)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL);
-Sur la proposition de la Direction de la justice, de la police et des affaires militaires et de la Chancellerie d'Etat,
+Vu la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL), telle que modifiée par la loi du 3 novembre 2016 (primauté de la version électronique);
+Sur la proposition de la Chancellerie d'Etat,
 Arrête:
