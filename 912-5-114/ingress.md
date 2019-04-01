@@ -1,6 +1,6 @@
 Mesures de lutte contre le capricorne asiatique – O
 # Ordonnance DIAF instituant des mesures de lutte contre le capricorne asiatique
-du 04.02.2015 (version entrée en vigueur le 01.02.2015)
+du 04.02.2015 (version entrée en vigueur le 01.04.2019)
 La Direction des institutions, de l'agriculture et des forêts
 Vu les articles 149 et suivants de la loi fédérale du 29 avril 1998 sur l'agriculture (LAgr);
 Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo);

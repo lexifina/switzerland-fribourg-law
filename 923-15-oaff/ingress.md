@@ -1,7 +1,7 @@
 Mise aux enchères et affermage des lots de pêche – O
 # Ordonnance fixant les conditions de mise aux enchères et d'affermage des lots de pêche pour la période 2016–2021
 (OAff)
-du 12.10.2015 (version entrée en vigueur le 01.01.2016)
+du 12.10.2015 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 21 juin 1991 sur la pêche;
 Vu l'ordonnance fédérale du 24 novembre 1993 relative à la loi fédérale sur la pêche;

@@ -1,7 +1,7 @@
 Epizooties – O
 # Ordonnance sur les épizooties
 (OEpiz)
-du 08.04.2014 (version entrée en vigueur le 01.09.2014)
+du 08.04.2014 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 1er juillet 1966 sur les épizooties (LFE) et ses ordonnances d'application;
 Vu la loi du 13 juin 2007 sur la sécurité alimentaire;

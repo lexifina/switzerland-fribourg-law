@@ -3,7 +3,7 @@
 a) des milieux de protection de la nature (deux membres);
 b) des milieux agricoles (deux membres);
 c) du Service (un membre);
-d) du Service de la nature et du paysage (un membre);
+d) du Service des forêts et de la nature (un membre);
 e) de l'IAG (un membre).
 2 La Commission est présidée par le membre représentant l'IAG, qui en assure également le secrétariat.
 3 En sa qualité d'organe consultatif, la Commission est appelée à examiner et à préaviser les projets de mise en réseau.

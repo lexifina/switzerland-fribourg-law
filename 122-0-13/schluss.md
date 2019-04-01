@@ -1,2 +1,2 @@
 ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS
-Annexe 1: Organigramme (art. 10)
+Annexe 1: Organigrammes (art. 10)

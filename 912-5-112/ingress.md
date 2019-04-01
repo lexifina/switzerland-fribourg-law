@@ -1,5 +1,5 @@
 # Ordonnance DIAF instituant des mesures de lutte contre le feu bactérien
-du 23.04.2007 (version entrée en vigueur le 01.04.2007)
+du 23.04.2007 (version entrée en vigueur le 01.04.2019)
 La Direction des institutions, de l'agriculture et des forêts
 Vu l'article 150 de la loi fédérale du 29 avril 1998 sur l'agriculture;
 Vu les articles 29 al. 3 et 34 de l'ordonnance fédérale du 28 février 2001 sur la protection des végétaux;

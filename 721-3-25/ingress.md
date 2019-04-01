@@ -1,5 +1,5 @@
 # Ordonnance concernant la réserve forestière de l'Hongrin, sur le territoire de la commune de Haut-Intyamon
-du 29.02.2016 (version entrée en vigueur le 01.03.2016)
+du 29.02.2016 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage;
 Vu la loi fédérale du 4 octobre 1991 sur les forêts;

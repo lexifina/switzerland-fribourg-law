@@ -1,6 +1,6 @@
 Protection des sols – O
 # Ordonnance sur la protection des sols
-du 20.08.2002 (version entrée en vigueur le 01.03.2007)
+du 20.08.2002 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 33, 34, 35 et 42 de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE);
 Vu l'article 27 de la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux);

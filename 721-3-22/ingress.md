@@ -1,6 +1,6 @@
 Réserve forestière Les Preises-Le Barlattey-Goille-au-Cerf – O
 # Ordonnance concernant la réserve forestière Les Preises–Le Barlattey–Goille-au-Cerf, sur le territoire de la commune de Châtel-Saint-Denis
-du 21.12.2010 (version entrée en vigueur le 21.12.2010)
+du 21.12.2010 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage;
 Vu la loi fédérale du 4 octobre 1991 sur les forêts;

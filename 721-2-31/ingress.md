@@ -1,6 +1,6 @@
 Réserve naturelle du lac de Pérolles – R
 # Règlement concernant la réserve naturelle du lac de Pérolles
-du 31.05.1983 (version entrée en vigueur le 01.07.2014)
+du 31.05.1983 (version entrée en vigueur le 01.04.2019)
 Préambule
 La région du lac de Pérolles présente, aussi bien par ses paysages d'une beauté remarquable que par sa flore et sa faune particulièrement riches, un grand intérêt esthétique et scientifique. Située aux portes de la ville de Fribourg, elle constitue également un lieu de détente pour la population.
 Depuis 1961, une réserve ornithologique de chasse s'étend sur cette région et la protège donc partiellement. La navigation des bateaux à moteur y est interdite depuis 1981.

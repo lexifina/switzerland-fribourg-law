@@ -1,6 +1,6 @@
 Réserve forestière Galm Sud – O
 # Ordonnance concernant la réserve forestière Galm Sud, sur le territoire des communes de Gurmels et de Jeuss et sur celui du Staatswald Galm
-du 16.12.2003 (version entrée en vigueur le 16.12.2003)
+du 16.12.2003 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage;
 Vu la loi fédérale du 4 octobre 1991 sur les forêts;

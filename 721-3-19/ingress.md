@@ -1,6 +1,6 @@
 Réserve forestière Tannholz-Remlitswilholz – O
 # Ordonnance concernant la réserve forestière Tannholz–Remlitswilholz, sur le territoire de la commune de St. Ursen
-du 11.02.2008 (version entrée en vigueur le 11.02.2008)
+du 11.02.2008 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage;
 Vu la loi fédérale du 4 octobre 1991 sur les forêts;

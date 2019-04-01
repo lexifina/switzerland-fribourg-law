@@ -1,5 +1,5 @@
 # Ordonnance relative à la désignation des unités administratives autorisées à se gérer par prestations
-du 29.06.2010 (version entrée en vigueur le 29.06.2010)
+du 29.06.2010 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 13 septembre 2007 modifiant certaines dispositions relatives à la gestion par prestations;
 Considérant:

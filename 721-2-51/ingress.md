@@ -1,6 +1,6 @@
 Réserve naturelle du Vanil-Noir – R
 # Règlement concernant la protection de la réserve du Vanil-Noir
-du 11.01.1983 (version entrée en vigueur le 01.07.2014)
+du 11.01.1983 (version entrée en vigueur le 01.04.2019)
 Préambule
 La région du Vanil-Noir présente, aussi bien par ses paysages d'une beauté remarquable que par sa faune et sa flore particulièrement riches, un grand intérêt esthétique et scientifique.
 A ce titre, elle figure à l'inventaire fédéral des paysages, sites et monuments naturels d'importance nationale.

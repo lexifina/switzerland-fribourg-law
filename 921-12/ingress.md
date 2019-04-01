@@ -1,6 +1,6 @@
 Lutte contre le bostryche – O
 # Ordonnance concernant la lutte contre le bostryche
-du 14.03.2005 (version entrée en vigueur le 01.03.2005)
+du 14.03.2005 (version entrée en vigueur le 01.04.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo);
 Vu l'ordonnance fédérale du 30 novembre 1992 sur les forêts (OFo), notamment les articles 28, 29, 44 et 45;
