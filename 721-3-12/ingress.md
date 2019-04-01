@@ -1,0 +1,6 @@
+Réserve forestière des Vanils du Paradis et de la Fayère – A
+Arrêté concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens
+du 19.04.1995 (version entrée en vigueur le 01.04.2019)
+Le Conseil d'Etat du canton de Fribourg [1]
+Vu la loi fédérale du 1 er juillet 1966 sur la protection de la nature et du paysage; Vu la loi fédérale du 4 octobre 1991 sur les forêts; Vu le code forestier du 5 mai 1954 du canton de Fribourg; Considérant: Les forêts des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens, présentent par la diversité de leurs espèces animales et végétales une grand valeur en tant qu'éléments du patrimoine naturel. Afin de conserver la diversité de ces espèces, Pro Natura Fribourg a proposé de procéder à la création d'une réserve forestière. La commune d'Estavannens, sur le territoire de laquelle s'étend la réserve et dont les propriétés sont touchées par celle-ci, a été entendue et a donné son accord. L'inspection cantonale des forêts et la commission cantonale pour la protection de la nature et du paysage ont préavisé favorablement la création de cette réserve ainsi que les mesures de protection qui s'y rapportent. Sur la proposition de la Direction de l'intérieur et de l'agriculture,
+Arrête:
