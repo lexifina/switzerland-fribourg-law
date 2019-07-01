@@ -1,6 +1,6 @@
 Conseil des jeunes, organisation et fonctionnement – O
 # Ordonnance DIAF sur l'organisation et le fonctionnement du Conseil des jeunes
-du 09.12.2016 (version entrée en vigueur le 01.01.2017)
+du 09.12.2016 (version entrée en vigueur le 01.07.2019)
 La Direction des institutions, de l'agriculture et des forêts
 Vu les articles 15 et suivants de la loi du 12 mai 2006 sur l'enfance et la jeunesse (LEJ);
 Considérant:

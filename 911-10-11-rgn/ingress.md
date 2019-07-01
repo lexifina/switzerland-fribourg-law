@@ -1,7 +1,7 @@
 Institut agricole de l'Etat de Fribourg – R
 # Règlement sur l'Institut agricole de l'Etat de Fribourg
 (RIAG)
-du 10.07.2007 (version entrée en vigueur le 01.07.2007)
+du 10.07.2007 (version entrée en vigueur le 01.07.2019)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 23 juin 2006 sur l'Institut agricole de l'Etat de Fribourg (LIAG);
 Vu la loi du 3 octobre 2006 sur l'agriculture (LAgri);
