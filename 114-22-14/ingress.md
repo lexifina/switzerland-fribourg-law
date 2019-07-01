@@ -1,7 +1,7 @@
 # Ordonnance relative à la lutte contre la traite des êtres humains
-du 18.12.2007 (version entrée en vigueur le 01.01.2011)
+du 18.12.2007 (version entrée en vigueur le 01.07.2019)
 Le Conseil d'Etat du canton de Fribourg
-Vu l'article 30 al. 1 let. e de la loi fédérale du 16 décembre 2005 sur les étrangers;
+Vu l'article 30 al. 1 let. e de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI);
 Vu les articles 35 et 36 de l'ordonnance fédérale du 24 octobre 2007 relative à l'admission, au séjour et à l'exercice d'une activité lucrative;
 Considérant:
 Selon les constatations faites par la Confédération, la traite des êtres humains est un fléau qui prend de l'ampleur en Suisse. Le Département fédéral de justice et police a, en 2002, institué le Service de coordination contre la traite d'êtres humains et le trafic de migrants (SCOTT) pour lutter contre ce phénomène.
