@@ -1,6 +1,6 @@
 Conditions d'estivage – O
 # Ordonnance DIAF sur les conditions d'estivage
-du 24.02.2016 (version entrée en vigueur le 01.04.2016)
+du 24.02.2016 (version entrée en vigueur le 01.07.2019)
 La Direction des institutions, de l'agriculture et des forêts
 Vu la loi fédérale du 1er juillet 1966 sur les épizooties et les ordonnances y relatives;
 Vu la loi du 13 février 2003 sur l'assurance des animaux de rente et son ordonnance d'exécution du 3 novembre 2003;
