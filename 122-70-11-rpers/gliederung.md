@@ -13,6 +13,7 @@
 ### 5.6 Congés
 ### 5.7 Charge publique (art. 119 LPers)
 ### 5.8 Années de service (art. 47 al. 4 LPers)
+### 5.9 Grève (art. 68 et 68a LPers)
 ## 6 Protection sociale
 ### 6.1 Maladie ou accident (art. 108 et 109 LPers)
 ### 6.2 Grossesse et maternité (art. 112 à 116 LPers)

@@ -1,0 +1,4 @@
+# Art. 75a Grève (art. 68 LPers) – Annonce
+1 Les collaborateurs et collaboratrices en grève s'annoncent à leur supérieur‑e hiérarchique ou à leur chef ou cheffe de service au plus tard dans un délai, en principe, de quarante-huit heures après la fin de la grève. Reste réservée l'annonce préalable selon l'article 75c.
+2 Les établissements et les unités administratives établissent, sous la responsabilité du directeur ou de la directrice d'établissement, ou du chef ou de la cheffe de service, une liste complète des personnes en grève et la durée de l'arrêt de travail. Ils l'adressent sans délai à la Direction concernée qui les transmet au Service du personnel et d'organisation et à l'entité de gestion.
+3 Les collaborateurs et collaboratrices qui ne s'annoncent pas et qui sont absents sans motifs violent leurs devoirs de service (art. 56 LPers).
