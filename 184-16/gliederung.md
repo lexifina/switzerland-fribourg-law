@@ -1,0 +1,5 @@
+## A1 ANNEXE 1 – Gouvernance (art. 4)
+## A2 ANNEXE 2 – Organisation (art. 5)
+## A3 ANNEXE 3 – Prétraitements de données (art. 6)
+## A4 ANNEXE 4 – Accès aux données du Référentiel cantonal et utilisation (art. 8)
+## A5 ANNEXE 5 – Sécurité, protection des données et surveillance (art. 10)
