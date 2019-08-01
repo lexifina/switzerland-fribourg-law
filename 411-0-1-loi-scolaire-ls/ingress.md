@@ -1,7 +1,7 @@
 Scolarité obligatoire - L
 # Loi sur la scolarité obligatoire
 (loi scolaire, LS)
-du 09.09.2014 (version entrée en vigueur le 01.01.2019)
+du 09.09.2014 (version entrée en vigueur le 01.08.2019)
 Le Grand Conseil du canton de Fribourg
 Vu l'Accord intercantonal du 14 juin 2007 sur l'harmonisation de la scolarité obligatoire (HarmoS);
 Vu la Convention scolaire romande du 21 juin 2007;

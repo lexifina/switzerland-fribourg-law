@@ -1,7 +1,7 @@
 Pédagogie spécialisée – L
 # Loi sur la pédagogie spécialisée
 (LPS)
-du 11.10.2017 (version entrée en vigueur le 01.08.2018)
+du 11.10.2017 (version entrée en vigueur le 01.08.2019)
 Le Grand Conseil du canton de Fribourg
 Vu l'accord intercantonal du 25 octobre 2007 sur la collaboration dans le domaine de la pédagogie spécialisée;
 Vu l'article 64 de la Constitution du canton de Fribourg du 16 mai 2004;
