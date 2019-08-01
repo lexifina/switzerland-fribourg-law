@@ -1,0 +1,3 @@
+# Art. 39a Absences répétées ou de longue durée
+1 Lorsque les absences d'un ou d'une élève, indépendamment du motif, sont si nombreuses qu'elles ne permettent pas de considérer qu'il ou elle a fréquenté régulièrement les cours, en particulier lorsque l'absence a duré plus de soixante jours d'école consécutifs ou non consécutifs, la direction d'établissement peut, après avoir pris l'avis des enseignants et enseignantes concernés, décider de ne pas valider l'année scolaire, laquelle n'est pas comptabilisée.
+2 Cette mesure ne peut être décidée qu'une seule fois au cours de la scolarité obligatoire.
