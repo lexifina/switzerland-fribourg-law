@@ -1,14 +1,14 @@
 ## 1 Dispositions générales
-## 2 Structure de l'enseignement
+## 2 Voies de formation
 ## 3 Fonctionnement général de l'école
 ## 4 Parents et élèves
 ### 4.1 Parents
 ### 4.2 Elèves
-## 5 Professeurs
+## 5 Enseignants et enseignantes
 ## 6 Organisation des écoles
 ## 7 Financement des écoles
-## 8 Enseignement privé
-## 9 Services auxiliaires
+## 8 Ecoles privées
+## 9 Services de conseil
 ## 10 Voies de droit
-## 11 Autorités scolaires cantonales
+## 11 Autorités cantonales
 ## 12 Dispositions finales
