@@ -12,4 +12,5 @@
 ### 2.6 Bourse d'encouragement à la création littéraire
 ### 2.7 Prix culturel de l'Etat de Fribourg
 ### 2.8 Animation artistique des bâtiments
+### 2.9 Programme «sports-arts-formation»
 ## 3 Dispositions finales
