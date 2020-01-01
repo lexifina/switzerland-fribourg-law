@@ -1,4 +1,0 @@
-# Art. 21b Mise en œuvre
-1 A la demande du Service, les entreprises d'approvisionnement en énergie de réseau opérant sur le territoire cantonal sont tenues de fournir la liste de leurs clients qui sont de gros consommateurs, comprenant le nom et le prénom, ou la raison sociale, ainsi que l'adresse complète. Le Service de l'environnement fournit d'office au Service les données concernant les installations de production de chaleur pouvant produire 5 GWh et plus par année.
-2 Les mesures à prendre par les gros consommateurs font l'objet d'une convention d'objectifs soumise à l'approbation du Service. Celui-ci peut résilier la convention par voie de décision si les objectifs de consommation ne sont plus atteints.
-3 Les gros consommateurs peuvent se réunir au sein d'un groupe. Ils s'organisent eux-mêmes et règlent les conditions d'admission et d'exclusion de leurs membres.

@@ -1,10 +1,12 @@
 Energie – R
 # Règlement sur l'énergie
 (REn)
-du 05.03.2001 (version entrée en vigueur le 01.01.2017)
+du 05.11.2019 (version entrée en vigueur le 01.01.2020)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi fédérale du 26 juin 1998 sur l'énergie (LEne) et son ordonnance du 7 décembre 1998 (OEne);
-Vu la loi du 9 juin 2000 sur l'énergie;
-Sur la proposition de la Direction de l'économie, des transports et de l'énergie,
+Vu la loi fédérale du 30 septembre 2016 sur l'énergie (LEne);
+Vu l'ordonnance fédérale du 1er novembre 2017 sur l'énergie (OEne);
+Vu l'ordonnance fédérale du 1er novembre 2017 sur les exigences relatives à l'efficacité énergétique d'installations, de véhicules et d'appareils fabriqués en série (Ordonnance sur les exigences relatives à l'efficacité énergétique, OEEE);
+Vu la loi du 9 juin 2000 sur l'énergie (LEn);
+Sur la proposition de la Direction de l'économie et de l'emploi,
 Arrête:
 1 Dispositions générales

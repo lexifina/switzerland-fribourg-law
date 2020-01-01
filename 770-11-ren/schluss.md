@@ -1,2 +1,0 @@
-ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS
-Annexe 1: Epaisseur de l’isolation thermique des chauffe-eau, des accumulateurs d’eau chaude sanitaire et de chaleurs (art. 11 al. 1) Annexe 2: Epaisseur de l’isolation thermique des conduites de chauffage et d’eau chaude sanitaire (art. 13 al. 1) Annexe 3: Coefficient de transmission de chaleur pour les conduites enterrées en W/mK (art. 13 al. 4) Annexe 4: Epaisseur de l’isolation pour les canaux d’aération, les tuyaux et les appareils d’aération et de climatisation (art. 15a al. 1)
