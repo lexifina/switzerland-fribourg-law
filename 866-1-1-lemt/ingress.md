@@ -1,7 +1,7 @@
 Emploi et marché du travail – L
 # Loi sur l'emploi et le marché du travail
 (LEMT)
-du 06.10.2010 (version entrée en vigueur le 01.01.2011)
+du 06.10.2010 (version entrée en vigueur le 01.01.2020)
 Le Grand Conseil du canton de Fribourg
 Vu la loi fédérale du 6 octobre 1989 sur le service de l'emploi et la location de services (LSE);
 Vu la loi fédérale du 25 juin 1982 sur l'assurance-chômage obligatoire et l'indemnité en cas d'insolvabilité (LACI);
