@@ -1,7 +1,7 @@
 Aide sociale – L
 # Loi sur l'aide sociale
 (LASoc)
-du 14.11.1991 (version entrée en vigueur le 01.01.2013)
+du 14.11.1991 (version entrée en vigueur le 01.01.2020)
 Le Grand Conseil du canton de Fribourg
 Vu l'article 48 de la Constitution fédérale;
 Vu la loi fédérale du 24 juin 1977 sur la compétence en matière d'assistance des personnes dans le besoin;
