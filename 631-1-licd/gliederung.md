@@ -33,7 +33,7 @@
 #### 4.3.1 Objet de l'impôt
 #### 4.3.2 Calcul de l'impôt
 ### 4.4 Impôt minimal
-### 4.5 Impôts des holdings et des sociétés de domicile
+### 4.5 …
 ### 4.6 Imposition dans le temps
 ## 5 Procédure
 ### 5.1 Autorités fiscales

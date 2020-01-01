@@ -1,0 +1,3 @@
+# Art. 248e Disposition transitoire relative à la modification du 13 décembre 2018
+1 Pour les personnes morales qui ont été imposées sur la base des articles 127 et 128 de l'ancien droit, les réserves latentes existant à la fin de cette imposition, y compris la plus-value créée par le contribuable lui-même, doivent, lors de leur réalisation, être imposées séparément dans les cinq ans qui suivent, dans la mesure où elles n'ont pas été imposables jusqu'alors. Elles sont imposées au taux de 4 %.
+2 Le montant des réserves latentes que le contribuable fait valoir, y compris la plus-value créée par le contribuable lui-même, est fixé par une décision de l'autorité de taxation.
