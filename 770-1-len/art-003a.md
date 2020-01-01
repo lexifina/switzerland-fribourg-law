@@ -1,0 +1,5 @@
+# Art. 3a Intérêt cantonal à l'utilisation des énergies renouvelables indigènes
+1 L'utilisation des énergies renouvelables indigènes et leur développement revêtent un intérêt cantonal.
+2 Lorsqu'une autorité doit statuer sur l'autorisation d'un projet de construction, d'agrandissement ou de rénovation, ou sur l'octroi d'une concession portant sur une installation valorisant les énergies renouvelables indigènes, l'intérêt cantonal attaché à la réalisation de ces projets doit être considéré comme équivalant aux autres intérêts cantonaux lors de la pesée des intérêts.
+3 Le Conseil d'Etat fixe la taille et l'importance requise pour les installations de chauffage et de production d'électricité au bénéfice de l'intérêt cantonal. Pour ce faire, il tient compte de critères tels que la ressource valorisée, la puissance, la production ou la flexibilité de production dans le temps et en fonction des besoins du marché.
+4 L'intérêt public des installations hydroélectriques et des éoliennes est régi uniquement par le droit fédéral.
