@@ -1,15 +1,23 @@
 ## 1 Dispositions générales
-## 2 Organisation et fonctionnement
-## 3 Parents et élèves
-### 3.1 Parents
-### 3.2 Elèves
-## 4 Maîtres et services auxiliaires
-### 4.1 Maîtres
-### 4.2 Services auxiliaires
-## 5 Autorités scolaire cantonales
-## 6 Voies de droit
-### 6.1 Procédure de réclamation contre les décisions des maîtres ou de l'organe directeur d'une institution (art. 36 al. 3 LES)
-### 6.2 Indication des voix de droit
-### 6.3 Décisions concernant l'organisation et le fonctionnement des écoles et de l'enseignement (art. 41 LES)
-### 6.4 Plainte des parents (art. 40 LES)
-## 7 Dispositions finales
+### 1.1 Objets et principes de base
+### 1.2 Offre de pédagogie spécialisée et transports scolaires
+#### 1.2.1 Généralités (art. 5 à 8 LPS)
+#### 1.2.2 Période préscolaire (art. 5 LPS)
+#### 1.2.3 Période scolaire
+##### 1.2.3.1 Généralités
+##### 1.2.3.2 Au sein de l'école ordinaire (art. 6 al. 2 LPS )
+##### 1.2.3.3 Au sein des institutions de pédagogie spécialisée (art. 6 al. 3 LPS)
+#### 1.2.4 Période postscolaire (art. 7 LPS)
+### 1.3 Autorités
+### 1.4 Personnel de la pédagogie spécialisée
+### 1.5 Protection des données et du domaine privé
+## 2 Organisation de l'offre en matière de pédagogie spécialisée
+### 2.1 Prestataires de services
+### 2.2 Institutions de pédagogie spécialisée et contrats de prestations
+## 3 Accès à l'offre en matière de pédagogie spécialisée
+### 3.1 Période préscolaire (art. 27 LPS)
+### 3.2 Période scolaire (art. 28ss LPS)
+### 3.3 Période postscolaire (art. 36 LPS)
+## 4 Financement de l'offre en matière de pédagogie spécialisée
+## 5 Voies de droit
+## 6 Dispositions transitoires
