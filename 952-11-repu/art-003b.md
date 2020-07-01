@@ -1,2 +1,2 @@
-# Art. 3b Restaurant de nuit (patente F)
-1 Le restaurant de nuit est un établissement avec alcool qui doit répondre à des exigences particulières fixées de cas en cas et relatives notamment à son emplacement, à sa capacité d'accueil et à la réputation de son exploitant.
+# Art. 3b Etablissement de restauration permanente (patente F)
+1 L'établissement de restauration permanente doit offrir des prestations sous forme de mets et de boissons tant en vue d'une consommation sur place qu'au travers d'un concept de vente à emporter.
