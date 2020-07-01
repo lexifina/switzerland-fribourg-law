@@ -1,0 +1,4 @@
+# Art. 77a Mise en œuvre du nouveau droit sur les finances communales
+1 Les communes, les établissements communaux personnalisés, les associations de communes, les agglomérations et les bourgeoisies (ci-après: les collectivités publiques locales) peuvent choisir de mettre en œuvre le nouveau droit prévu par la loi du 22 mars 2018 sur les finances communales (LFCo) et son ordonnance du 14 octobre 2019 (OFCo) pour l'année 2021 ou pour l'année 2022.
+2 Les collectivités publiques locales qui choisissent une mise en œuvre pour l'année 2021 élaborent et adoptent leur budget 2021 conformément aux règles applicables au nouveau droit et se dotent de leur propre réglementation des finances de manière que celle-ci puisse entrer en vigueur le 1er janvier 2021.
+3 Les collectivités publiques locales communiquent leur choix au Service jusqu'au 30 septembre 2020 au plus tard.
