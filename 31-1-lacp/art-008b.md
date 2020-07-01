@@ -1,0 +1,5 @@
+# Art. 8b Programme de prévention de la violence
+1 Le Conseil d'Etat assure l'existence d'un programme de prévention de la violence au sens de l'article 55a al. 2 du code pénal.
+2 La mise en œuvre de ce programme de prévention de la violence peut être confiée à un organisme de prise en charge des auteur‑e‑s de violence reconnu dans le canton de Fribourg.
+3 L'organisme qui assure cette mise en œuvre bénéficie de contributions non remboursables de l'Etat, conformément à la loi sur les subventions. Celles-ci sont accordées pour le programme de prévention de la violence lui-même ainsi que pour soutenir les autres prestations offertes par l'organisme, à la condition que leur utilité en matière de prévention de la violence soit démontrée.
+4 La prise en charge des prestations offertes dans le cadre du programme de prévention de la violence est réglée conformément aux articles 423 et 426 du code de procédure pénale. Le Conseil d'Etat édicte un tarif sur le montant de la participation des personnes astreintes.
