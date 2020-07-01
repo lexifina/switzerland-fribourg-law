@@ -7,6 +7,7 @@
 ### 3.3 Collaborateurs civils
 ## 4 Activité de la police
 ### 4.1 Principes généraux
+### 4.1a Gestion des menaces
 ### 4.2 Mesures de police et contrainte
 ## 4a Traitement des données de police
 ## 5 Dispositions diverses

@@ -1,5 +1,5 @@
 # Art. 33b Recherches préventives secrètes
-1 Afin d'empêcher la commission de crimes ou de délits, la Police cantonale peut, par décision d'un officier de police judiciaire, mener des recherches préventives secrètes si:
+1 Afin d'empêcher la commission de crimes ou de délits, la Police cantonale peut, par décision d'un officier de service, mener des recherches préventives secrètes si:
 a) elle dispose d'indices sérieux laissant présumer qu'un crime ou un délit pourrait être commis et que
 b) d'autres mesures de recherche d'informations paraissent vouées à l'échec ou sont excessivement difficiles.
 2 La poursuite de recherches préventives secrètes au-delà d'un mois est soumise à l'approbation du Ministère public.

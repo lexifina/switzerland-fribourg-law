@@ -1,0 +1,2 @@
+# Art. 33d Surveillance discrète ou contrôle ciblé
+1 La Police cantonale peut, aux conditions fixées par l'ordonnance fédérale du 8 mars 2013 sur la partie nationale du Système d'information Schengen (ordonnance N-SIS) et sur le bureau SIRENE, signaler dans le système d'information Schengen (SIS), aux fins de surveillance discrète ou de contrôle ciblé, des personnes, des véhicules, des embarcations, des aéronefs et des conteneurs.

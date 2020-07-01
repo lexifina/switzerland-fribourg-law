@@ -1,9 +1,9 @@
-# Art. 31c Localisation d'une personne portée disparue
-1 En dehors de la poursuite d'actes punissables, une surveillance de la correspondance par télécommunication limitée à l'identification des usagers et aux données relatives au trafic peut être ordonnée pour retrouver une personne disparue.
-2 Est réputée disparue toute personne pour laquelle la police a constaté qu'il était impossible de la localiser, lorsque des indices sérieux donnent lieu de penser que la santé ou la vie de cette personne sont gravement menacées.
-3 La Police cantonale est compétente, par un officier de police judiciaire, pour ordonner la surveillance de la correspondance par télécommunication pour retrouver une personne disparue.
-4 L'ordre de surveillance est transmis dans les vingt-quatre heures, pour autorisation, au président de la Chambre pénale du Tribunal cantonal, qui examine si la mesure portant atteinte à la personnalité est justifiée.
-5 Le président de la Chambre pénale statue dans les cinq jours à compter du moment où la surveillance a été ordonnée en indiquant brièvement les motifs. Il peut autoriser la surveillance à titre provisoire, demander que le dossier soit complété ou que d'autres éclaircissements soient apportés et exiger des mesures supplémentaires de protection de la personnalité.
-6 L'autorisation est limitée à trois mois au plus et peut être assortie de charges.
-7 Le président de la Chambre pénale communique immédiatement sa décision au service fédéral chargé de la surveillance de la correspondance par poste et télécommunication.
-8 Les frais de la surveillance sont mis à la charge des personnes qui ont provoqué la mesure. En cas de décès, ces frais sont supportés par les héritiers. Les dispositions réglementaires concernant les émoluments de la Police cantonale s'appliquent pour le surplus.
+# Art. 31c Recherche en cas d'urgence et recherche de personnes condamnées
+1 L'autorité compétente au sens des articles 35 et 36 de la loi fédérale du 18 mars 2016 sur la surveillance de la correspondance par poste et télécommunication (LSCPT) est la Police cantonale, agissant par l'intermédiaire d'un officier de service.
+2 L'ordre de surveillance est transmis dans les vingt-quatre heures, pour autorisation, au Tribunal des mesures de contrainte (art. 18 al. 1 CPP).
+3 Le Tribunal des mesures de contrainte statue dans les cinq jours à compter du moment où la surveillance a été ordonnée en indiquant brièvement les motifs. Il peut autoriser la surveillance à titre provisoire et demander que le dossier soit complété ou que d'autres éclaircissements soient apportés.
+4 Les frais de la surveillance sont mis à la charge des personnes qui ont provoqué la mesure. En cas de décès, ces frais sont supportés par les héritiers. Les dispositions réglementaires concernant les émoluments de la Police cantonale s'appliquent pour le surplus.
+5 Les personnes dont la correspondance par poste ou par télécommunication a été surveillée ou celles qui ont utilisé l'adresse postale ou le service de télécommunication surveillé peuvent interjeter recours, dans le délai de dix jours dès la réception de la communication, auprès de la Chambre pénale du Tribunal cantonal. L'article 37 LSCPT est réservé.
+6 …
+7 …
+8 …

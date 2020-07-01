@@ -1,0 +1,5 @@
+# Art. 38h Communication de données dans le cadre de la gestion des menaces
+1 Dans le cadre de la gestion des menaces, la Police cantonale peut communiquer des données personnelles et sensibles relatives à des personnes à risques aux personnes menacées (victimes potentielles), lorsque la communication est nécessaire et appropriée pour écarter un danger sérieux.
+2 La Police cantonale peut communiquer des données personnelles et sensibles relatives à des personnes à risques aux partenaires du réseau d'annonce au sens de l'article 30i, lorsque la communication est nécessaire et appropriée à la gestion du cas.
+3 Dans le cadre de leur activité d'intervention, les policiers ainsi que le personnel du Centre d'engagement et d'alarmes disposent des renseignements relatifs à la personne à risques nécessaires à l'accomplissement de leurs tâches.
+4 La personne à risques peut être informée de la communication des données faite conformément à l'alinéa 1. La communication de données la concernant est différée ou refusée en présence d'intérêts publics et privés prépondérants.
