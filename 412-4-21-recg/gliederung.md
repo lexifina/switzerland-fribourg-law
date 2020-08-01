@@ -7,3 +7,4 @@
 ## 7 Vente de marchandises et publications
 ## 8 Voies de droit
 ## 9 Dispositions finales
+## A1 ANNEXE 1 – Disciplines déterminantes pour la promotion (art. 11)
