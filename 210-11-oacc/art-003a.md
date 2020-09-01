@@ -1,0 +1,3 @@
+# Art. 3a Procédure en cas d'expulsion immédiate du logement commun (art. 6 al. 6 LACC)
+1 La Police cantonale notifie à l'auteur‑e de violence expulsé‑e qu'il ou elle a l'obligation de participer à trois entretiens auprès d'un organisme reconnu de prise en charge des auteur‑e‑s de violence domestique et lui transmet les coordonnées de l'organisme actif dans le canton de Fribourg. La Police cantonale transmet les données personnelles utiles de l'auteur‑e à l'organisme.
+2 Si, pendant une période d'une année, plusieurs expulsions de domicile sont prononcées contre une même personne, celle-ci est astreinte à suivre une seule fois les trois entretiens obligatoires.
