@@ -1,0 +1,2 @@
+# Art. 69a Prestation de serment (art. 79a LFCN)
+1 Outre les chef‑fe‑s d'arrondissement forestier, les ingénieurs forestiers adjoints et ingénieures forestières adjointes d'arrondissement, les forestiers adjoints et forestières adjointes, les forestiers et forestières de triage, les collaborateurs et collaboratrices scientifiques désignés par le ou la chef‑fe de service prêtent serment ou font la promesse solennelle devant le préfet du lieu de leur activité principale.
