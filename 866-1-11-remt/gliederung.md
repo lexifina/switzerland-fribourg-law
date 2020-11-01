@@ -9,5 +9,5 @@
 ## 3 Mesures cantonales
 ## 4 Dispositions diverses
 ## 5 Dispositions finales
-## A1 ANNEXE 1 – Salaires des personnes participant aux programmes de qualification auprès d'associations ou de collectivités publiques (art. 32 al. 2)
+## A1 ANNEXE 1 – Salaires des personnes participant aux programmes d'emploi auprès de collectivités publiques (art. 32a al. 2)
 ## A2 ANNEXE 2 – Montant des subventions au paiement des primes d'assurance perte de gain en cas de maladie (art. 35)
