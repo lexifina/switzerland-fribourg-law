@@ -5,3 +5,4 @@
 ## 5 Modification d'un nom de commune indépendamment d'une fusion
 ## 6 Service compétent
 ## 7 Dispositions finales
+## A1 ANNEXE 1 – Liste historisée des communes (art. 1 al. 1 let. c)
