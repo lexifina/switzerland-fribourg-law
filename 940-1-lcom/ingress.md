@@ -1,7 +1,7 @@
 Exercice du commerce – L
 # Loi sur l'exercice du commerce
 (LCom)
-du 25.09.1997 (version entrée en vigueur le 01.01.2014)
+du 25.09.1997 (version entrée en vigueur le 01.01.2021)
 Le Grand Conseil du canton de Fribourg
 Vu les articles 31 et 32quater de la Constitution fédérale;
 Vu les articles 13 et 14 de la loi fédérale du 9 juin 1977 sur la métrologie;
