@@ -1,6 +1,6 @@
 Fonds cantonal de l'action sociale – O
 # Ordonnance concernant la création d'un Fonds cantonal de l'action sociale
-du 05.12.2006 (version entrée en vigueur le 01.05.2010)
+du 05.12.2006 (version entrée en vigueur le 01.01.2021)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 11 al. 4 de la loi du 14 décembre 2000 sur les loteries;
 Vu l'ordonnance du 6 octobre 2003 relative à la constitution du Fonds des taxes sur les loteries;
