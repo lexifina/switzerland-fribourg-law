@@ -1,1 +1,1 @@
-## A1 ANNEXE 1 – Péréquation des ressources et des besoins pour l'année 2020 (art. 1, 3, 4 et 6)
+## A1 ANNEXE 1 – Péréquation des ressources et des besoins pour l'année 2021 (art. 1, 3, 4 et 6)
