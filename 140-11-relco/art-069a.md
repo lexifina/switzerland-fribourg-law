@@ -1,3 +1,1 @@
-# Art. 69a Associations de communes – Finances
-1 Les articles 43a, 43b, 46, 54, 57 ainsi que 60a à 60d sont applicables par analogie aux associations de communes.
-2 Chaque association détermine les conditions de retrait d'avoirs bancaires et, le cas échéant, de remboursement de placements. Dans tous les cas, l'ordre de retrait ou de remboursement doit porter la signature d'un membre du comité de direction et d'un collaborateur de l'administration; pour des montants de minime importance, dont le seuil est fixé par le comité de direction, la double signature peut être le fait de deux collaborateurs de l'administration. Il est interdit d'établir des ordres en blanc.
+# Art. 69a …
