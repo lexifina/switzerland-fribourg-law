@@ -1,5 +1,5 @@
-# Ordonnance concernant la fixation de la part cantonale aux coûts des prestations de soins aigus et de transition
-du 25.03.2019 (version entrée en vigueur le 01.01.2020)
+# Ordonnance fixant la part cantonale aux coûts des prestations de soins aigus et de transition pour l'année 2021
+du 23.03.2020 (version entrée en vigueur le 01.01.2021)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 8 al. 1 de la loi du 9 décembre 2010 d'application de la loi fédérale sur le nouveau régime de financement des soins;
 Sur la proposition de la Direction de la santé et des affaires sociales,
