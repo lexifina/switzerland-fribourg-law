@@ -1,5 +1,5 @@
 # Art. 107bis Conférence régionale
-1 La conférence régionale a pour but de coordonner les activités de plusieurs communes dans un domaine déterminé. A cet effet, elle peut notamment favoriser la conclusion d'une entente intercommunale, préparer la constitution d'une association de communes ou d'une agglomération ou harmoniser les réglementations communales.
+1 La conférence régionale a pour but de coordonner les activités de plusieurs communes dans un domaine déterminé. A cet effet, elle peut notamment favoriser la conclusion d'une entente intercommunale, préparer la constitution d'une association de communes ou harmoniser les réglementations communales.
 2 A la requête d'au moins deux communes ou de sa propre initiative, le préfet réunit les communes concernées en une conférence régionale dont il détermine le périmètre; si la conférence englobe des communes de plusieurs districts, les préfets concernés se concertent.
 3 La conférence régionale peut prendre les décisions suivantes:
 a) attribuer des mandats d'étude ou créer des groupes de travail;
