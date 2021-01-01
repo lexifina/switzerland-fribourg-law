@@ -1,6 +1,1 @@
-# Art. 98f Organe de révision – Avis obligatoires
-1 Si l'organe de révision constate des violations de la loi, il en avertit immédiatement le conseil communal.
-2 L'organe de révision informe immédiatement le Service des communes:
-a) s'il constate des violations graves de la loi, et
-b) si le conseil communal ne prend pas des mesures adéquates à la suite de l'avertissement de l'organe de révision.
-3 Le Service des communes informe immédiatement le préfet.
+# Art. 98f …

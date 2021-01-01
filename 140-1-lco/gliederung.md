@@ -9,7 +9,7 @@
 ## 5 Affaires bourgeoisiales
 ## 6 Collaboration intercommunale
 ## 7 Fusion de communes
-## 8 Haute surveillance des communes et des associations de communes
+## 8 Haute surveillance des communes et des autres corporations de droit public communal
 ### 8.1 Dispositions générales
 ### 8.2 Mesures en cas d'irrégularités
 ## 9 Voies de droit

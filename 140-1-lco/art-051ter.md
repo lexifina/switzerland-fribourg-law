@@ -1,6 +1,6 @@
 # Art. 51ter Droit d'initiative
-1 Dans les communes qui ont un conseil général, le dixième des citoyens actifs peuvent présenter une initiative concernant:
-a) une dépense qui ne peut être couverte en un seul exercice ou un cautionnement pouvant entraîner une telle dépense;
+1 Dans les communes qui ont un conseil général, le dixième des citoyens actifs peut présenter une initiative concernant:
+a) une dépense supérieure au montant fixé pour le referendum facultatif ou une garantie pouvant entraîner une telle dépense;
 b) un règlement de portée générale;
 c) la constitution d'une association de communes ou l'adhésion à une telle association;
 d) …
