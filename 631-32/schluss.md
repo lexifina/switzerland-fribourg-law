@@ -1,2 +1,2 @@
 ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS
-Annexe 1: Barèmes (art. 24)
+Annexe 1: Barèmes (art. 1 al. 2)
