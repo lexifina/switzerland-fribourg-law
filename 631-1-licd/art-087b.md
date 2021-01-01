@@ -1,0 +1,2 @@
+# Art. 87b Taxation ordinaire ultérieure d'office
+1 Aux conditions définies par le Département fédéral des finances, en cas de situation posant manifestement des problèmes, notamment en ce qui concerne les déductions forfaitaires calculées dans le taux d'imposition à la source, le Service cantonal des contributions peut demander d'office une taxation ordinaire ultérieure en faveur ou en défaveur du contribuable.

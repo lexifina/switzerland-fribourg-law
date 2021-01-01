@@ -1,0 +1,3 @@
+# Art. 170a Obligation d'être représenté
+1 Les autorités fiscales peuvent exiger que le contribuable qui a son domicile ou son siège à l'étranger désigne un représentant en Suisse.
+2 Les personnes qui demandent une taxation ordinaire ultérieure en application de l'article 87a doivent fournir les documents requis et indiquer une adresse de notification en Suisse. A défaut d'une telle adresse ou si l'adresse indiquée perd sa validité pendant la procédure de taxation, l'autorité compétente impartit au contribuable un délai approprié pour l'indication d'une nouvelle adresse de notification. Si ce délai échoit sans avoir été utilisé, l'impôt à la source se substitue à l'impôt sur le revenu de l'activité lucrative perçu selon la procédure ordinaire.

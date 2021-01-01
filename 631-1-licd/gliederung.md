@@ -23,7 +23,7 @@
 #### 2.5.4 Taux d'imposition et taxation des gains immobiliers
 ## 3 Imposition à la source des personnes physiques et morales
 ### 3.1 Personnes physiques domiciliées ou en séjour dans le canton au regard du droit fiscal
-### 3.2 Personnes physiques et morales qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal
+### 3.2 Personnes physiques qui ne sont ni domiciliées ni en séjour en Suisse au regard du droit fiscal et personnes morales qui n'ont ni leur siège ni leur administration effective en Suisse
 ## 4 Imposition des personnes morales
 ### 4.1 Assujettissement à l'impôt sur le bénéfice et sur le capital et à l'impôt minimal
 ### 4.2 Impôt sur le bénéfice
