@@ -1,7 +1,7 @@
 Grand Conseil – L
 # Loi sur le Grand Conseil
 (LGC)
-du 06.09.2006 (version entrée en vigueur le 01.01.2020)
+du 06.09.2006 (version entrée en vigueur le 01.01.2021)
 Le Grand Conseil du canton de Fribourg
 Vu la Constitution du canton de Fribourg du 16 mai 2004 (ci-après: Cst.), notamment ses articles 85 et suivants;
 Vu le rapport du Bureau du Grand Conseil du 15 mai 2006;
