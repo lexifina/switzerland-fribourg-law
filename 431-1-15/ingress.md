@@ -1,6 +1,6 @@
 Université, bachelor en sciences du sport et de la motricité – O
-# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2020/21
-du 19.05.2020 (version entrée en vigueur le 19.05.2020)
+# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2021/22
+du 23.02.2021 (version entrée en vigueur le 23.02.2021)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
 Considérant:
