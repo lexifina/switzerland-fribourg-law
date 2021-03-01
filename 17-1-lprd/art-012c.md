@@ -1,0 +1,14 @@
+# Art. 12c Externalisation – Responsabilités
+1 L'organe public qui procède à une externalisation demeure responsable de la protection des données personnelles, en particulier de leur confidentialité ainsi que de la pérennité de leur conservation et de leur exploitation. En particulier:
+a) il prend les précautions commandées par les circonstances quant au choix du sous-traitant, à son instruction et à sa surveillance;
+b) il assure la protection et la sécurité des données et de ses propres systèmes d'information par la conclusion d'un contrat qui décrit au minimum:
+1. l'objet, la nature, la finalité et la durée de l'externalisation;
+2. les catégories de données concernées;
+3. les obligations et les droits de chaque partie;
+4. les droits et possibilités de contrôle de l'autorité de surveillance en matière de protection des données;
+5. l'interdiction faite au sous-traitant de sous-traiter à son tour un traitement sans l'autorisation préalable du responsable du fichier;
+6. le devoir du sous-traitant d'informer immédiatement le responsable du fichier lorsque, en vertu d'une loi étrangère ou d'une décision de justice, il est tenu de communiquer des données à une autorité étrangère ou risque de devoir le faire;
+c) il ne confie pas au sous-traitant des traitements qu'il ne serait pas en droit d'effectuer lui-même;
+d) il veille à ce que les données et les outils informatiques concernés par une externalisation puissent être récupérés en tout temps, notamment dans le but de changer de sous-traitant, de procéder à leur réinternalisation ou de les verser aux archives historiques.
+2 Lorsque l'externalisation concerne plusieurs organes différents au sein d'une même collectivité publique, un organe principalement responsable est désigné.
+3 Au sein de l'administration cantonale, la responsabilité de la mise en œuvre et du suivi des règles de la présente section est assumée conjointement par l'organe compétent à raison de la matière et par le service en charge de l'informatique. Sont réservés les cas dans lesquels l'organe compétent à raison de la matière gère de manière autonome ses systèmes informatiques.
