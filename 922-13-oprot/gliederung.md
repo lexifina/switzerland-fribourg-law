@@ -11,3 +11,10 @@
 ## 6 Information, formation et recherche
 ## 7 Dispositions pénales
 ## 8 Dispositions finales
+## A1 ANNEXE 1 – Territoires protégés (art. 29)
+## A1-1 Districts francs fédéraux
+## A1-2 Réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale
+## A1-3 Réserves cantonales de faune en montagne
+## A1-4 Réserves cantonales de faune en plaine
+## A1-5 Réserves ornithologiques
+## A1-6 Réserves partielles
