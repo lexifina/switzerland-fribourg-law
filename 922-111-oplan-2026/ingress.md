@@ -1,7 +1,7 @@
-Planification de la chasse pour la saison 2020 – O
-# Ordonnance DIAF concernant la planification de la chasse pour la saison 2020
-(OPlan 2020)
-du 26.06.2020 (version entrée en vigueur le 01.07.2020)
+Planification de la chasse pour la saison 2021 – O
+# Ordonnance DIAF concernant la planification de la chasse pour la saison 2021
+(OPlan 2021)
+du 25.06.2021 (version entrée en vigueur le 01.07.2021)
 La Direction des institutions, de l'agriculture et des forêts
 Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP) ainsi que son ordonnance du 29 février 1988 (Ordonnance sur la chasse, OChP);
 Vu l'ordonnance fédérale du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale (OROEM);
