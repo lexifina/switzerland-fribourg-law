@@ -3,7 +3,7 @@
 ### 1.2 Conseil d'Etat
 ## 2 Finances
 ### 2.1 Généralités
-### 2.2 Taux de la contribution à la prévention
+### 2.2 Taux de la contribution à la prévention, à la défense incendie et aux secours
 ### 2.3 Financement de la prévention et de la lutte contre les dommages
 ## 3 Prévention
 ### 3.1 Généralités
