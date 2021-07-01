@@ -6,7 +6,7 @@
 ### 3.3 Assurance en responsabilité civile
 ### 3.4 Obtention du permis de chasse
 ### 3.5 Genres de permis
-### 3.6 Exercice obligatoire de tir
+### 3.6 Epreuve obligatoire de tir
 ### 3.7 Obligations financières
 ## 4 Exercice de la chasse
 ### 4.1 Restrictions
