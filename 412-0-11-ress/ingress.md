@@ -1,10 +1,7 @@
 Enseignement secondaire supérieur – R
 # Règlement sur l'enseignement secondaire supérieur
 (RESS)
-du 27.06.1995 (version entrée en vigueur le 01.01.2014)
+du 26.05.2021 (version entrée en vigueur le 01.08.2021)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
-Considérant:
-...
-Sur la proposition de la Direction de l'instruction publique et des affaires culturelles,
+Vu la loi du 11 décembre 2018 sur l'enseignement secondaire supérieur (LESS);
 Arrête:
