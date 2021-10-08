@@ -1,2 +1,1 @@
-## A1 …
-## A2 ANNEXE 2 – Rémunération des frais de contrôle (art. 9 al. 2)
+## 1 ANNEXE 1 – Rémunération des frais de contrôle (art. 18 al. 2)
