@@ -1,5 +1,5 @@
 # Ordonnance fixant le taux des cotisations dues à la Caisse cantonale de compensation pour allocations familiales
-du 05.12.2016 (version entrée en vigueur le 01.01.2021)
+du 05.12.2016 (version entrée en vigueur le 01.01.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 26 septembre 1990 sur les allocations familiales;
 Vu le règlement du 18 février 1991 d'exécution de ladite loi;
