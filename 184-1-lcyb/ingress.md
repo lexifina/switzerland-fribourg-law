@@ -1,7 +1,7 @@
 Cyberadministration – L
 # Loi sur la cyberadministration
 (LCyb)
-du 18.12.2020 (version entrée en vigueur le 01.03.2021)
+du 18.12.2020 (version entrée en vigueur le 01.01.2022)
 Le Grand Conseil du canton de Fribourg
 Vu le message 2016-CE-41 du Conseil d'Etat du 30 août 2016;
 Vu le message 2019-CE-239 du Conseil d'Etat du 21 avril 2020;
