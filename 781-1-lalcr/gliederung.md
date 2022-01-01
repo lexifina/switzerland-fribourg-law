@@ -3,5 +3,5 @@
 ## 3 Attributions des communes
 ## 4 Recours
 ## 5 Répression pénale
-## 6 Amendes d'ordre
+## 6 …
 ## 7 Dispositions finales et transitoires

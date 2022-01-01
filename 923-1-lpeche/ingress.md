@@ -1,7 +1,7 @@
 Pêche – L
 # Loi sur la pêche
 (LPêche)
-du 15.05.1979 (version entrée en vigueur le 01.01.2020)
+du 15.05.1979 (version entrée en vigueur le 01.01.2022)
 Le Grand Conseil du canton de Fribourg
 Vu la loi fédérale du 14 décembre 1973 sur la pêche;
 Vu l'ordonnance du Conseil fédéral du 8 décembre 1975 relative à la loi précitée;
