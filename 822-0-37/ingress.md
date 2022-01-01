@@ -1,10 +1,10 @@
 # Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
-du 09.12.2020 (version entrée en vigueur le 01.01.2021)
+du 07.12.2021 (version entrée en vigueur le 01.01.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
 Considérant:
-L'article 41 al. 1bis, 2e phr., LAMal dispose que, en cas de traitement hospitalier par convenance personnelle dans un hôpital répertorié hors canton, l'assureur-maladie et le canton de résidence prennent en charge leur part respective de rémunération au sens de l'article 49a LAMal, jusqu'à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de résidence.
+L'article 41 al. 1bis, 2e phr. LAMal dispose que, en cas de traitement hospitalier par convenance personnelle dans un hôpital répertorié hors canton, l'assureur-maladie et le canton de résidence prennent en charge leur part respective de rémunération au sens de l'article 49a LAMal, jusqu'à concurrence du tarif applicable pour ce traitement dans un hôpital répertorié du canton de résidence.
 Les tarifs de référence doivent dès lors être fixés.
-A la suite de l'adaptation des paramètres servant de base pour le calcul des tarifs de référence, le tarif de référence (baserate) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise, le forfait journalier pour la réadaptation en paraplégie ainsi que le baserate pour les hospitalisations psychiatriques sont adaptés.
-Sur la proposition de la Direction de la santé et des affaires sociales,
+A la suite de l'adaptation des paramètres servant de base pour le calcul des tarifs de référence et en vue de l'introduction de la nouvelle structure tarifaire uniforme au niveau Suisse ST Reha dans le domaine de la réadaptation, le tarif de référence (baserate) pour les prestations qui peuvent être fournies par un hôpital ou une maison de naissance du canton de Fribourg répertoriés dans la liste hospitalière fribourgeoise ainsi que les tarifs pour la réadaptation sont adaptés.
+Sur proposition de la Direction de la santé et des affaires sociales,
 Arrête:
