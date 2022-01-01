@@ -1,0 +1,3 @@
+# Art. 22d Prestation transitoire – Coordination
+1 La prestation transitoire est coordonnée avec le revenu d'une activité lucrative, y compris les indemnités touchées au titre de membre d'une autorité, ou d'une rente de retraite, d'invalidité ou de conjoint survivant provenant d'une institution de prévoyance ou d'une collectivité publique, d'une rente AVS, d'une rente AI ou d'une rente provenant d'une autre assurance sociale, à l'exclusion de toute rente provenant de la constitution d'un troisième pilier.
+2 La coordination consiste en une réduction correspondante de la prestation transitoire lorsque, ajoutée au revenu provenant d'une des sources énumérées à l'alinéa 1, elle dépasse 100 % du dernier traitement indexé du conseiller ou du préfet.

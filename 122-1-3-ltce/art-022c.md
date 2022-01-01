@@ -1,0 +1,6 @@
+# Art. 22c Prestation transitoire – Principe
+1 Les conseillers et les préfets démissionnaires ou non réélus après l'âge de 55 ans et qui ont accompli cinq années de fonction ou plus ont droit, jusqu'à ce qu'ils aient atteint l'âge donnant droit à une rente AVS, à une prestation transitoire annuelle. Cette prestation se monte à 6 % du dernier traitement pour la première année de fonction accomplie et augmente d'autant, chaque année, jusqu'à la cinquième année; elle augmente de 4 % par année de la sixième à la dixième année de fonction accomplie, puis de 2 % par année pour chaque année de fonction révolue dès la onzième année de fonction, jusqu'au maximum de 60 % du dernier traitement.
+2 Toute année de fonction commencée compte comme année entière.
+3 La prestation transitoire est considérée comme un salaire. Elle est à ce titre soumise au prélèvement des cotisations aux assurances sociales.
+4 En cas d'invalidité, les prestations accordées par l'assurance-invalidité (rente et indemnités journalières) ou d'autres assurances sociales ou par une institution de prévoyance professionnelle sont déduites du montant de la prestation transitoire.
+5 En lieu et place de la prestation transitoire, les conseillers et les préfets visés par cette disposition peuvent opter pour l'indemnité prévue à l'article 22b.

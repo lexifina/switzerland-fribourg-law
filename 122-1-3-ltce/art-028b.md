@@ -1,0 +1,2 @@
+# Art. 28b Droit transitoire relatif à la modification du 23 mars 2021 – Principe
+1 Les conseillers et les préfets déjà pensionnés ou qui étaient en fonction avant la reconstitution du Conseil d'Etat faisant suite aux élections générales de 2021 demeurent soumis aux dispositions applicables avant l'entrée en vigueur de la modification du 23 mars 2021 de la présente loi. Les articles 26 et 27 sont réservés.

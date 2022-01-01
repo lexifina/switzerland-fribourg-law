@@ -1,0 +1,4 @@
+# Art. 22e Prestation transitoire – Maintien de la couverture d'assurance
+1 Les conseillers et les préfets qui optent pour la prestation transitoire prévue à l'article 22c demeurent assurés auprès de la Caisse de prévoyance du personnel de l'Etat.
+2 Les cotisations afférentes à cette affiliation sont calculées sur la base du montant de la prestation transitoire, après déduction du montant de coordination fixé en application de la réglementation de la Caisse de prévoyance du personnel de l'Etat. Elles sont prises en charge par chaque conseiller ou chaque préfet concerné et par l'Etat, conformément aux dispositions de la loi sur la Caisse de prévoyance du personnel de l'Etat fixant la participation de l'employeur et des employés à la prise en charge des cotisations, applicables par analogie.
+3 En cas de survenance d'un cas de prévoyance, les prestations d'assurance sont versées en application des dispositions adoptées par cette institution.
