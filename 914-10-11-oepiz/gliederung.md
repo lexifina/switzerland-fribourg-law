@@ -1,5 +1,6 @@
 ## 1 Dispositions générales
 ## 2 Organisation
+## 2a Fonds des épizooties
 ## 3 Collaboration et coordination
 ## 4 Formation
 ## 5 Santé animale
