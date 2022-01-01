@@ -3,7 +3,7 @@
 ### 2.1 Autorités
 ### 2.2 Tâches générales
 ## 3 Procédure d'engagement
-## 4 Statut
+## 4 Fin des rapports de service
 ## 5 Durée du travail et absences
 ### 5.1 Durée du travail (art. 58 LPers)
 ### 5.2 Horaire ordinaire
