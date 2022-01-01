@@ -1,7 +1,7 @@
 Produits chimiques – O
 # Ordonnance sur les produits chimiques
 (OCChim)
-du 21.11.2017 (version entrée en vigueur le 01.04.2019)
+du 21.11.2017 (version entrée en vigueur le 01.01.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 15 décembre 2000 sur la protection contre les substances et les préparations dangereuses (Loi sur les produits chimiques, LChim) et ses ordonnances d'application;
 Considérant:
