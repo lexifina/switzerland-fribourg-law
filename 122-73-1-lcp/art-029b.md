@@ -1,0 +1,2 @@
+# Art. 29b Avoir de vieillesse
+1 Le jour de l'entrée en vigueur de la modification du 26 juin 2020 de la présente loi, la Caisse crédite l'avoir de vieillesse de chaque personne assurée active d'une somme égale à la valeur actuelle des prestations acquises, calculée au jour précédant cette entrée en vigueur, selon l'article 16 de la loi fédérale du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants et invalidité.

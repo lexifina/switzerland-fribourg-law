@@ -1,0 +1,3 @@
+# Art. 29a Personnes concernées
+1 Le nouveau plan de prévoyance fondé sur la primauté des cotisations est applicable aux employé‑e‑s qui, à la date de l'entrée en vigueur de la modification du 26 juin 2020 de la présente loi, sont au service des employeurs affiliés à la Caisse au sens de l'article 4 al. 1 et 2.
+2 Les employé‑e‑s dont les rapports de service ont pris fin au plus tard le dernier jour du mois précédant la date de l'entrée en vigueur de la modification du 26 juin 2020 de la présente loi demeurent soumis aux conditions prévues dans le plan de prévoyance de la Caisse établi selon la primauté des prestations appliqué à cette date. Les droits acquis des autres bénéficiaires de rente sont également garantis.
