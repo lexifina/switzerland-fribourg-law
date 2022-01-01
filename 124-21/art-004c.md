@@ -1,7 +1,7 @@
 # Art. 4c Gratuité
 1 Obtiennent d'office un abonnement gratuit à la Feuille officielle:
 a) les communes du canton ainsi que l'Association des communes fribourgeoises;
-b) les préfectures et l'Autorité cantonale de la transparence et de la protection des données;
+b) les préfectures et l'Autorité cantonale de la transparence, de la protection des données et de la médiation;
 c) les autorités judiciaires du canton.
 2 Obtiennent, sur demande, un abonnement gratuit à la Feuille officielle:
 a) les membres du Conseil d'Etat et du Grand Conseil;
