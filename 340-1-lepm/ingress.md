@@ -1,7 +1,7 @@
 Exécution des peines et mesures – L
 # Loi sur l'exécution des peines et des mesures
 (LEPM)
-du 07.10.2016 (version entrée en vigueur le 01.01.2018)
+du 07.10.2016 (version entrée en vigueur le 01.01.2022)
 Le Grand Conseil du canton de Fribourg
 Vu les articles 372 à 380a du code pénal suisse du 21 décembre 1937 (CP);
 Vu les articles 234 à 236 et 439 à 444 du code de procédure pénale suisse du 5 octobre 2007 (CPP);
