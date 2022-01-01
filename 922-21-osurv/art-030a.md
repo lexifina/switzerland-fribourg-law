@@ -1,6 +1,6 @@
 # Art. 30a Tâches du surveillant des réserves naturelles – En général
 1 Le surveillant assume les tâches suivantes:
-a) il veille au respect de la législation sur la protection de la nature et du paysage;
+a) il veille au respect de la législation sur la protection de la nature et du paysage, ainsi que de la législation cantonale sur les amendes d'ordre;
 b) il exécute les directives du Service;
 c) il exécute les tâches qui lui sont confiées par la législation mentionnée sous la lettre a; il collabore à l'exécution de la législation sur les forêts, sur la chasse et la protection des mammifères, des oiseaux sauvages et de leurs biotopes, sur la pêche, sur la protection des eaux, sur les épizooties, sur la protection des animaux et sur la circulation;
 d) il contribue à l'information du public dans ses domaines d'activité;

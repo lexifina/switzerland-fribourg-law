@@ -1,7 +1,7 @@
 Détention des chiens – R
 # Règlement sur la détention des chiens
 (RDCh)
-du 11.03.2008 (version entrée en vigueur le 01.04.2019)
+du 11.03.2008 (version entrée en vigueur le 01.01.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 2 novembre 2006 sur la détention des chiens (LDCh);
 Vu la loi fédérale du 9 mars 1978 sur la protection des animaux (LPA) et son ordonnance d'exécution du 27 mai 1981 (OPAn);

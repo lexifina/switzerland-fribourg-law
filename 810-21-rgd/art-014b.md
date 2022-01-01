@@ -1,2 +1,1 @@
-# Art. 14b Délégation de compétence – Principe
-1 Sous réserve des dispositions particulières prévues par le présent règlement, la délégation, aux communes, de la compétence de percevoir des amendes d'ordre sur la base de la loi sur la gestion des déchets et du présent règlement s'opère selon l'arrêté concernant la délégation, aux communes, de la compétence d'infliger des amendes d'ordre, applicable par analogie.
+# Art. 14b …

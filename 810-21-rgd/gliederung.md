@@ -1,5 +1,5 @@
 ## 1 Généralités
 ## 2 Autorisations
-## 3 Dispositions pénales
+## 3 …
 ## 4 Dispositions finales
 ## A1 ANNEXE 1 ...
