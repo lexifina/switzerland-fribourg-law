@@ -1,6 +1,6 @@
 Perception des créances fiscales – O
 # Ordonnance DFIN relative à la perception des créances fiscales
-du 07.11.2014 (version entrée en vigueur le 01.01.2019)
+du 07.11.2014 (version entrée en vigueur le 01.01.2022)
 La Direction des finances
 Vu les articles 201 et suivants de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD);
 Vu les articles 50 al. 2 et 58 al. 3 de la loi du 14 septembre 2007 sur l'impôt sur les successions et les donations (LISD);
