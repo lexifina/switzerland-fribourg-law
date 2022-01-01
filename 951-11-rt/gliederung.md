@@ -1,15 +1,12 @@
-## 1 Dispositions générales
-## 2 Organismes touristiques officiels
-### 2.1 En général
-### 2.2 L'Union fribourgeoise du tourisme (UFT)
-### 2.3 Organisations touristiques régionales
-### 2.4 Sociétés de développement
-## 3 Fonds de marketing touristique coordonné
-## 4 Taxes de séjour
-### 4.1 Principe et assujettissement
-### 4.2 Calcul de la taxe
-### 4.3 Encaissement et perception de la taxe
-## 5 Taxe de tourisme
-## 6 Fonds d'équipement touristique
-## 7 Réseaux de randonnée officiels
-## 8 Dispositions finales
+## 1 Organismes touristiques officiels
+### 1.1 En général
+### 1.2 L'Union fribourgeoise du tourisme (UFT)
+### 1.3 Organisations touristiques régionales
+## 2 Fonds de marketing touristique coordonné
+## 3 Taxes de séjour
+### 3.1 Principe et assujettissement
+### 3.2 Calcul de la taxe
+### 3.3 Encaissement et perception de la taxe
+## 4 Taxe de tourisme
+## 5 Fonds d'équipement touristique
+## 6 Dispositions finales
