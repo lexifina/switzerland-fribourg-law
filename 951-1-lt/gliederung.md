@@ -3,20 +3,17 @@
 ### 2.1 En général
 ### 2.2 Union fribourgeoise du tourisme
 ### 2.3 Organisations touristiques régionales
-### 2.4 Sociétés de développement
-## 3 Fonds de marketing touristique coordonné
-## 4 Taxes de séjour
-### 4.1 Principe et assujettissement
-### 4.2 Calcul de la taxe
-### 4.3 Perception et encaissement de la taxe
-## 5 Taxe de tourisme
-## 6 Fonds d'équipement touristique
-### 6.1 Dispositions générales
-### 6.2 Aide ordinaire
-### 6.3 Aide extraordinaire
-## 7 Les réseaux de randonnée officiels
-### 7.1 Attributions
-### 7.2 Réseaux et règles de balisage
-### 7.3 Dispositions financières particulières
-## 8 Disposition pénale et voies de droit
-## 9 Dispositions transitoires et finales
+## 3 Financement
+### 3.1 Fonds de marketing touristique coordonné
+### 3.2 Taxe de séjour
+#### 3.2.1 Principe et assujettissement
+#### 3.2.2 Calcul de la taxe
+#### 3.2.3 Perception et encaissement de la taxe
+### 3.3 Taxe de tourisme
+## 4 Equipements touristiques – Aides
+### 4.1 Fonds d'équipement touristique
+### 4.2 Aide aux projets de faible ampleur
+### 4.3 Aide aux projets de grande ampleur
+### 4.4 Aide aux projets d'importance cantonale
+## 5 Disposition pénale et voies de droit
+## 6 Dispositions transitoires
