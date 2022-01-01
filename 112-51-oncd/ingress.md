@@ -1,7 +1,7 @@
 Noms des communes – O
 # Ordonnance indiquant les noms des communes et leur rattachement aux districts administratifs
 (ONCD)
-du 24.11.2015 (version entrée en vigueur le 01.01.2021)
+du 24.11.2015 (version entrée en vigueur le 01.01.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 2 al. 2 de la Constitution du canton de Fribourg du 16 mai 2004;
 Vu les articles 2 et 3 de la loi du 17 mars 2015 adaptant la législation fribourgeoise à la législation fédérale sur la géoinformation;
