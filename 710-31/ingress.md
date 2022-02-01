@@ -1,5 +1,5 @@
 # Ordonnance portant adoption du plan directeur cantonal
-du 02.10.2018 (version entrée en vigueur le 15.10.2018)
+du 02.10.2018 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
 Vu l'ordonnance fédérale du 28 juin 2000 sur l'aménagement du territoire;

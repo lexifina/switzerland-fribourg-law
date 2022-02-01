@@ -1,7 +1,7 @@
 Aéronefs sans occupants – O
 # Ordonnance sur les aéronefs sans occupants d'un poids inférieur à 30 kg
 (OAero)
-du 14.12.2021 (version entrée en vigueur le 01.01.2022)
+du 14.12.2021 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 21 décembre 1948 sur l'aviation (LA);
 Vu l'article 2a al. 2 de l'ordonnance fédérale du 14 novembre 1973 sur l'aviation (OSAv);

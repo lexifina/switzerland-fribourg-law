@@ -1,5 +1,5 @@
 # Ordonnance déléguant à la commune de Fribourg des compétences en matière routière
-du 22.05.2012 (version entrée en vigueur le 01.06.2012)
+du 22.05.2012 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 3 al. 2 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR);
 Vu l'article 2 let. i de la loi du 12 novembre 1981 d'application de la législation fédérale sur la circulation routière (LALCR);
