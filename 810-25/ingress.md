@@ -1,5 +1,5 @@
 # Ordonnance portant adoption de la modification partielle du plan de gestion des déchets (chapitre «Décharges de type B»)
-du 09.10.2017 (version entrée en vigueur le 01.10.2017)
+du 09.10.2017 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 7 octobre 1983 sur la protection de l'environnement;
 Vu l'ordonnance fédérale du 4 décembre 2015 sur la limitation et l'élimination des déchets (OLED);

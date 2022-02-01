@@ -1,7 +1,7 @@
 Emploi et marché du travail – R
 # Règlement sur l'emploi et le marché du travail
 (REMT)
-du 02.07.2012 (version entrée en vigueur le 01.07.2021)
+du 02.07.2012 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 6 octobre 2010 sur l'emploi et le marché du travail (LEMT);
 Vu le règlement du 29 juin 1999 sur la sécurité des données personnelles (RSD);

@@ -1,6 +1,6 @@
 Smog hivernal – O
 # Ordonnance sur le smog hivernal
-du 19.12.2006 (version entrée en vigueur le 01.01.2009)
+du 19.12.2006 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 11 al. 3, 12 et 36 de la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE);
 Vu l'article 3 al. 6 de la loi fédérale du 19 décembre 1958 sur la circulation routière (LCR);

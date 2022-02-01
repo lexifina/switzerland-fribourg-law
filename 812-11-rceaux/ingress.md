@@ -1,7 +1,7 @@
 Eaux – R
 # Règlement sur les eaux
 (RCEaux)
-du 21.06.2011 (version entrée en vigueur le 01.01.2022)
+du 21.06.2011 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 24 janvier 1991 sur la protection des eaux (LEaux) et son ordonnance d'exécution du 28 octobre 1998 (OEaux);
 Vu la loi fédérale du 21 juin 1991 sur l'aménagement des cours d'eau (LACE) et son ordonnance d'exécution du 2 novembre 1994 (OACE);

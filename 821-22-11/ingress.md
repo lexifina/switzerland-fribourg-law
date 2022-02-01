@@ -1,6 +1,6 @@
 Stupéfiants – O
 # Ordonnance sur les stupéfiants
-du 12.04.2016 (version entrée en vigueur le 01.04.2016)
+du 12.04.2016 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances psychotropes (LStup);
 Vu la loi fédérale du 15 décembre 2000 sur les médicaments et les dispositifs médicaux (Loi sur les produits thérapeutiques, LPTh);

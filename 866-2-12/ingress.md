@@ -1,6 +1,6 @@
 Attribution de la main d'oeuvre étrangère – O
 # Ordonnance concernant l'attribution de la main-d'oeuvre étrangère
-du 10.12.2007 (version entrée en vigueur le 01.07.2019)
+du 10.12.2007 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI);
 Vu l'ordonnance fédérale du 24 octobre 2007 relative à l'admission, au séjour et à l'exercice d'une activité lucrative (OASA);

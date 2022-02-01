@@ -1,5 +1,5 @@
 # Art. 23a Formation
 1 Le Service veille à la formation initiale et continue des inspecteurs et inspectrices SMT, notamment en matière de gestion des conflits et de maîtrise comportementale en situation difficile.
-2 La formation des inspecteurs et inspectrices SMT aux compétences judiciaires a lieu selon un plan de formation élaboré en accord avec la Direction de la sécurité et de la justice, autorité chargée de la Police cantonale.
+2 La formation des inspecteurs et inspectrices SMT aux compétences judiciaires a lieu selon un plan de formation élaboré en accord avec la Direction de la sécurité, de la justice et du sport, autorité chargée de la Police cantonale.
 3 Pour le surplus, le Service veille à ce que le personnel du tiers mandaté dispose des compétences requises pour être assermenté comme inspecteur ou inspectrice auxiliaire de l'Etat. Le devoir de formation initiale et continue incombe à l'entreprise mandatée pour les contrôles. Le Service peut en tout temps exiger l'attestation de formation des inspecteurs et inspectrices.
 4 En vue d'une exécution conforme et coordonnée de la lutte contre le travail au noir, le Service invite le personnel du tiers mandaté à suivre une formation administrative avec les inspecteurs et inspectrices SMT.

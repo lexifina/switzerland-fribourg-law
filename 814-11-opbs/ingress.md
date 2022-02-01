@@ -1,7 +1,7 @@
 Protection contre le bruit – O
 # Ordonnance sur la protection contre le bruit et les dangers liés au son
 (OPBS)
-du 17.03.2009 (version entrée en vigueur le 01.04.2021)
+du 17.03.2009 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 7 octobre 1983 sur la protection de l'environnement (LPE);
 Vu l'ordonnance fédérale du 15 décembre 1986 sur la protection contre le bruit (OPB);
