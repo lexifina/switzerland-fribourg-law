@@ -1,6 +1,6 @@
 Commission cantonale pour les questions d'aumônerie - O
 # Ordonnance relative à la Commission cantonale pour les questions d'aumônerie
-du 03.06.2003 (version entrée en vigueur le 01.01.2011)
+du 03.06.2003 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 23 de la loi du 26 septembre 1990 concernant les rapports entre les Eglises et l'Etat;
 Considérant:

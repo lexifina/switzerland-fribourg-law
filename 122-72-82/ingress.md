@@ -1,5 +1,5 @@
 # Ordonnance concernant la classification de fonctions subventionnées
-du 02.02.2021 (version entrée en vigueur le 01.01.2021)
+du 02.02.2021 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers);
 Vu la loi du 17 novembre 1999 sur les subventions (LSub);

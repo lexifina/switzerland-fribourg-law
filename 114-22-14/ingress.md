@@ -1,5 +1,5 @@
 # Ordonnance relative à la lutte contre la traite des êtres humains
-du 18.12.2007 (version entrée en vigueur le 01.07.2019)
+du 18.12.2007 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 30 al. 1 let. e de la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI);
 Vu les articles 35 et 36 de l'ordonnance fédérale du 24 octobre 2007 relative à l'admission, au séjour et à l'exercice d'une activité lucrative;

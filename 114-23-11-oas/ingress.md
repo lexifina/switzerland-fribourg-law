@@ -1,7 +1,7 @@
 Asile – O
 # Ordonnance sur l'asile
 (OAs)
-du 26.11.2002 (version entrée en vigueur le 01.01.2007)
+du 26.11.2002 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 26 juin 1998 sur l'asile (LAsi);
 Vu l'ordonnance fédérale du 11 août 1999 sur l'asile relative à la procédure (OA 1);
