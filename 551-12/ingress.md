@@ -1,6 +1,6 @@
 Conseil cantonal de prévention et de sécurité – O
 # Ordonnance instituant un Conseil cantonal de prévention et de sécurité
-du 04.05.2009 (version entrée en vigueur le 01.01.2012)
+du 04.05.2009 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 15 novembre 1990 sur la Police cantonale;
 Vu la loi du 18 janvier 2008 modifiant la loi sur la Police cantonale (art. 15c, police de proximité);
