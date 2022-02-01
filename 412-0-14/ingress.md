@@ -1,6 +1,6 @@
 Passerelle de la maturité professionnelle aux hautes écoles universitaires – R
 # Règlement concernant la passerelle de la maturité professionnelle ou spécialisée aux hautes écoles universitaires
-du 13.12.2011 (version entrée en vigueur le 01.08.2017)
+du 13.12.2011 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
 Vu le règlement du 27 juin 1995 sur l'enseignement secondaire supérieur (RESS);

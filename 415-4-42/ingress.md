@@ -1,6 +1,6 @@
 Stages dans les écoles enfantines et primaires, honoraires – O
 # Ordonnance fixant les honoraires pour l'encadrement de stages dans les classes enfantines et primaires
-du 13.05.2003 (version entrée en vigueur le 01.09.2002)
+du 13.05.2003 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 20 de la loi du 4 octobre 1999 sur la Haute Ecole pédagogique;
 Considérant:

@@ -1,7 +1,7 @@
 Examens de maturité gymnasiale – R
 # Règlement concernant les examens de maturité gymnasiale
 (REMG)
-du 17.09.2001 (version entrée en vigueur le 01.08.2021)
+du 17.09.2001 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
 Vu le règlement du 27 juin 1995 sur l'enseignement secondaire supérieur (RESS);

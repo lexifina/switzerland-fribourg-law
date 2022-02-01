@@ -1,7 +1,7 @@
-Personnel enseignant de la Direction de l'économie et de l'emploi – R
-# Règlement relatif au personnel enseignant dépendant de la Direction de l'économie et de l'emploi
-(RPEns DEE)
-du 11.10.2011 (version entrée en vigueur le 01.01.2022)
+Personnel enseignant de la DEEF – R
+# Règlement relatif au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle
+(RPEns DEEF)
+du 11.10.2011 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr) et son ordonnance du 19 novembre 2003 (OFPr);
 Vu la loi du 13 décembre 2007 sur la formation professionnelle (LFP) et son règlement du 23 mars 2010 (RFP);

@@ -1,7 +1,7 @@
 Etudes gymnasiales – R
 # Règlement sur les études gymnasiales
 (REG)
-du 15.04.1998 (version entrée en vigueur le 01.08.2020)
+du 15.04.1998 (version entrée en vigueur le 01.02.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
 Vu l'article 3 du règlement du 27 juin 1995 sur l'enseignement secondaire supérieur (RESS);
