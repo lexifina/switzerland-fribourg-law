@@ -1,0 +1,6 @@
+Construction de maisons de vacances sur le domaine de l'Etat – A
+Arrêté concernant l'utilisation du domaine public ou privé de l'Etat en vue de la construction de maisons de vacances
+du 31.12.1963 (version entrée en vigueur le 01.02.2022)
+Le Conseil d'Etat du canton de Fribourg
+Considérant: Au cours des dernières années, les demandes d'utilisation du domaine public ou privé de l'Etat en vue de construire des maisons de vacances ont été en constante augmentation. Face à cette situation, des mesures de protection des rives des lacs de Morat et de Neuchâtel ont été prises par arrêté du Conseil d'Etat du 24 juillet 1959. Les dispositions régissant actuellement l'utilisation du domaine de l'Etat datant de plus de 10 ans (ACE 27 mai 1952), il convient de remettre celles-ci à jour afin de mieux assurer l'utilisation rationnelle du terrain et le contrôle des constructions, en attendant la mise en vigueur d'un plan général d'aménagement des rives de lacs. Il y a lieu, enfin, de réadapter le tarif des émoluments et des redevances dus par les bénéficiaires des autorisations pour tenir compte de la diminution de la valeur de l'argent. Sur la proposition de la Direction des affaires militaires, des forêts et des vignes et de la Direction des travaux publics,
+Arrête:
