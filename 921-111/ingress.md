@@ -1,5 +1,5 @@
 # Ordonnance DIAF fixant la délimitation des arrondissements forestiers
-du 08.01.2016 (version entrée en vigueur le 01.04.2017)
+du 08.01.2016 (version entrée en vigueur le 15.06.2022)
 La Direction des institutions, de l'agriculture et des forêts
 Vu l'article 1 du règlement du 11 décembre 2001 sur les forêts et la protection contre les catastrophes naturelles;
 Considérant:
