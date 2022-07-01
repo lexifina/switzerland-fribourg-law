@@ -1,0 +1,3 @@
+# Art. 13a Moyen d'identification électronique (art. 34 LCyb)
+1 Le ou les moyens d'identification électroniques reconnus pour se connecter au guichet virtuel sont déterminés par le Conseil d'Etat sur la proposition commune de la Chancellerie d'Etat et du SITel. En fonction des besoins et des solutions disponibles, ils peuvent reposer soit sur une solution développée par les pouvoirs publics, soit sur une solution proposée par un prestataire privé.
+2 En cas de changement de moyen d'identification électronique, la Chancellerie d'Etat est compétente pour organiser la migration vers le ou les nouveaux moyens retenus. Elle peut impartir un délai aux personnes concernées pour procéder à la migration. L'article 5 al. 4 let. b est applicable.
