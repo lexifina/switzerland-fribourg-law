@@ -1,6 +1,6 @@
 Autorisations de travail à des étrangers, émoluments – O
 # Ordonnance fixant les émoluments pour l'octroi d'autorisations de travail à des étrangers
-du 10.12.2007 (version entrée en vigueur le 01.07.2019)
+du 10.12.2007 (version entrée en vigueur le 01.07.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 16 décembre 2005 sur les étrangers et l'intégration (LEI);
 Vu l'ordonnance fédérale du 24 octobre 2007 sur les émoluments perçus en application de la loi sur les étrangers et l'intégration (Tarif des émoluments LEI, Oem-LEI);
