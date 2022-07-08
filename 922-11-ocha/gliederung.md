@@ -19,4 +19,4 @@
 ### 4.8 Autres obligations
 ## 5 Information, formation, recherche
 ## 6 Sanctions administratives et dispositions pénales
-## 7 Dispositions finales
+## 7 Dispositions transitoires et finales
