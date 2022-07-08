@@ -4,4 +4,4 @@
 ## 4 Chasse du cerf (art. 62 OCha)
 ## 5 Chasse du sanglier (art. 43 et 64 à 66 OCha)
 ## 6 Circulation sur le territoire de chasse (art. 27 OCha)
-## 7 Répondeur téléphonique
+## 7 Répondeur téléphonique SMS
