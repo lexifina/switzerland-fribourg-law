@@ -1,6 +1,6 @@
 Installations de tir sportif – O
 # Ordonnance sur les installations de tir sportif
-du 22.02.2022 (version entrée en vigueur le 01.03.2022)
+du 22.02.2022 (version entrée en vigueur le 01.12.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 23 de l'ordonnance fédérale du 15 novembre 2004 sur les installations servant au tir hors du service (ordonnance sur les installations de tir);
 Vu l'article 25 de la loi fédérale sur la protection de l'environnement (LPE);

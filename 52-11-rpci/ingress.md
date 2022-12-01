@@ -1,7 +1,7 @@
 Protection civile – R
 # Règlement sur la protection civile
 (RPCi)
-du 23.06.2004 (version entrée en vigueur le 01.02.2022)
+du 23.06.2004 (version entrée en vigueur le 01.12.2022)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 23 mars 2004 sur la protection civile (LPCi);
 Vu l'ordonnance fédérale du 5 décembre 2003 sur la protection civile (OPCi);
