@@ -1,6 +1,6 @@
 Liste des établissements médico-sociaux – O
 # Ordonnance fixant la liste des établissements médico-sociaux du canton de Fribourg
-du 30.01.2018 (version entrée en vigueur le 01.01.2022)
+du 30.01.2018 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 39 de la loi fédérale du 18 mars 1994 sur l'assurance-maladie;
 Vu l'article 2 de la loi du 24 novembre 1995 d'application de la loi fédérale sur l'assurance-maladie;
