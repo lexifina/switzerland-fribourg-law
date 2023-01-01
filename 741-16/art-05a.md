@@ -1,0 +1,2 @@
+# Art. 5a
+1 Le 1 er janvier de chaque année, les taxes et redevances sont adaptées à l'évolution de l'indice des prix à la consommation, à la condition que cet indice ait subi une augmentation d'au moins 5 % (indice de référence: septembre 2015 = 97,7 pts; base décembre 2010 = 100 pts) jusqu'en septembre de l'année précédente, depuis l'entrée en vigueur du présent tarif ou depuis la dernière adaptation au renchérissement.
