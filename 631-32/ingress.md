@@ -1,6 +1,6 @@
 Perception de l'impôt à la source – O
 # Ordonnance relative à la perception de l'impôt à la source
-du 09.12.2020 (version entrée en vigueur le 01.01.2022)
+du 09.12.2020 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 38a, 71 à 88, 170 à 173 et 208 de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD);
 Considérant:
