@@ -14,7 +14,7 @@
 ## 4 Financement
 ### 4.1 Protection des eaux
 ### 4.2 Aménagement des cours d'eau et des lacs
-### 4.3 Ouvrages pour la navigation concessionnée
+### 4.3 …
 ## 5 Accès aux données
 ## 6 Dispositions finales
 ## A1 ANNEXE 1 – Délimitation des bassins versants (art. 11a)

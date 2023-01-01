@@ -1,8 +1,10 @@
-Transports – R
-# Règlement d'exécution de la loi sur les transports
-(RTr)
-du 25.11.1996 (version entrée en vigueur le 01.02.2022)
+Mobilité – R
+# Règlement sur la mobilité
+(RMob)
+du 20.12.2022 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi du 20 septembre 1994 sur les transports (LTr);
-Sur la proposition de la Direction de l'économie, des transports et de l'énergie,
+Vu la loi du 5 novembre 2021 sur la mobilité (LMob);
+Sur la proposition de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement,
 Arrête:
+1 Dispositions générales
+1.1 Objet
