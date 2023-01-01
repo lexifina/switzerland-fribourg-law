@@ -7,4 +7,4 @@ a) de 11 h 30 à 14 heures;
 b) de 18 h 30 à 21 heures.
 3 Les gardes-faune qui utilisent dans le cadre de leurs fonctions une partie de leur logement pour exercer leur activité (travail de bureau) et entreposer leur équipement bénéficient de l'indemnité fixée à l'article 10 du présent règlement.
 4 Les gardes-faune qui utilisent dans le cadre de leurs fonctions leur matériel informatique personnel pour exercer leur activité (travail de bureau) bénéficient de l'indemnité fixée à l'article 10b du présent règlement.
-5 Les gardes-faune qui utilisent leur véhicule privé pour effectuer les déplacements nécessaires à l'accomplissement de leur travail touchent une indemnité kilométrique calculée selon le barème figurant dans l'annexe 2 du RPers, augmentée de 10 centimes. Pour les transports lourds (p. ex. appareils de pêche électrique, bacs à poissons) ou lorsque le véhicule tracte une remorque, l'indemnité kilométrique est de 89 centimes.
+5 Les gardes-faune qui utilisent leur véhicule privé pour effectuer les déplacements nécessaires à l'accomplissement de leur travail touchent une indemnité kilométrique de 1 franc.
