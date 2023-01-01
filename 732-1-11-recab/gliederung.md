@@ -13,7 +13,7 @@
 #### 3.3.2 Ramonage
 #### 3.3.3 Equipements de protection incendie
 ### 3.4 Prévention contre les éléments naturels
-## 4 Défense contre le feu et les éléments naturels
+## 4 Défense incendie et secours
 ## 5 Assurance immobilière
 ### 5.1 Généralités
 #### 5.1.1 Assurance immobilière obligatoire
