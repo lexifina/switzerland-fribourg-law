@@ -1,7 +1,7 @@
 Code civil - Loi d'application
 # Loi d'application du code civil suisse
 (LACC)
-du 10.02.2012 (version entrée en vigueur le 01.01.2022)
+du 10.02.2012 (version entrée en vigueur le 01.01.2023)
 Le Grand Conseil du canton de Fribourg
 Vu le code civil suisse du 10 décembre 1907 (CCS);
 Vu la loi fédérale du 30 mars 1911 complétant le code civil suisse (Livre cinquième: Droit des obligations) (CO);

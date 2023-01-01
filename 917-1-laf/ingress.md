@@ -1,7 +1,7 @@
 Améliorations foncières – L
 # Loi sur les améliorations foncières
 (LAF)
-du 30.05.1990 (version entrée en vigueur le 01.01.2022)
+du 30.05.1990 (version entrée en vigueur le 01.01.2023)
 Le Grand Conseil du canton de Fribourg
 Vu la loi fédérale du 29 avril 1998 sur l'agriculture (LAgr) et ses ordonnances d'exécution;
 Vu la loi fédérale du 4 octobre 1991 sur les forêts (LFo) et son ordonnance d'exécution;

@@ -1,7 +1,7 @@
 Agglomérations – L
 # Loi sur les agglomérations
 (LAgg)
-du 21.08.2020 (version entrée en vigueur le 01.01.2021)
+du 21.08.2020 (version entrée en vigueur le 01.01.2023)
 Le Grand Conseil du canton de Fribourg
 Vu l'article 134 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
 Vu la loi du 25 septembre 1980 sur les communes (LCo);
