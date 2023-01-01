@@ -1,6 +1,7 @@
 Hôpitaux et maisons de naissance, financement – L
 # Loi concernant le financement des hôpitaux et des maisons de naissance
-du 04.11.2011 (version entrée en vigueur le 01.01.2012)
+(LFiH)
+du 04.11.2011 (version entrée en vigueur le 01.01.2023)
 Le Grand Conseil du canton de Fribourg
 Vu la modification du 21 décembre 2007 de la loi fédérale sur l'assurance-maladie (LAMal);
 Vu la modification du 22 octobre 2008 de l'ordonnance fédérale sur l'assurance-maladie (OAMal);
