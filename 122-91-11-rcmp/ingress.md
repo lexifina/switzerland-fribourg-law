@@ -1,10 +1,9 @@
 Marchés publics – R
 # Règlement sur les marchés publics
-(RMP)
-du 28.04.1998 (version entrée en vigueur le 01.02.2022)
+(RCMP)
+du 12.12.2022 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi fédérale du 6 octobre 1995 sur le marché intérieur (LMI);
-Vu l'accord intercantonal du 25 novembre 1994 sur les marchés publics (AIMP);
-Vu la loi du 11 février 1998 sur les marchés publics;
-Sur la proposition de la Direction des travaux publics,
+Vu l'accord intercantonal du 15 novembre 2019 sur les marchés publics (AIMP 2019);
+Vu la loi du 2 février 2022 sur les marchés publics (LCMP);
+Sur la proposition de la Direction du développement territorial, des infrastructures, de la mobilité et de l'environnement,
 Arrête:

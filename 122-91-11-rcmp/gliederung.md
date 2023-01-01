@@ -1,14 +1,5 @@
-## 1 Marchés soumis aux traités internationaux
-### 1.1 Champ d'application
-### 1.2 Types de procédures et soumissionnaires particuliers
-### 1.3 Publication
-### 1.4 Aptitudes des soumissionnaires
-### 1.5 Offres
-### 1.6 Attribution du marché
-### 1.7 Protection juridique
-### 1.8 Surveillance
-## 2 Autres marchés publics
-## 3 Statistiques et archivage
-## 4 Concours
-## 5 Sanctions
-## 6 Dispositions finales
+## 1 Dispositions générales
+## 2 Procédures d'adjudication
+## 3 Procédures de concours et mandats d'étude parallèles (art. 22 AIMP 2019 et 11 LCMP)
+## 4 Publication et statistiques
+## A1 ANNEXE 1 – Preuves du respect des conditions de participation et des critères d'aptitude (art. 6 RCMP)
