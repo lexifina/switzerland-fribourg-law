@@ -1,6 +1,6 @@
 Echéance et perception des créances fiscales – A
 # Ordonnance concernant l'échéance et la perception des créances fiscales
-du 13.02.2001 (version entrée en vigueur le 01.01.2022)
+du 13.02.2001 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 201 et suivants de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD);
 Vu les articles 41 et suivants de la loi du 10 mai 1963 sur les impôts communaux (LICo);
