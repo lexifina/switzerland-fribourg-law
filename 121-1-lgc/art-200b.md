@@ -1,0 +1,4 @@
+# Art. 200b Droit applicable
+1 Les commissions ordinaires constituées avant l'entrée en vigueur de la modification du 13.10.2022 demeurent régies par l'ancien droit jusqu'à leur dissolution.
+2 L'ancien droit est également applicable aux commissions permanentes s'agissant de leur dénomination, de leurs missions et de la nomination de leurs membres tant que le Grand Conseil n'a pas effectué les actions énumérées à l'article 200a al. 1 let. a et b.
+3 La modification du 13.10.2022 de la présente loi est applicable dès son entrée en vigueur aux procédures législatives en cours ainsi qu'au traitement des instruments parlementaires pendants. Le Bureau ou le Grand Conseil peuvent toutefois terminer le traitement d'affaires déterminées conformément à l'ancien droit si des circonstances particulières le justifient.

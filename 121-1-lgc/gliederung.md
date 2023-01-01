@@ -6,7 +6,7 @@
 #### 2.1.3 Commissions
 ##### 2.1.3.1 En général
 ##### 2.1.3.2 Commissions permanentes
-##### 2.1.3.3 Commissions ordinaires et spécialisées
+##### 2.1.3.3 Commissions ad hoc et spécialisées
 ##### 2.1.3.4 Fonctionnement des commissions
 #### 2.1.4 Groupes parlementaires
 #### 2.1.5 Scrutateurs et scrutatrices
@@ -40,7 +40,7 @@
 #### 3.7.3 Examen des projets d'actes
 ##### 3.7.3.1 Entrée en matière
 ##### 3.7.3.2 Examen de détail
-##### 3.7.3.3 Commission de rédaction et vote final
+##### 3.7.3.3 Commission de rédaction, vote final et mise au point du texte
 ##### 3.7.3.4 Actes susceptibles de référendum
 #### 3.7.4 Autres décisions du Grand Conseil
 #### 3.7.5 Elections
@@ -55,6 +55,7 @@
 ### 4.2 Urgence
 ### 4.3 Veto
 ### 4.4 Commission d'enquête parlementaire
+### 4.5 Durabilité
 ## 5 Relations avec le pouvoir exécutif
 ### 5.1 Statut du Conseil d'Etat à l'égard du Grand Conseil
 ### 5.2 Modes d'intervention du Conseil d'Etat
