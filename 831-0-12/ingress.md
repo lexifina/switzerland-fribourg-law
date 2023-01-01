@@ -1,6 +1,6 @@
 Aide sociale, calcul de l'aide matérielle – O
 # Ordonnance fixant les normes de calcul de l'aide matérielle de la loi sur l'aide sociale
-du 02.05.2006 (version entrée en vigueur le 01.01.2017)
+du 02.05.2006 (version entrée en vigueur le 01.01.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 22a de la loi du 14 novembre 1991 sur l'aide sociale (LASoc);
 Vu les concepts et les normes de calcul de l'aide sociale de la Conférence suisse des institutions d'action sociale;
