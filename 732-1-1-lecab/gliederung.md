@@ -9,7 +9,7 @@
 ### 2.2 Autres autorités
 ## 3 Finances
 ### 3.1 Généralités
-### 3.2 Prime d'assurance et contribution à la prévention
+### 3.2 Prime d'assurance et contribution à la prévention, à la défense incendie et aux secours
 ### 3.3 Financement de la prévention et de la défense contre les dommages
 ## 4 Prévention
 ### 4.1 Généralités
@@ -19,9 +19,9 @@
 #### 4.3.2 Ramonage
 #### 4.3.3 Equipements de protection incendie
 ### 4.4 Prévention contre les éléments naturels
-## 5 Défense contre le feu et les éléments naturels
-### 5.1 Service de défense contre l'incendie
-### 5.2 Infrastructures de défense contre l'incendie
+## 5 Défense incendie et secours
+### 5.1 …
+### 5.2 …
 ## 6 Assurance immobilière
 ### 6.1 Généralités
 #### 6.1.1 Assurance immobilière obligatoire
