@@ -1,5 +1,6 @@
 ## 1 Dispositions générales
-## 2 Surveillance et discipline
+## 2 Commission de la médiation en matière civile, pénale et pénale pour les mineurs
+### 2a Médiateurs et médiatrices assermentés
 ## 3 Droits et obligations des médiateurs et médiatrices
 ## 4 Processus de médiation
 ## 5 Médiation en procédure pénale des mineurs
