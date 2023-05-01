@@ -1,7 +1,7 @@
 Notariat – R
 # Règlement d'exécution de la loi du 20 septembre 1967 sur le notariat
 (RN)
-du 07.10.1986 (version entrée en vigueur le 01.02.2022)
+du 07.10.1986 (version entrée en vigueur le 01.05.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 20 septembre 1967 sur le notariat (LN), notamment son article 80;
 Considérant:
