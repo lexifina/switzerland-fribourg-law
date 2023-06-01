@@ -1,8 +1,9 @@
 ## 1 Partie générale
 ### 1.1 Dispositions générales
-### 1.2 Registre électoral et bureau électoral communal
+### 1.2 Registre et bureau électoral communal
 #### 1.2.1 Registre électoral
 #### 1.2.2 Bureau électoral communal
+### 1.2a Registre électoral cantonal
 ### 1.3 Scrutin
 ### 1.4 Opérations après le scrutin
 ## 2 Votations
@@ -19,11 +20,11 @@
 ##### 3.3.2.3 Nombre réduit de candidatures
 ##### 3.3.2.4 Expression du vote et établissement des résultats
 ##### 3.3.2.5 Vacance d'un siège et élection complémentaire
-##### 3.3.2.6 Election sans dépôt de listes
+##### 3.3.2.6 Election ouverte
 #### 3.3.3 Elections selon le mode de scrutin majoritaire
 ##### 3.3.3.1 Dispositions générales
 ##### 3.3.3.2 Nombre réduit de candidatures
-##### 3.3.3.3 Election sans dépôt de listes
+##### 3.3.3.3 Election ouverte
 ## 4 Exercice des droits populaires
 ### 4.1 Modes d'expression de la volonté populaire en matière cantonale
 ### 4.2 Listes de signatures en matière cantonale (initiative et referendum)
@@ -38,6 +39,7 @@
 #### 4.3.3 Motion populaire
 ### 4.3a Promulgation
 ### 4.4 Initiative et referendum en matière communale
+### 4a Calcul des délais
 ## 5 Voies de droit et dispositions pénales
 ### 5.1 Voies de droit
 #### 5.1.1 Votations et élections fédérales
