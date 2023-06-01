@@ -1,3 +1,3 @@
 # Art. 52a Signataires des listes électorales – Exception a) Conditions
-1 Pour les élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat et à la fonction de préfet, l'obligation mentionnée à l'article 52 ne s'applique pas à un parti politique qui était enregistré dans les règles au registre des partis politiques à la fin de l'année précédant l'élection.
+1 Pour les élections au Conseil des Etats, au Grand Conseil, au Conseil d'Etat et à la fonction de préfet ou préfète, l'obligation mentionnée à l'article 52 ne s'applique pas à un parti politique qui était enregistré dans les règles au registre des partis politiques à la fin de l'année précédant l'élection.
 2 Le parti qui remplit les conditions prévues à l'alinéa précédent doit uniquement déposer les signatures valables de toutes les personnes candidates, de la personne mandataire chargée des relations avec les autorités et de son suppléant ou de sa suppléante.
