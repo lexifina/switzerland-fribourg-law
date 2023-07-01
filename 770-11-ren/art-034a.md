@@ -1,0 +1,4 @@
+# Art. 34a Eclairage public (art. 5 al. 7 LEn)
+1 Entre minuit et cinq heures du matin, l'Etat et les communes pratiquent l'extinction nocturne complète ou dynamique de l'éclairage public.
+2 Des exceptions à l'obligation d'extinction entre minuit et cinq heures du matin sont possibles pour autant qu'elles ressortent de la législation fédérale ou cantonale, notamment de l'article 84 de la loi du 5 novembre 2021 sur la mobilité, et qu'elles soient liées à la sécurité des biens ou des personnes. La préservation de la biodiversité est prise en compte dans les zones où celle-ci est sensible à la pollution lumineuse. Les demandes d'exception font l'objet d'une décision du Service.
+3 Les communes doivent mettre en œuvre l'obligation d'extinction prévue à l'article 5 al. 7 LEn dès l'entrée en vigueur de la modification du 20 juin 2023 si les conditions techniques le permettent, mais au plus tard à la fin décembre 2028.

@@ -1,7 +1,7 @@
 Energie – R
 # Règlement sur l'énergie
 (REn)
-du 05.11.2019 (version entrée en vigueur le 01.03.2023)
+du 05.11.2019 (version entrée en vigueur le 01.07.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 30 septembre 2016 sur l'énergie (LEne);
 Vu l'ordonnance fédérale du 1er novembre 2017 sur l'énergie (OEne);
