@@ -1,8 +1,9 @@
-Application de l’art. 55a de la loi fédérale sur l’assurance-maladie - O
-# Ordonnance concernant l'application de l'article 55a de la loi fédérale sur l'assurance-maladie
-du 23.08.2016 (version entrée en vigueur le 01.07.2021)
+Limitation de l'admission des médecins à pratiquer à charge de l'AOS – O
+# Ordonnance concernant la limitation de l'admission des médecins à pratiquer à charge de l'assurance obligatoire des soins
+(OLAM)
+du 06.07.2023 (version entrée en vigueur le 01.07.2023)
 Le Conseil d'Etat du canton de Fribourg
-Vu l'article 55a de la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
-Vu l'ordonnance fédérale du 3 juillet 2013 sur la limitation de l'admission des fournisseurs de prestations à pratiquer à la charge de l'assurance-maladie obligatoire (OLAF);
+Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
+Vu l'ordonnance fédérale du 23 juin 2021 sur la fixation des nombres maximaux de médecins qui fournissent des prestations ambulatoires;
 Sur la proposition de la Direction de la santé et des affaires sociales,
 Arrête:
