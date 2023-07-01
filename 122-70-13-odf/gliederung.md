@@ -1,11 +1,15 @@
 ## 1 Dispositions générales
-## 2 Acteurs de la formation continue
-## 3 Partenariat et offres de prestations
-## 4 Rémunération des formateurs et formatrices
-## 5 Types de formation
-## 6 Procédure
-## 7 Règles financières
-### 7.1 Prise en charge des coûts
-### 7.2 Convention de formation
-### 7.3 Budget
-## 8 Dispositions finales
+## 2 Parties prenantes et compétences
+## 3 Offres et types de formation
+### 3.1 Offres de formation
+### 3.2 Types de formation
+### 3.3 Formation des langues partenaires
+## 4 Financement
+### 4.1 Budget
+### 4.2 Prise en charge
+### 4.3 Préavis
+## 5 Obligation de remboursement
+## 6 Convention de formation
+### 6.1 Etablissement d'une convention
+### 6.2 Reprise d'une convention de formation antérieure
+## 7 Dispositions finales
