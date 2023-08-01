@@ -1,0 +1,8 @@
+# Art. 11a Auxiliaire de vie en accueil extrascolaire (art. 13 a LStE)
+1 L'auxiliaire de vie en accueil extrascolaire répond en principe à la fonction d'assistant socio-éducatif.
+2 La demande de financement est déposée auprès du Service par les structures d'accueil extrascolaire ou par les services communaux compétents.
+3 La demande indique les heures de prise en charge et le profil de l'auxiliaire de vie ainsi que le palier du traitement prévu par la réglementation sur le personnel de l'Etat pour le profil d'assistant socio-éducatif. Une copie du préavis de la cellule d'évaluation du Service de l'enseignement spécialisé et des mesures d'aide (SESAM) et de la décision de mesures d'aide renforcées de pédagogie spécialisée sous forme d'octroi d'un ou d'une auxiliaire de vie (MAR) sont jointes à la demande.
+4 Le coût déterminant est calculé sur la base de l'estimation des heures de prise en charge et du traitement prévu par la réglementation sur le personnel de l'Etat pour le profil d'assistant socio-éducatif.
+5 Le soutien est accordé dès la prise en charge de l'enfant par l'auxiliaire de vie en accueil extrascolaire, en principe, pour une année scolaire et doit faire l'objet d'un renouvellement si la prise en charge se poursuit l'année suivante.
+6 Le soutien accordé est versé en deux fois, à savoir un premier acompte de 80 % au moment de la décision et le solde sur la base d'un décompte final que la structure d'accueil extrascolaire présentera au Service à la fin de la période considérée.
+7 Au plus tard le 31 août de chaque année concernée, le décompte final est transmis au Service par les structures d'accueil extrascolaire ou par les services communaux compétents.
