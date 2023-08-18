@@ -1,7 +1,7 @@
-Planification de la chasse pour la saison 2022 – O
-# Ordonnance DIAF concernant la planification de la chasse pour la saison 2022
-(OPlan 2022)
-du 30.06.2022 (version entrée en vigueur le 08.07.2022)
+Planification de la chasse pour la saison 2023 – O
+# Ordonnance DIAF concernant la planification de la chasse pour la saison 2023
+(OPlan 2023)
+du 27.06.2023 (version entrée en vigueur le 18.08.2023)
 La Direction des institutions, de l'agriculture et des forêts
 Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP) ainsi que son ordonnance du 29 février 1988 (Ordonnance sur la chasse, OChP);
 Vu l'ordonnance fédérale du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale (OROEM);
