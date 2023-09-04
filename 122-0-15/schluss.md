@@ -1,2 +1,2 @@
 ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS
-Annexe 1: Tableau des préséances (art. 3)
+Annexe 1: Tableau des préséances (art. 3 al. 1)

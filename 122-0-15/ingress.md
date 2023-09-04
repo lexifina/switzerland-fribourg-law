@@ -1,7 +1,7 @@
 Règlement protocolaire
 # Règlement protocolaire
-du 10.12.2018 (version entrée en vigueur le 01.02.2022)
+du 04.09.2023 (version entrée en vigueur le 04.09.2023)
 Le Conseil d'Etat du canton de Fribourg
-Vu l'article 26 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration;
+Vu l'article 26 al. 2 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA);
 Sur la proposition de la Chancellerie d'Etat,
 Arrête:
