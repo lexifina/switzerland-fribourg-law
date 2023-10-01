@@ -1,6 +1,6 @@
 Epizooties, statut des membres de l'équipe d'intervention – O
 # Ordonnance DIAF fixant le statut des membres de l'équipe d'intervention en cas d'épizootie
-du 14.01.2015 (version entrée en vigueur le 01.03.2015)
+du 14.01.2015 (version entrée en vigueur le 01.10.2023)
 La Direction des institutions, de l'agriculture et des forêts
 Vu la loi du 17 octobre 2001 sur le personnel de l'état (LPers) et son règlement d'exécution du 17 décembre 2002 (RPers);
 Vu la loi du 22 septembre 1982 réglant la durée des fonctions publiques accessoires;
