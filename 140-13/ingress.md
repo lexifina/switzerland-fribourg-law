@@ -1,0 +1,6 @@
+Surveillance des associations de communes, préfets suppléants – A
+Arrêté désignant les préfets et préfètes suppléants chargés de la surveillance des associations de communes
+du 26.09.2023 (version entrée en vigueur le 01.10.2023)
+Le Conseil d'Etat du canton de Fribourg
+Vu l'article 146 al. 1 et 4 de la loi du 25 septembre 1980 sur les communes (LCo); Considérant: La surveillance d'une association de communes incombe au préfet ou à la préfète du district dans lequel celle-ci a son siège (art. 146 al. 1 LCo). Toutefois, lorsque le préfet ou la préfète, ou son lieutenant ou sa lieutenante, exerce une fonction au sein d'une association de communes, la surveillance est assumée par un autre préfet ou une autre préfète, désigné‑e par le Conseil d'Etat (art. 146 al. 4 LCo). Par arrêté du 19 décembre 2017 (ROF 2017_121), le Conseil d'Etat a désigné les préfets et préfètes suppléants. Cependant, compte tenu des élections qui ont eu lieu depuis lors, il convient de mettre à jour l'arrêté. Les préfets et préfètes ont été consultés. L'actualisation tient compte des communications des préfets et préfètes et des suppléances existantes. Sur la proposition de la Direction des institutions, de l'agriculture et des forêts,
+Arrête:
