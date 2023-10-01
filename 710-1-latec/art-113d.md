@@ -1,4 +1,6 @@
 # Art. 113d Taxation
-1 Sur la proposition de la Commission d'acquisition des immeubles, la Direction procède à la taxation par le biais d'une décision motivée. Cette décision peut faire l'objet d'un recours auprès du Tribunal cantonal.
-2 La taxe sur la plus-value fait l'objet d'une mention inscrite au registre foncier. Celle-ci remplace la mention inscrite en application de l'article 113a al. 4.
+1 Le Service cantonal des contributions (ci-après le SCC) est l'autorité de taxation pour la taxe cantonale et communale. La taxation est basée sur les informations transmises par le Service des constructions et de l'aménagement. Le SCC procède à la taxation par le biais d'une décision. Cette décision peut faire l'objet d'une réclamation motivée auprès du SCC dans un délai de 30 jours dès la notification de la taxation.
+1a La décision sur réclamation peut faire l'objet d'un recours auprès du Tribunal cantonal dans un délai de 30 jours dès sa notification.
+1b Sur proposition du SCC, la Direction des finances peut mandater un expert ou une experte externe pour estimer la plus-value. Ce mandat est financé par le Fonds de la plus-value, conformément à l'article 113c al. 2.
+2 …
 3 Le droit de procéder à la taxation se prescrit par cinq ans à compter de l'entrée en force de la mesure d'aménagement au sens de l'article 113a al. 2, mais, dans tous les cas, au plus tard dix ans à compter de ce même jour. Pour la suspension et l'interruption de la prescription, l'article 151 al. 2 et 3 de la loi du 6 juin 2000 sur les impôts cantonaux directs (LICD) s'applique par analogie.

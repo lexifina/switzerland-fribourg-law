@@ -1,0 +1,4 @@
+# Art. 113abis Information des propriétaires
+1 Sur la base des informations figurant dans le préavis de synthèse d'examen préalable émis par le Service (art. 77), les communes identifient les biens-fonds potentiellement soumis à la taxe sur la plus-value dans le rapport explicatif et de conformité accompagnant le dossier de planification (art. 39 al. 2).
+2 Avant la mise à l'enquête publique de leur dossier de planification, les communes saisissent la liste des biens-fonds concernés sur une application mise à disposition par le canton, à des fins de publication sur un portail cartographique, à titre indicatif.
+3 Sur réquisition de la Direction, l'assujettissement d'un bien-fonds à la taxe sur la plus-value fait l'objet d'une mention opérée au registre foncier dès l'entrée en force de la mesure d'aménagement.
