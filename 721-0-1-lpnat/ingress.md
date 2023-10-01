@@ -1,7 +1,7 @@
 Protection de la nature et du paysage – L
 # Loi sur la protection de la nature et du paysage
 (LPNat)
-du 12.09.2012 (version entrée en vigueur le 01.01.2022)
+du 12.09.2012 (version entrée en vigueur le 01.10.2023)
 Le Grand Conseil du canton de Fribourg
 Vu l'article 78 de la Constitution fédérale du 18 avril 1999;
 Vu l'article 73 de la Constitution du canton de Fribourg du 16 mai 2004;
