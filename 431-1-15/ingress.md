@@ -1,6 +1,6 @@
 Université, bachelor en sciences du sport et de la motricité – O
-# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2023/24
-du 12.12.2022 (version entrée en vigueur le 12.12.2022)
+# Ordonnance limitant le nombre de places d'études au niveau bachelor en sciences du sport et de la motricité à l'Université de Fribourg pour l'année académique 2024/25
+du 07.11.2023 (version entrée en vigueur le 07.11.2023)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 24 de la loi du 19 novembre 1997 sur l'Université (LUni);
 Considérant:
