@@ -10,7 +10,7 @@
 #### 2.3.1 Plan d'aménagement local (art. 38ss LATeC)
 #### 2.3.2 Procédure applicable aux plans et aux règlements (art. 77ss LATeC)
 ### 2.4 Remaniement de terrains à bâtir et régularisation de limites (art. 105ss LATeC)
-### 2.5 Fonds cantonal de la plus-value
+### 2.5 Taxe sur la plus-value (art. 113a ss LATeC)
 ## 3 Constructions
 ### 3.1 Règles de construction (art. 119ss LATeC)
 #### 3.1.1 En général (art. 119 et 120 LATeC)
