@@ -1,7 +1,7 @@
 Droit de cité fribourgeois - L
 # Loi sur le droit de cité fribourgeois
 (LDCF)
-du 14.12.2017 (version entrée en vigueur le 01.01.2018)
+du 14.12.2017 (version entrée en vigueur le 01.01.2024)
 Le Grand Conseil du canton de Fribourg
 Vu l'article 38 de la Constitution fédérale du 18 avril 1999;
 Vu la loi fédérale du 20 juin 2014 sur la nationalité suisse (LN);
