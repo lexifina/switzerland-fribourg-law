@@ -21,7 +21,7 @@
 ### 3 00 ENSEIGNEMENT
 #### 3 10 Ecoles primaires
 #### 3 20 Ecoles du cycle d'orientation (CO)
-#### 3 30 Ecoles professionnelles initiales
+#### 3 30 Ecoles professionnelles (EP)
 #### 3 35 Ecoles supérieures (ES)
 #### 3 40 Hautes écoles spécialisées (HEG-FR, HETS-FR, HEIA-FR, HEdS-FR)
 #### 3 45 Haute Ecole pédagogique Fribourg (HEP-PH FR)
