@@ -1,7 +1,7 @@
 Service de la sécurité alimentaire et des affaires vétérinaires, frais – O
 # Ordonnance fixant le tarif des frais du Service de la sécurité alimentaire et des affaires vétérinaires
 (OFSAAV)
-du 19.08.2014 (version entrée en vigueur le 01.09.2014)
+du 19.08.2014 (version entrée en vigueur le 01.01.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu les législations fédérale et cantonale en matière de sécurité alimentaire et d'affaires vétérinaires;
 Vu le code du 23 mai 1991 de procédure et de juridiction administrative;
