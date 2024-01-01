@@ -1,0 +1,2 @@
+Approbation Ce statut a été approuvé par le Conseil d'Etat le 08.04.1997 et par l'Autorité diocésaine le 11.03.1997. La modification du 16.06.2012 a été approuvée par le Conseil d'Etat le 16.04.2013 et par l'Autorité diocésaine le 11.04.2013. La modification du 31.08.2017 a été approuvée par le Conseil d'Etat le 09.10.2017 et par l'Autorité diocésaine le 12.09.2017. La modification du 17.06.2023 a été approuvée par le Conseil d'Etat le 16.01.2024 et par l'Autorité diocésaine le 27.03.2024.
+BL/AGS 1997 f 158 / d 160
