@@ -1,0 +1,4 @@
+# Art. 56a Droit transitoire – Modification du 8 février 2023 – Cours théorique et évaluation de conductibilité
+1 L'évaluation de conductibilité est applicable aux chiens nouvellement détenus nés après l'entrée en vigueur de cette modification.
+2 Toutefois, les chiens qui faisaient précédemment l'objet d'une autorisation de détention avec charge sécuritaire en fonction de leur race sont soumis à une évaluation de conductibilité officielle qui doit être faite par le Service dans un délai de deux ans à compter de l'entrée en vigueur de la modification.
+3 Les chiens qui faisaient précédemment l'objet d'une autorisation de détention avec charge éducative ou les chiens dont la procédure d'autorisation en fonction de leur race n'est pas terminée sont soumis à une évaluation pratique de conductibilité qui doit être faite par un éducateur ou une éducatrice dans un délai de deux ans à compter de l'entrée en vigueur de la modification.
