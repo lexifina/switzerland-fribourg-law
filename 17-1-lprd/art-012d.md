@@ -1,4 +1,0 @@
-# Art. 12d Externalisation – Mesures de sécurité
-1 L'intégrité, l'authenticité, la disponibilité et la confidentialité des données personnelles externalisées ainsi que la pérennité de leur conservation et de leur exploitation doivent être garanties par des mesures organisationnelles et techniques appropriées et adaptées à l'évolution des technologies disponibles.
-2 La définition des mesures de sécurité tient compte des risques que le traitement des données en question présente pour la personnalité et les droits fondamentaux des personnes concernées.
-3 Lorsque l'externalisation concerne des données indispensables au fonctionnement de l'administration, la continuité des activités externalisées doit, en cas d'incident, être garantie par un dispositif adéquat.

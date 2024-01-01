@@ -1,7 +1,7 @@
 Justice – L
 # Loi sur la justice
 (LJ)
-du 31.05.2010 (version entrée en vigueur le 01.01.2022)
+du 31.05.2010 (version entrée en vigueur le 01.01.2024)
 Le Grand Conseil du canton de Fribourg
 Vu la Constitution du canton de Fribourg du 16 mai 2004 (Cst. cant.), notamment ses articles 120 à 128;
 Vu le code du 19 décembre 2008 de procédure civile (CPC);

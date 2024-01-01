@@ -4,3 +4,5 @@
 3 Un préfinancement est considéré comme une charge extraordinaire.
 4 Il ne se justifie que pour des coûts importants.
 5 Un préfinancement ne constitue pas une base légale.
+4 Types de crédit
+4.1 Crédit d'engagement

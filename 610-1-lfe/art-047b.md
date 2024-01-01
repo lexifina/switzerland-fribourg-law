@@ -1,0 +1,7 @@
+# Art. 47b Accès au système de gestion intégré des finances
+1 Le système de gestion intégré est mis à la disposition des établissements et services pour leur permettre d'effectuer les opérations financières et comptables relevant de leurs domaines de compétence. Les communes y ont également accès pour consulter leur propre compte courant.
+2 Les établissements et services utilisateurs du système de gestion intégré peuvent y saisir les données, y compris des données personnelles sensibles, qu'ils traitent en lien avec la gestion et la planification financières.
+3 L'Administration des finances dispose d'un accès direct et permanent à la totalité des données introduites dans le système de gestion intégré par les établissements et services utilisateurs.
+4 Si l'accomplissement des tâches et attributions découlant de la présente loi le requiert, le système de gestion intégré peut être interfacé avec d'autres systèmes d'information de l'Etat. Une autorisation préalable est requise et les droits d'accès doivent être strictement délimités.
+5 Les données personnelles peuvent être rendues accessibles au moyen d'une procédure d'appel au sens de la loi cantonale sur la protection des données.
+6 Les données personnelles contenues dans le système de gestion intégré peuvent, sur demande, être communiquées à d'autres autorités ou à des tiers lorsque cette communication est nécessaire à l'accomplissement des tâches et attributions découlant de la présente loi.
