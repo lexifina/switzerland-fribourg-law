@@ -1,7 +1,7 @@
 Conseil d'Etat, gestion des séances – O
 # Ordonnance sur la gestion des séances du Conseil d'Etat
 (OGSCE)
-du 08.04.2014 (version entrée en vigueur le 01.05.2023)
+du 08.04.2014 (version entrée en vigueur le 01.04.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA), notamment ses articles 22, 26 et 29 à 42;
 Vu la loi du 9 septembre 2009 sur l'information et l'accès aux documents (LInf), notamment ses articles 5 à 10 et 29;
