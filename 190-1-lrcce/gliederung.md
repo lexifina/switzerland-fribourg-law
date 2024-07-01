@@ -5,6 +5,7 @@
 ### 3.2 Tâches supraparoissiales ou cantonales et péréquation financière
 ## 4 Dispositions diverses
 ## 5 Octroi de prérogatives de droit public
+## 5a Conseil cantonal pour les questions religieuses
 ## 6 Adoption des premiers Statuts
 ### 6.1 Eglise catholique romaine
 ### 6.2 Eglise évangélique réformée
