@@ -1,6 +1,6 @@
 Chasse du sanglier – O
 # Ordonnance concernant la chasse du sanglier
-du 22.05.2023 (version entrée en vigueur le 15.06.2023)
+du 18.03.2024 (version entrée en vigueur le 01.07.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (LChP), ainsi que son ordonnance du 29 février 1988 (OChP);
 Vu l'ordonnance fédérale du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale (OROEM);
