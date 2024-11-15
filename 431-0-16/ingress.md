@@ -1,6 +1,6 @@
 Université, taxe d'inscription – O
 # Ordonnance concernant la taxe d'inscription des étudiants et étudiantes et des auditeurs et auditrices de l'Université de Fribourg
-du 07.11.2017 (version entrée en vigueur le 01.01.2018)
+du 07.11.2017 (version entrée en vigueur le 15.11.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 19 novembre 1997 sur l'Université;
 Considérant:
