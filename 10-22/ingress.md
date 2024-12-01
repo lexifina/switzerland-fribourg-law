@@ -1,6 +1,6 @@
 Soutien aux initiatives en faveur du bilinguisme – O
 # Ordonnance sur le soutien aux initiatives en faveur du bilinguisme
-du 05.06.2018 (version entrée en vigueur le 01.01.2022)
+du 05.06.2018 (version entrée en vigueur le 01.12.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 6 al. 4, 2e phr., de la Constitution du canton de Fribourg du 16 mai 2004;
 Vu l'article 4 let. b de la loi du 10 février 2015 relative à la Journée du bilinguisme;
