@@ -1,6 +1,6 @@
 Personnel de l'Etat, classification des fonctions – O
 # Ordonnance relative à la classification des fonctions du personnel de l'Etat
-du 29.11.2022 (version entrée en vigueur le 01.01.2024)
+du 29.11.2022 (version entrée en vigueur le 01.12.2024)
 Le Conseil d'Etat du canton de Fribourg
 Vu le règlement du 17 décembre 2002 du personnel de l'Etat (RPers);
 Vu le règlement du 11 juin 1991 relatif à la procédure d'évaluation et de classification des fonctions du personnel de l'Etat (RECF);
