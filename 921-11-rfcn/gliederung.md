@@ -25,11 +25,22 @@
 ## 7 Forêts domaniales
 ## 8 Dispositions pénales
 ## 9 Dispositions finales
-## A1 ANNEXE 1 Système forfaitaire (art. 15 al. 2)
-### A1.1 Procédure
-### A1.2 Conservation et protection des forêts
-### A1.3 Appui à la gestion de la forêt
-### A1.4 Promotion de la forêt et du bois
-### A1.5 Protection contre les dangers naturels
-### A1.6 Vulgarisation
-### A1.7 Suppléments divers pour tâches nominatives
+## A1 …
+### A1.1 …
+### A1.2 …
+### A1.3 …
+### A1.4 …
+### A1.5 …
+### A1.6 …
+### A1.7 …
+## A2 ANNEXE 2 – Système forfaitaire (art. 15 al. 2)
+### A2.1 Procédure
+### A2.2 Forêt et dangers naturels
+#### A2.2.1 Conservation des forêts
+#### A2.2.2 Protection des forêts
+#### A2.2.3 Appui à la gestion de la forêt
+#### A2.2.4 Promotion de la forêt et du bois
+#### A2.2.5 Protection contre les dangers naturels
+### A2.3 Protection de la nature et du paysage
+#### A2.3.1 Surveillance générale, biotopes et paysages
+### A2.4 Suppléments divers pour tâches nominatives
