@@ -1,0 +1,5 @@
+# Art. 9b Obligation d'utiliser les marques en cas de soutien de l'Etat
+1 L'octroi d'un soutien de l'Etat pour des projets ou des activités contribuant, à l'extérieur ou à l'intérieur du canton, au rayonnement de celui-ci dans les domaines économique, culturel, sportif ou social peut être subordonné à l'utilisation et à la mise en évidence des marques «FRIBOURG» et «FREIBURG» dans ces projets ou activités.
+2 Lorsque le soutien prend la forme d'une subvention, son octroi peut, si les critères fixés à l'alinéa 1 sont remplis, être accompagné d'une charge relative à l'utilisation de ces marques.
+3 Sous réserve des directives mentionnées à l'article 9a al. 3, l'organe qui décide du soutien est compétent pour évaluer si le projet ou l'activité en question répond aux critères fixés à l'alinéa 1 et si la mesure qui y est fixée est opportune.
+4 L'obligation de mettre en évidence les marques «FRIBOURG» et «FREIBURG» ne remplace pas, pour les tiers concernés, le signalement du soutien de l'Etat par les moyens usuels.
