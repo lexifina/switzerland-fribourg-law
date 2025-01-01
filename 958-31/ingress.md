@@ -1,6 +1,6 @@
 Loterie romande, répartition des bénéfices – O
 # Ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande
-du 09.12.2020 (version entrée en vigueur le 01.01.2021)
+du 09.12.2020 (version entrée en vigueur le 01.01.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 106 de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (Cst. féd.);
 Vu les articles 125 et suivants de la loi fédérale du 29 septembre 2017 sur les jeux d'argent (LJAr);
