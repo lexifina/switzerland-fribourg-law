@@ -1,6 +1,6 @@
 Référentiel cantonal de données – O
 # Ordonnance concernant la mise en œuvre du Référentiel cantonal de données de personnes, organisations et nomenclatures (projet pilote)
-du 24.06.2019 (version entrée en vigueur le 01.12.2024)
+du 24.06.2019 (version entrée en vigueur le 01.02.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 2 novembre 2016 sur le guichet de cyberadministration (LGCyb) convertie en loi du 18 décembre 2020 sur la cyberadministration (LCyb), en particulier ses articles 17 à 22 et 35;
 Vu le préavis de l'Autorité cantonale de la transparence et de la protection des données du 4 février 2019;

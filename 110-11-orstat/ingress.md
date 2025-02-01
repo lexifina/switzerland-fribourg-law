@@ -1,7 +1,7 @@
 Relevés statistiques cantonaux – O
 # Ordonnance concernant l'exécution des relevés statistiques cantonaux
 (ORStat)
-du 03.03.2020 (version entrée en vigueur le 03.03.2020)
+du 03.03.2020 (version entrée en vigueur le 01.02.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 7 février 2006 sur la statistique cantonale (LStat), notamment les articles 1 al. 1 let. c, 2 al. 1, 5 al. 6, 6 al. 1, 7 al. 2, 8 al. 1 et 9 al. 1;
 Considérant:

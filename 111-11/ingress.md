@@ -1,6 +1,6 @@
 Population dite légale
 # Ordonnance relative à la population dite légale
-du 16.08.2011 (version entrée en vigueur le 01.07.2024)
+du 16.08.2011 (version entrée en vigueur le 01.02.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 6 al. 1 de la loi du 7 février 2006 sur la statistique cantonale (LStat);
 Considérant:
