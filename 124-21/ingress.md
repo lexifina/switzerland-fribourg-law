@@ -1,5 +1,5 @@
 # Ordonnance concernant la Feuille officielle
-du 21.12.2010 (version entrée en vigueur le 01.01.2024)
+du 21.12.2010 (version entrée en vigueur le 01.04.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 9 al. 3 de la loi du 16 octobre 2001 sur la publication des actes législatifs (LPAL);
 Considérant:
