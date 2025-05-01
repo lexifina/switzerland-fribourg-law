@@ -1,2 +1,2 @@
 ANNEXES SOUS FORME DE DOCUMENTS SÉPARÉS
-Annexe 1: Estimation des prestations en nature (art. 13 al. 3) Annexe 2: Barème de calcul de l'indemnité pour longs rapports de service selon l'article 339c CO (art. 21
+Annexe 1: Indemnité à raison de longs rapports de travail (art. 339c CO) – Echelle de référence
