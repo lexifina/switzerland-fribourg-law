@@ -1,5 +1,5 @@
 # Ordonnance d'application de la loi fédérale sur les guides de montagne et les organisateurs d'autres activités à risque
-du 17.12.2013 (version entrée en vigueur le 01.01.2014)
+du 17.12.2013 (version entrée en vigueur le 30.06.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 17 décembre 2010 sur les guides de montagne et les organisateurs d'autres activités à risque;
 Vu l'ordonnance fédérale du 30 novembre 2012 sur les guides de montagne et les organisateurs d'autres activités à risque;
