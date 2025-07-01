@@ -1,7 +1,7 @@
-Planification de la chasse pour la saison 2024 – O
-# Ordonnance DIAF concernant la planification de la chasse pour la saison 2024
-(OPlan 2024)
-du 20.06.2024 (version entrée en vigueur le 01.07.2024)
+Planification de la chasse pour la saison 2025 – O
+# Ordonnance DIAF concernant la planification de la chasse pour la saison 2025
+(OPlan 2025)
+du 30.06.2025 (version entrée en vigueur le 01.07.2025)
 La Direction des institutions, de l'agriculture et des forêts
 Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (Loi sur la chasse, LChP) ainsi que son ordonnance du 29 février 1988 (Ordonnance sur la chasse, OChP);
 Vu l'ordonnance fédérale du 21 janvier 1991 sur les réserves d'oiseaux d'eau et de migrateurs d'importance internationale et nationale (OROEM);
