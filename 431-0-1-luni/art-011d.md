@@ -6,3 +6,4 @@ b) l'encouragement aux inventions du personnel (art. 23 LPers);
 c) les modalités de la mise au concours des emplois (art. 25 LPers).
 3 Le règlement adopté par l'Université concernant le personnel est soumis à l'approbation du Conseil d'Etat.
 4 La gestion du personnel est assumée par une unité centralisée de l'Université.
+2 Communauté universitaire

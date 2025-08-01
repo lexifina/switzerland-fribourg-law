@@ -1,7 +1,7 @@
 Enseignement secondaire supérieur - L
 # Loi sur l'enseignement secondaire supérieur
 (LESS)
-du 11.12.2018 (version entrée en vigueur le 01.01.2024)
+du 11.12.2018 (version entrée en vigueur le 01.08.2025)
 Le Grand Conseil du canton de Fribourg
 Vu les dispositions relatives aux écoles de commerce et à la maturité professionnelle contenues dans la législation fédérale sur la formation professionnelle;
 Vu l'ordonnance du 15 février 1995 du Conseil fédéral sur la reconnaissance des certificats de maturité gymnasiale (ORM);

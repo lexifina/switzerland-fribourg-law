@@ -4,3 +4,4 @@
 a) si ce dernier ou cette dernière a occasionné des frais supplémentaires par sa faute;
 b) en cas de procédure téméraire, abusive ou introduite à la légère;
 c) si le recours a causé un travail excessif à la Commission.
+4 Dispositions finales
