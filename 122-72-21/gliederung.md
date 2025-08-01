@@ -24,7 +24,7 @@
 #### 3 30 Ecoles professionnelles (EP)
 #### 3 35 Ecoles supérieures (ES)
 #### 3 40 Hautes écoles spécialisées (HEG-FR, HETS-FR, HEIA-FR, HEdS-FR)
-#### 3 45 Haute Ecole pédagogique Fribourg (HEP-PH FR)
+#### 3 45 …
 #### 3 50 Ecoles du degré secondaire supérieur (DSS)
 #### 3 60 Consultant-e-s – Inspectorat scolaire
 #### 3 70 Conservatoire de Fribourg (COF)
