@@ -1,7 +1,7 @@
 Ecole de commerce à plein temps – R
 # Règlement sur l'école de commerce à plein temps
 (RECPT)
-du 21.06.2016 (version entrée en vigueur le 01.02.2022)
+du 21.06.2016 (version entrée en vigueur le 01.08.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 13 décembre 2002 sur la formation professionnelle;
 Vu l'ordonnance fédérale du 19 novembre 2003 sur la formation professionnelle;
