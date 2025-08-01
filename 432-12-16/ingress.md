@@ -1,6 +1,6 @@
 HES-SO//FR, taxes et contributions – O
 # Ordonnance concernant les taxes et les contributions dues par les étudiants et étudiantes immatriculés à la Haute Ecole spécialisée de Suisse occidentale//Fribourg
-du 19.12.2017 (version entrée en vigueur le 01.02.2022)
+du 19.12.2017 (version entrée en vigueur le 01.08.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu la Convention intercantonale du 26 mai 2011 sur la Haute Ecole spécialisée de Suisse occidentale (HES-SO);
 Vu le règlement du 26 mai 2011 relatif aux taxes à la HES-SO, adopté par les comités stratégiques HES-SO et HES-S2;
