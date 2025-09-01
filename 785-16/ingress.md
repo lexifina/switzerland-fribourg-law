@@ -1,0 +1,6 @@
+Navigation, émoluments – A
+Arrêté fixant les émoluments en matière de navigation
+du 12.07.1991 (version entrée en vigueur le 01.09.2025)
+Le Conseil d'Etat du canton de Fribourg
+Vu la loi fédérale du 3 octobre 1975 sur la navigation intérieure; Vu l'ordonnance du 8 novembre 1978 sur la navigation dans les eaux suisses; Vu la loi du 7 février 1991 d'application de la législation fédérale sur la navigation intérieure; Considérant: L'introduction de nouvelles tâches techniques et administratives incombant aux cantons ainsi que la nouvelle loi du 7 février 1991 d'application de la législation fédérale sur la navigation intérieure nécessitent une adaptation de l'arrêté du 14 mai 1979 fixant les émoluments en matière de navigation. Afin de simplifier la perception des émoluments pour l'obtention d'un permis de conduire, l'arrêté met sur pied un système d'émolument forfaitaire perçu pour un ensemble d'opérations (l'enregistrement de la demande, les examens théorique et pratique, la délivrance du permis de conduire, etc.). En outre, le renchérissement survenu depuis la dernière révision de cet arrêté et le fait que certains émoluments perçus ne couvrent plus les frais de l'administration justifient une augmentation ponctuelle des émoluments. Sur la proposition de la Direction de la justice, de la police et des affaires militaires,
+Arrête:
