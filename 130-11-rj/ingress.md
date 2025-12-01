@@ -1,7 +1,7 @@
 Justice – R
 # Règlement sur la justice
 (RJ)
-du 30.11.2010 (version entrée en vigueur le 01.01.2023)
+du 30.11.2010 (version entrée en vigueur le 01.12.2025)
 Le Conseil d'Etat du canton de Fribourg
 Vu le code du 19 décembre 2008 de procédure civile (CPC);
 Vu le code du 5 octobre 2007 de procédure pénale (CPP);
