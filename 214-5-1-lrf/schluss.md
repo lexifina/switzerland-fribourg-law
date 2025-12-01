@@ -6,3 +6,4 @@ Les modifications suivantes ont été approuvées:
 3. loi du 17.09.1998: approuvée par le Département fédéral de justice et police le 11.12.1998
 4. loi du 07.10.2003: approuvée par le Département fédéral de justice et police le 22.12.2003
 5. loi du 08.09.2011: approuvée par le Département fédéral de justice et police le 21.12.2011
+6. loi du 02.09.2025: approuvée par le Département fédéral de justice et police le 24.11.2025

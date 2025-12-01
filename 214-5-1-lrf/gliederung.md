@@ -1,6 +1,7 @@
 ## 1 Organisation
 ### 1.1 Arrondissements et Services
-### 1.2 Autorité de surveillance du registre foncier
+### 1.2 Autorité de surveillance administrative
+### 1.3 Commission de recours en matière de registre foncier
 ## 2 Etablissement du registre foncier fédéral
 ### 2.1 Procédure ordinaire
 #### 2.1.1 Règles générales
@@ -16,7 +17,7 @@
 ### 3.2 Opérations au registre foncier
 ### 3.3 Conditions des opérations au registre foncier
 ### 3.3a Communications et transactions électroniques
-### 3.4 Recours à l'Autorité de surveillance
+### 3.4 Recours à la Commission
 ### 3.4a Recours au Tribunal cantonal
 ### 3.5 Emoluments
 ## 4 Dispositions transitoires et finales
