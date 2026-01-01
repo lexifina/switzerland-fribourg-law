@@ -1,5 +1,5 @@
 # Ordonnance fixant les tarifs de référence des hôpitaux et des maisons de naissance
-du 10.12.2024 (version entrée en vigueur le 01.01.2025)
+du 13.01.2026 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal);
 Considérant:
