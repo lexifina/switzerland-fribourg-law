@@ -1,0 +1,2 @@
+# Art. 8b
+1 Le 1er janvier de chaque année, les montants sont adaptées à l'évolution de l'indice des prix à la consommation, à la condition que cet indice ait subi une augmentation d'au moins 5 points (indice de référence: octobre 2025 = 107,2 pts; base décembre 2020 = 100 pts) jusqu'en septembre de l'année précédente, depuis l'entrée en vigueur de la modification du 15 décembre 2025 ou depuis la dernière adaptation au renchérissement.

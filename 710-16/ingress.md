@@ -1,6 +1,6 @@
 Aménagement du territoire et des constructions, émoluments – O
 # Ordonnance fixant le tarif des émoluments et des frais de procédure dans le domaine de l'aménagement du territoire et des constructions
-du 30.06.2015 (version entrée en vigueur le 01.02.2022)
+du 30.06.2015 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 22 juin 1979 sur l'aménagement du territoire;
 Vu la loi du 9 février 1924 concernant le tarif des émoluments de chancellerie;

@@ -1,6 +1,6 @@
 Ecoles du secondaire du deuxième degré, écolages – O
 # Ordonnance fixant les écolages et les taxes d'inscription des écoles du secondaire du deuxième degré
-du 27.06.1995 (version entrée en vigueur le 01.02.2022)
+du 27.06.1995 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 67 et 68 de la loi du 11 avril 1991 sur l'enseignement secondaire supérieur (LESS);
 Considérant:

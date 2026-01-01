@@ -1,7 +1,7 @@
 Archivage – R
 # Règlement sur l'archivage
 (RArch)
-du 04.06.2019 (version entrée en vigueur le 01.07.2019)
+du 04.06.2019 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 10 septembre 2015 sur l'archivage et les Archives de l'Etat (LArch);
 Vu l'article 70 al. 1 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA);
