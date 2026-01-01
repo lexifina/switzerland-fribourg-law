@@ -1,15 +1,11 @@
 Formation dans le domaine des soins infirmiers, soutien financier – O
 # Ordonnance relative aux mesures d'encouragement de la formation par un soutien financier durant la formation dans le domaine des soins infirmiers
-du 28.05.2024 (version entrée en vigueur le 01.07.2024)
+du 28.05.2024 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
-Vu la Constitution fédérale du 18 avril 1999, en particulier l'article 117b;
+Vu la Constitution fédérale du 18 avril 1999 (Cst.), en particulier l'article 117b;
 Vu la loi fédérale du 16 décembre 2022 relative à l'encouragement de la formation dans le domaine des soins infirmiers, en particulier l'article 7, ainsi que l'ordonnance fédérale du 8 mai 2024 relative à l'encouragement de la formation dans le domaine des soins infirmiers;
+Vu l'article 9 de la loi du 5 septembre 2025 sur l'encouragement de la formation dans le domaine des soins (LEFS);
 Vu la loi du 17 novembre 1999 sur les subventions (LSub), en particulier l'article 37;
 Vu la loi du 14 février 2008 sur les bourses et les prêts d'études (LBPE) et son règlement du 8 juillet 2008 (RBPE);
-Considérant:
-Le 28 novembre 2021, le peuple et les cantons ont accepté l'initiative «Pour des soins infirmiers forts (initiative sur les soins infirmiers)». Ainsi, l'article 117b de la Constitution fédérale a été introduit et le Parlement a adopté le 16 décembre 2022 la nouvelle loi fédérale relative à l'encouragement de la formation dans le domaine des soins infirmiers, laquelle vise à créer davantage de places de formation et à améliorer la qualité de la formation actuelle.
-La Confédération et les cantons sont désormais tenus de s'assurer qu'il existe un nombre suffisant d'infirmiers et infirmières diplômés en Suisse. A Fribourg, l'objectif est d'augmenter progressivement de 150 le nombre de personnes en formation à la Haute Ecole spécialisée de Suisse occidentale//Fribourg (HES-SO//FR), par l'intermédiaire de la Haute école de Santé de Fribourg (HEdS-FR) d'ici à 2028. L'offensive de formation oblige les cantons à mettre en œuvre des mesures d'encouragement dans trois domaines, dont un soutien financier à des étudiants ou étudiantes en soins infirmiers, s'ils ne parviennent pas à assurer leurs moyens d'existence et leurs frais de formation (art. 7 de la loi fédérale).
-Les dispositions d'exécution fédérales doivent entrer en vigueur le 1er juillet 2024, en même temps que la loi fédérale susmentionnée. À compter de cette date, les contributions financières de la Confédération doivent pouvoir faire l'objet de demandes et de versements.
-Dans ce contexte, les cantons doivent créer les bases légales pour la mise en œuvre des mesures en faveur de l'encouragement de la formation dans le domaine des soins infirmiers dans les meilleurs délais. Une loi cantonale fribourgeoise sera soumise au Grand Conseil. Dans l'attente de l'entrée en vigueur de cette future loi, et afin de pouvoir octroyer des bourses en soins infirmiers - et de percevoir les contributions financières de la Confédération - pour les personnes entreprenant leur formation en soins infirmiers en 2024, la présente ordonnance, qui fixe notamment les conditions et limites d'octroi d'une bourse en soins infirmiers, entre en vigueur avec effet immédiat. Son contenu sera, par la suite, repris dans la législation cantonale.
 Sur la proposition de la Direction de la formation et des affaires culturelles et de la Direction de l'économie, de l'emploi et de la formation professionnelle,
 Arrête:
