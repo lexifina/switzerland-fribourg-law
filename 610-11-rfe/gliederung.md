@@ -9,7 +9,7 @@
 ## 5b Fonds d'infrastructures (art. 42abis LFE)
 ## 6 Compétences financières (voir annexe 2)
 ### 6.1 Engagement des dépenses
-### 6.2 Signature des ordres de paiement et des bordereaux de recettes
+### 6.2 Signature des paiements et des bordereaux de recettes
 ### 6.3 Gestion financière
 ## 7 Contrôle des finances
 ## 8 Dispositions transitoires et finales
