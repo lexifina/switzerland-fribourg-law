@@ -50,4 +50,5 @@
 ### 10.3 Garantie de poste
 ### 10.4 Passage du régime LPP au régime de pensions
 ### 10.5 Passage au nouveau système salarial
+## 10a Mesures d'assainissement des finances de l'Etat 2026-2028
 ## 11 Dispositions finales

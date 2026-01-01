@@ -1,6 +1,6 @@
 Personnel de l'Etat, primes de reconnaissance – O
 # Ordonnance sur les primes de reconnaissance pour le personnel de l'Etat
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 12.12.2022 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 94a de la loi sur le personnel de l'Etat (LPers);
 Considérant:
