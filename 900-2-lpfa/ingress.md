@@ -1,7 +1,7 @@
 Politique foncière active - L
 # Loi sur la politique foncière active
 (LPFA)
-du 18.10.2019 (version entrée en vigueur le 01.01.2020)
+du 18.10.2019 (version entrée en vigueur le 01.01.2026)
 Le Grand Conseil du canton de Fribourg
 Vu les articles 54, 57, 72 et 104 de la Constitution du canton de Fribourg du 16 mai 2004 (Cst.);
 Vu les articles 4 al. 2, 52, 54, 59a, 59b, 59c et 61 de la loi du 16 octobre 2001 sur l'organisation du Conseil d'Etat et de l'administration (LOCEA);
