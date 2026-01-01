@@ -1,6 +1,6 @@
 Subventions de moindre importance – O
 # Ordonnance relative à diverses subventions de moindre importance
-du 10.10.2006 (version entrée en vigueur le 01.07.2011)
+du 10.10.2006 (version entrée en vigueur le 01.01.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi du 17 novembre 1999 sur les subventions (LSub);
 Vu l'article 44 al. 2 let. h de la loi du 25 novembre 1994 sur les finances de l'Etat (LFE);
