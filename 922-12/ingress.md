@@ -1,6 +1,6 @@
 Examen d'aptitude à la chasse – R
 # Règlement concernant l'examen d'aptitude à la chasse
-du 12.10.2021 (version entrée en vigueur le 01.07.2024)
+du 12.10.2021 (version entrée en vigueur le 01.03.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu la loi fédérale du 20 juin 1986 sur la chasse et la protection des mammifères et oiseaux sauvages (LChP);
 Vu le concordat du 22 mai 1978 sur l'exercice et la surveillance de la chasse;
