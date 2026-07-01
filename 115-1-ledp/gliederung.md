@@ -10,7 +10,7 @@
 ### 2.1 Votations fédérales et cantonales
 ### 2.2 Votations communales
 ## 3 Elections
-### 3.1 Listes électorales
+### 3.1 Listes électorales et bulletins électoraux officiels
 ### 3.2 Election aux Chambres fédérales
 ### 3.3 Election au Conseil des Etats et des autorités cantonales et communales
 #### 3.3.1 Dispositions communes
@@ -39,7 +39,8 @@
 #### 4.3.3 Motion populaire
 ### 4.3a Promulgation
 ### 4.4 Initiative et referendum en matière communale
-### 4a Calcul des délais
+### 4a …
+## 4b Calcul des délais
 ## 5 Voies de droit et dispositions pénales
 ### 5.1 Voies de droit
 #### 5.1.1 Votations et élections fédérales

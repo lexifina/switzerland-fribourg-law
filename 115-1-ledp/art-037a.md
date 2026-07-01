@@ -1,0 +1,3 @@
+# Art. 37a Bulletin électoral officiel – Principes
+1 En cas d'élection selon le mode de scrutin majoritaire, la personne exerçant son droit de vote le fait en se servant d'un bulletin électoral officiel.
+2 Le bulletin électoral officiel se présente sous la forme d'un bulletin électoral officiel à cocher lorsque l'élection a lieu selon les règles ordinaires et sous la forme d'un bulletin électoral à cocher, d'un bulletin électoral à remplir ou d'un bulletin électoral à cocher et à remplir lorsque l'élection est une élection ouverte ou une élection se déroulant selon les règles de l'élection ouverte.
