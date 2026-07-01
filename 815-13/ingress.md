@@ -1,6 +1,6 @@
 Actions énergétiques des communes, subvention – O
 # Ordonnance pour une subvention en faveur des actions énergétiques des communes
-du 18.12.2023 (version entrée en vigueur le 01.01.2024)
+du 18.12.2023 (version entrée en vigueur le 01.07.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu l'article 19 de la loi du 30 juin 2023 sur le climat (LClim);
 Vu la loi du 9 juin 2000 sur l'énergie (LEn);

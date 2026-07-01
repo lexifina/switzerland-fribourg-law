@@ -1,6 +1,6 @@
 Agriculture, soutien des installations de récupération de chaleur – O
 # Ordonnance pour le soutien des installations de récupération de chaleur dans l'agriculture
-du 12.12.2022 (version entrée en vigueur le 01.01.2023)
+du 12.12.2022 (version entrée en vigueur le 01.07.2026)
 Le Conseil d'Etat du canton de Fribourg
 Vu les articles 35 à 38 de la loi du 3 octobre 2006 sur l'agriculture (LAgri);
 Vu le décret du 10 septembre 2021 relatif à l'octroi d'un crédit d'engagement pour la mise en œuvre du Plan Climat cantonal du canton de Fribourg;
