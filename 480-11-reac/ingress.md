@@ -1,8 +1,10 @@
-Affaires culturelles – R
-# Règlement sur les affaires culturelles
-(RAC)
-du 10.12.2007 (version entrée en vigueur le 31.07.2023)
+Encouragement des activités culturelles – R
+# Règlement sur l'encouragement des activités culturelles
+(REAC)
+du 27.10.2026 (version entrée en vigueur le 01.10.2026)
 Le Conseil d'Etat du canton de Fribourg
-Vu la loi du 24 mai 1991 sur les affaires culturelles (LAC);
-Sur la proposition de la Direction de l'instruction publique, de la culture et du sport,
+Vu la loi du 12 février 2026 sur l'encouragement des activités culturelles (LEAC);
+Sur la proposition de la Direction de la formation et des affaires culturelles,
 Arrête:
+1 Coordination de l'encouragement des activités culturelles
+1.1 Généralités

@@ -1,5 +1,0 @@
-# Art. 4a Participation du ou de la chef–fe du Service de la culture à des organismes culturels
-1 Le ou la chef-fe du Service de la culture peut participer à des conseils de fondations ou d'autres organismes culturels d'importance cantonale, intercantonale ou nationale en vue de favoriser la coordination entre les principaux partenaires concernés par la formation ou par la création artistiques professionnelles.
-2 Le ou la chef-fe du Service de la culture ne dispose que d'une voix consultative, sauf lorsqu'il ou elle agit en tant que personne représentant officiellement le canton de Fribourg et/ou en tant que personne déléguée par la Conférence des chefs de service et délégués aux affaires culturelles.
-3 En cas de conflits d'intérêts, notamment lors de discussions concernant une subvention étatique, le ou la chef-fe du Service de la culture est tenu-e de se récuser.
-4 L'article 131a du règlement du 17 décembre 2002 du personnel de l'Etat s'applique au ou à la chef-fe du Service de la culture, qu'il ou elle dispose d'une voix décisionnelle ou d'une voix consultative.
