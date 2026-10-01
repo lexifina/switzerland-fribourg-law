@@ -1,0 +1,2 @@
+# Art. 14a Représentation et assistance – Domicile de notification
+1 Les parties qui déposent des conclusions dans une procédure sont tenues de communiquer à l'autorité l'adresse de leur domicile ou de leur siège. Si elles sont domiciliées à l'étranger, elles doivent élire un domicile de notification en Suisse, à moins que le droit international ou l'autorité étrangère compétente n'autorise la notification directe dans l'Etat considéré.
