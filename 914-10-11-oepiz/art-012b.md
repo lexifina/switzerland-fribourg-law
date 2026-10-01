@@ -3,3 +3,4 @@
 2 Les compétences financières pour prélever les montants nécessaires sont réglées ainsi:
 a) par validation de la Direction pour un montant jusqu'à 50'000 francs;
 b) par validation du Conseil d'Etat pour un montant supérieur à 50'000 francs.
+3 Collaboration et coordination
