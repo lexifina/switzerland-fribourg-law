@@ -3,3 +3,4 @@
 2 Pendant le délai de consultation, les communes et les instances régionales concernées par le projet, les communes limitrophes et les milieux intéressés peuvent adresser à la Direction, par écrit, des observations et des propositions motivées. Les articles 12 et 13 sont applicables par analogie.
 3 Les nouvelles fiches de projet au sens de l'alinéa 1 font l'objet d'un rapport présenté au Grand Conseil, à titre consultatif.
 4 Si l'élaboration d'une nouvelle fiche relative à un projet au sens de l'alinéa 1 implique une modification des objectifs ou des principes fixés dans le plan directeur cantonal, elle suit la procédure ordinaire prévue aux articles 10 à 14.
+2.1.2 Plans d'affectation cantonaux (art. 20ss LATeC)
