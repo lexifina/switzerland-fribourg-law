@@ -1,0 +1,11 @@
+{
+  "path": "ch-fr",
+  "code": "CH-FR",
+  "name": "Fribourg",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-fribourg-law",
+  "build": "built: constitution, cantonal laws and ordonnances (591 acts, 1522 versions) from the RSF",
+  "language": "fr",
+  "sources": 1
+}
