@@ -1,4 +1,4 @@
-# Art. 30a Dispense d'examen préalable (art. 77a al. 2 LATeC)
+# Art. 30a Dispense d'examen préalable (art. 77 al. 2 LATeC)
 1 Le secteur bénéficiant d'une rocade dans la zone à bâtir doit:
 a) se situer en continuité de la zone à bâtir légalisée existante;
 b) se situer dans un secteur présentant une qualité de desserte en transports publics au minimum de niveau D, et
