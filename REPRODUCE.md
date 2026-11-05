@@ -808,7 +808,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `958-7` | Convention romande sur les jeux d’argent | 1 | 2021-01-01 to 2021-01-01 |
 | `958-32` | Arrêté concernant la désignation des membres fribourgeois de la Société de la loterie de la Suisse romande | 1 | 2016-01-01 to 2016-01-01 |
 
-The build made 1382 commits:
+The build made 1383 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -838,7 +838,7 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 ## Checks
 
-Not yet run for this build.
+1723 versions of 792 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 A second build from the same corpus into an empty folder gave identical hashes for all 1365 history commits and 2280 tags (history tip `402c5733ebd41d18f06bbde93614d1bf6206eca9`).
 
