@@ -4,6 +4,9 @@ RFE · 6 versions, from 2015-01-01 (latest in force: 2026-07-01) · <https://bdl
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annexe, page 1 | [annexe-page-001.md](annexe-page-001.md) | 1 | 2026-07-01 |
+| Annexe, page 2 | [annexe-page-002.md](annexe-page-002.md) | 1 | 2026-07-01 |
+| Annexe, page 4 | [annexe-page-004.md](annexe-page-004.md) | 1 | 2026-07-01 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2022-01-01 |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 2a | [art-002a.md](art-002a.md) | 1 | 2026-07-01 |

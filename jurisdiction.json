@@ -5,7 +5,17 @@
   "level": "canton",
   "parent": "ch",
   "repo": "https://github.com/lexifina/switzerland-fribourg-law",
-  "build": "built: constitution, cantonal laws and ordonnances (591 acts, 1522 versions) from the RSF",
+  "build": "built: 792 RSF instruments, 1723 versions; 201 additional current-text acts, with normative images incomplete in RSF 112.8 and 785.21; RSF 122.91.3 is not included because four official PDF glyphs cannot be decoded reliably",
   "language": "fr",
-  "sources": 1
+  "sources": 2,
+  "checked_on": "2026-11-05",
+  "current_text_additions": {
+    "acts": 201,
+    "versions": 201,
+    "history": "one current consolidated corpus version per added act; first_law null",
+    "normative_images_incomplete": [
+      "112.8",
+      "785.21"
+    ]
+  }
 }

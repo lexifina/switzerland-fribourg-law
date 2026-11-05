@@ -1,9 +1,10 @@
 # Règlement d'exécution de la loi sur l'aménagement du territoire et les constructions
 
-ReLATeC · 9 versions, from 2018-01-01 (latest in force: 2026-10-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/710.11>
+ReLATeC · 9 versions, from 2018-01-01 (latest in force: 2026-11-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/710.11>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annexe, page 5 | [annexe-page-005.md](annexe-page-005.md) | 1 | 2026-11-01 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2022-02-01 |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 0 |  |
@@ -30,6 +31,7 @@ ReLATeC · 9 versions, from 2018-01-01 (latest in force: 2026-10-01) · <https:/
 | Art. 23 | [art-023.md](art-023.md) | 0 |  |
 | Art. 24 | [art-024.md](art-024.md) | 1 | 2023-01-01 |
 | Art. 25 | [art-025.md](art-025.md) | 0 |  |
+| Art. 25a | [art-025a.md](art-025a.md) | 1 | 2026-11-01 |
 | Art. 26 | [art-026.md](art-026.md) | 0 |  |
 | Art. 27 | [art-027.md](art-027.md) | 0 |  |
 | Art. 27a | [art-027a.md](art-027a.md) | 0 |  |

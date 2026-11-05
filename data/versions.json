@@ -4013,7 +4013,7 @@
     },
     {
      "from": "2026-08-17",
-     "units": 45,
+     "units": 48,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/44.11",
      "sha256": "2b25fb82676a6633d2e8147a2b2b39a678a886f61983aef42388f128bba0b8ac"
     }
@@ -4119,7 +4119,7 @@
    "versions": [
     {
      "from": "2026-10-01",
-     "units": 45,
+     "units": 53,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/52.21",
      "sha256": "a2b6d0099ee646422f4e59fbadb80da97d50c34682f5664675bc4a18a7dc3b2e"
     }
@@ -4835,7 +4835,7 @@
     },
     {
      "from": "2025-10-17",
-     "units": 41,
+     "units": 46,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.0.15",
      "sha256": "50f220e58680d762277b1869670082799b1b987e2b71e6ae7c7cc1e63817f1e9"
     }
@@ -5039,7 +5039,7 @@
    "versions": [
     {
      "from": "2018-01-01",
-     "units": 13,
+     "units": 14,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.8.41",
      "sha256": "660d42b983b8292e6236f41b1c52e63322c49fd66bc3cec35ee93953567456eb"
     }
@@ -5181,7 +5181,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 175,
+     "units": 180,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.70.11",
      "sha256": "2e677e3c31c9091fdb67938b5ee158a77a2e957ef47972949958571739045341"
     }
@@ -6059,7 +6059,7 @@
     },
     {
      "from": "2025-12-01",
-     "units": 95,
+     "units": 105,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/130.11",
      "sha256": "3d2b73b5a06f21fb4b1dd503567888aaa056ef19efa2779dbd2cc8e7a43f51ab"
     }
@@ -6713,7 +6713,7 @@
    "versions": [
     {
      "from": "2024-03-01",
-     "units": 21,
+     "units": 37,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/214.7.11",
      "sha256": "a8f0b61c244bbb24e761999d881976bf0260a4885724bcc304e80d0936180f5c"
     }
@@ -6787,7 +6787,7 @@
     },
     {
      "from": "2025-05-01",
-     "units": 31,
+     "units": 33,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/222.5.91",
      "sha256": "6ee626fa964ce49a35af2250df459eac2c99c2cfff8d62f43a174b099c5ec7d8"
     }
@@ -8153,7 +8153,7 @@
    "versions": [
     {
      "from": "2017-12-01",
-     "units": 12,
+     "units": 13,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/481.3.11",
      "sha256": "80969d2507b5d6e56e5a5631040523e8ed4e0a77c4c0f7c763f56306e8c9c33f"
     }
@@ -8545,7 +8545,7 @@
     },
     {
      "from": "2026-07-01",
-     "units": 74,
+     "units": 77,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/610.11",
      "sha256": "dc652112a8209515bb51a9f84315c9a8f4058834df12f054c5525e88ca43e23d"
     }
@@ -8647,7 +8647,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 25,
+     "units": 37,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/616.11",
      "sha256": "4edeacf8e6861f30688ac100f264ba5c8f8d7b1cd1b4b033bad5a70e46d42ffa"
     }
@@ -8797,7 +8797,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 29,
+     "units": 58,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.32",
      "sha256": "94647aed45c548a404ecce01ae5aaab943e925a96a634765b8bd1a4614c5093d"
     }
@@ -9093,7 +9093,7 @@
     },
     {
      "from": "2026-11-01",
-     "units": 144,
+     "units": 145,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/710.11/versions/8674",
      "sha256": "dbebe12e720287734d67bc1ca599c6524a008b08b6a6fe70496bf3c8c7259334"
     }
@@ -9223,7 +9223,7 @@
     },
     {
      "from": "2022-02-01",
-     "units": 59,
+     "units": 76,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/721.0.11",
      "sha256": "2406c8964040322f1c7e20c0a55e4e3df42ec5bf736fc34ce2bcebaf60965295"
     }
@@ -10347,7 +10347,7 @@
     },
     {
      "from": "2023-01-01",
-     "units": 20,
+     "units": 30,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/810.15",
      "sha256": "7d5e001c5f94364620920ff600c32124dc6addcd2ab029f301551376e4857f43"
     }
@@ -11331,7 +11331,7 @@
     },
     {
      "from": "2023-03-01",
-     "units": 9,
+     "units": 11,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/822.0.21",
      "sha256": "f0f3c903ab228b025bb1a2a94d72bb7fd5e6363661886b29cc546c8b3cd7b21d"
     }
@@ -12043,7 +12043,7 @@
     },
     {
      "from": "2024-01-01",
-     "units": 14,
+     "units": 17,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/842.1.13",
      "sha256": "df10171a8d29d5806850949233dcb1788275957a933d82075b742aeea6138091"
     }
@@ -13501,7 +13501,7 @@
     },
     {
      "from": "2026-01-01",
-     "units": 73,
+     "units": 77,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/923.12",
      "sha256": "61f8cc3a476dd24e611da66ef0af941aa231f4761ffde3e757c40dc71c1f37f6"
     }
@@ -13858,6 +13858,2820 @@
      "units": 25,
      "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/958.31",
      "sha256": "82714b0ee631107616f7ea6fdee79427b921c00ba2bbbb7325a11968741fc356"
+    }
+   ]
+  },
+  {
+   "slug": "28-81",
+   "short": "28.81",
+   "title": "Traité entre le Grand-Duché de Bade et la Confédération suisse sur la réciprocité de droit en matière de concours",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/28.81",
+   "versions": [
+    {
+     "from": "1808-07-09",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6131/pdf_file",
+     "sha256": "f7247c529959f721a2e5624952987d6b16ed43a153597abab48abe461f542898"
+    }
+   ]
+  },
+  {
+   "slug": "28-82",
+   "short": "28.82",
+   "title": "Convention entre la Confédération suisse et la Couronne de Wurtemberg sur les faillites et l’égalité qui doit être observée, en fait de collocation, entre les créanciers ressortissant à l’un ou à l’autre des deux pays",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/28.82",
+   "versions": [
+    {
+     "from": "1826-05-13",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6132/pdf_file",
+     "sha256": "997c4487c8ea7efb88920d7fd4da328d7c47f0ecd21096f978ca26c1758bce15"
+    }
+   ]
+  },
+  {
+   "slug": "28-83",
+   "short": "28.83",
+   "title": "Convention entre des cantons suisses et le Royaume de Bavière portant que les ressortissants respectifs seront traités à droits égaux dans les cas de concours juridiques",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/28.83",
+   "versions": [
+    {
+     "from": "1834-06-27",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6133/pdf_file",
+     "sha256": "33fabf493d09ce1fbcfa1a689ce274447450f5d47d0dc9c5d6e31ef532b0a52e"
+    }
+   ]
+  },
+  {
+   "slug": "28-84",
+   "short": "28.84",
+   "title": "Convention entre des cantons suisses et le Royaume de Saxe au sujet de l’égalité de droit des ressortissants respectifs dans les concours par suite des faillites",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/28.84",
+   "versions": [
+    {
+     "from": "1837-02-18",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6134/pdf_file",
+     "sha256": "0aed8ad5b4b8bd1aa15c49dc1fb5f685e9c6d953d7a522fc2336551c5540a542"
+    }
+   ]
+  },
+  {
+   "slug": "31-16",
+   "short": "31.16",
+   "title": "Tarif relatif à la participation financière des personnes astreintes à un programme de prévention de la violence",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/31.16",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/31.16",
+     "sha256": "885e18618e6f9c0e9e8e6e4f18eaa1deaf4bbf7e88529a20e44406ba75b6673c"
+    }
+   ]
+  },
+  {
+   "slug": "44-6",
+   "short": "44.6",
+   "title": "Accord intercantonal sur l’harmonisation des régimes de bourses d’études",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/44.6",
+   "versions": [
+    {
+     "from": "2013-03-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6159/pdf_file",
+     "sha256": "661d1ec36d169439dab6631aa14f62bfdefb150ef5ded5b9ceb5a80c1d395d65"
+    }
+   ]
+  },
+  {
+   "slug": "76-16",
+   "short": "76.16",
+   "title": "Tarif des frais de procédure en matière d'expropriation",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/76.16",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 10,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/76.16",
+     "sha256": "516cab27c61dca10fb890ab973ca6bc9a3dd724345e52ae8c600dad378b6b0e4"
+    }
+   ]
+  },
+  {
+   "slug": "76-17",
+   "short": "76.17",
+   "title": "Tarif des dépens en matière d'expropriation",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/76.17",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/76.17",
+     "sha256": "760d57332041b76e7e14abaf77f208f0f83e9270742da5a76c41e8ac465c2ddc"
+    }
+   ]
+  },
+  {
+   "slug": "76-61",
+   "short": "76.61",
+   "title": "Arrêté relatif à l'exécution de la loi fédérale du 20 juin 1930 sur l'expropriation",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/76.61",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/76.61",
+     "sha256": "476a9a543fb2c3ad20b109fdd531b334e951fb3d89b2193eeb098352e4d8c03d"
+    }
+   ]
+  },
+  {
+   "slug": "87-27",
+   "short": "87.27",
+   "title": "Arrêté concernant le loyer des logements à caractère social construits par des personnes à l'étranger",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/87.27",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/87.27",
+     "sha256": "d193e85b9e76e7629008f265b28e71bb87524ed2cec970ab31dd412ad02c2471"
+    }
+   ]
+  },
+  {
+   "slug": "112-8",
+   "short": "112.8",
+   "title": "Concordat sur la modification territoriale résultant du transfert de la commune municipale bernoise de Clavaleyres au canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/112.8",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 27,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/112.8",
+     "sha256": "cbb3e37f4b45a5696cd2e53d9aebe99c088a94d666f38e81cc604f9e9c31994f"
+    }
+   ]
+  },
+  {
+   "slug": "112-9",
+   "short": "112.9",
+   "title": "Convention d'exécution entre le canton de Berne et le canton de Fribourg relative au transfert de la commune de Clavaleyres au canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/112.9",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 24,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/112.9",
+     "sha256": "330ba4162059791f379c521604a640f2f13b4754e9779c2f69eee07d956524f7"
+    }
+   ]
+  },
+  {
+   "slug": "113-31",
+   "short": "113.31",
+   "title": "Arrêté concernant la reconnaissance officielle des armoiries des districts et des communes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/113.31",
+   "versions": [
+    {
+     "from": "1943-07-06",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/113.31",
+     "sha256": "9bf6227365a2dfbb489ef0edb3ab4ddea293c71a40bc54f58debec3e4de4af73"
+    }
+   ]
+  },
+  {
+   "slug": "114-21-16",
+   "short": "114.21.16",
+   "title": "Arrêté fixant les émoluments en matière de contrôle des habitants",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/114.21.16",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/114.21.16",
+     "sha256": "45202362e1270de47aff5f91b7be041c5103a27cfe13112fbb04abdb1b2a331f"
+    }
+   ]
+  },
+  {
+   "slug": "121-3",
+   "short": "121.3",
+   "title": "Loi concernant les conventions intercantonales",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/121.3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 25,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/121.3",
+     "sha256": "24622ed35e8dc75da16b26d103f0d27a29184e4ffeea826b555e6c52a73e92c0"
+    }
+   ]
+  },
+  {
+   "slug": "121-4",
+   "short": "121.4",
+   "title": "Convention relative à la participation des Parlements cantonaux dans le cadre de l’élaboration, de la ratification, de l’exécution et de la modification des conventions intercantonales et des traités des cantons avec l’étranger",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/121.4",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6125/pdf_file",
+     "sha256": "a94a0645402714a1366363117f21010e1ef9bbc6b329ba18dda1f36dd9ceb209"
+    }
+   ]
+  },
+  {
+   "slug": "121-5",
+   "short": "121.5",
+   "title": "Accord-cadre pour la collaboration intercantonale assortie d’une compensation des charges",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/121.5",
+   "versions": [
+    {
+     "from": "2007-05-11",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6126/pdf_file",
+     "sha256": "ef000f7797c67d5a4d1ff7e78691a90ab861639bb0566cdc5d9a3b80fec88e60"
+    }
+   ]
+  },
+  {
+   "slug": "122-0-11",
+   "short": "122.0.11",
+   "title": "Arrêté répartissant les Directions du Conseil d'Etat et formant ses délégations",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.11",
+   "versions": [
+    {
+     "from": "2023-03-14",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.0.11",
+     "sha256": "78508844d545e64b4e9d55fd9e489da6b0dc393214b504af4048046cf250b1de"
+    }
+   ]
+  },
+  {
+   "slug": "122-0-16",
+   "short": "122.0.16",
+   "title": "Directive concernant la représentation de l'Etat au sein des entreprises (gouvernance d'entreprise publique)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.16",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 20,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.0.16",
+     "sha256": "71989c85d343d5aa2f79b991ad2cc7c531a0bd94dc086b469b3310213e0e54e8"
+    }
+   ]
+  },
+  {
+   "slug": "122-0-511",
+   "short": "122.0.511",
+   "title": "Directives CHA relatives à l'information et à la communication",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.0.511",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 42,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.0.511",
+     "sha256": "62be0978df1cf4cc6b33706b7898f1f30f43b646bb4aad7dd3cef0d499291e89"
+    }
+   ]
+  },
+  {
+   "slug": "122-3-61",
+   "short": "122.3.61",
+   "title": "Tarif concernant les émoluments de préfecture",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.3.61",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.3.61",
+     "sha256": "994780708dede5fe34e132141f152dc33bbef4d850313f877b3b0a317f6b3d75"
+    }
+   ]
+  },
+  {
+   "slug": "122-70-51",
+   "short": "122.70.51",
+   "title": "Directive concernant l'Annuaire téléphonique des collaborateurs et collaboratrices de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.70.51",
+   "versions": [
+    {
+     "from": "2016-11-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.70.51",
+     "sha256": "9bfb6858f1004be2ff16f561f1583823e2647f3706f0d968f82aec0ab45a7032"
+    }
+   ]
+  },
+  {
+   "slug": "122-72-15",
+   "short": "122.72.15",
+   "title": "Arrêté relatif à l'unification des dates de paie des traitements du personnel de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.15",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.72.15",
+     "sha256": "362f76a1999ed42a5acfe21e5381ced341658e3d5cb9dda2bc3e115d5963e88c"
+    }
+   ]
+  },
+  {
+   "slug": "122-72-16",
+   "short": "122.72.16",
+   "title": "Arrêté concernant le maintien de l'octroi de l'allocation pour personnes à charge, dans les situations de rigueur",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.16",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.72.16",
+     "sha256": "7a3aa0a3d64fe03feb18f5676302ad186eb79234d4d67d1288b3ffff3019069f"
+    }
+   ]
+  },
+  {
+   "slug": "122-72-23",
+   "short": "122.72.23",
+   "title": "Arrêté relatif à la fixation des traitements initiaux du personnel de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.23",
+   "versions": [
+    {
+     "from": "1994-03-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.72.23",
+     "sha256": "768893a024f44454bbbdde90a05c1523f2962d7f9c3391fc53a066304072dea6"
+    }
+   ]
+  },
+  {
+   "slug": "122-72-24",
+   "short": "122.72.24",
+   "title": "Arrêté fixant le système d'évaluation des fonctions du personnel de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.72.24",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.72.24",
+     "sha256": "239e3299e0b09cc3ab4f76fb2511b4089f5d8c69d4f99ddb2a65fd422dc88c58"
+    }
+   ]
+  },
+  {
+   "slug": "122-91-2",
+   "short": "122.91.2",
+   "title": "Accord intercantonal de 1994 sur les marchés publics",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.91.2",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7711/pdf_file",
+     "sha256": "cd432dc193e441f5237441a10c25e0c1c3e1b89a9ab3474a3789490821f0c215"
+    }
+   ]
+  },
+  {
+   "slug": "122-93-16",
+   "short": "122.93.16",
+   "title": "Tarif des frais et honoraires perçus par la Commission d'acquisition des immeubles",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.93.16",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.93.16",
+     "sha256": "d56195680cf778e797e04c1e607274406a67d1fcef271cc017d97323b820ed36"
+    }
+   ]
+  },
+  {
+   "slug": "122-98-11",
+   "short": "122.98.11",
+   "title": "Arrêté concernant l'attribution et la gestion des places de stationnement pour voitures",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/122.98.11",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 13,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/122.98.11",
+     "sha256": "7e5891bbaf536b37a0d44adf037b190fab10d0878bcb0f2730a516541a8a0478"
+    }
+   ]
+  },
+  {
+   "slug": "126-21",
+   "short": "126.21",
+   "title": "Tarif des émoluments administratifs",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/126.21",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8357/pdf_file",
+     "sha256": "6af6544cad9d6a48b82125d3d934aaf3c333991f297c23485699d7f680348a78"
+    }
+   ]
+  },
+  {
+   "slug": "129-1-1",
+   "short": "129.1.1",
+   "title": "Décret relatif au serment des fonctionnaires de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.1.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.1.1",
+     "sha256": "2221295f00fd21e1ddc3962f604b535de0910c6c031ba686620e2dd892210acb"
+    }
+   ]
+  },
+  {
+   "slug": "129-2-1",
+   "short": "129.2.1",
+   "title": "Décret déterminant les sceaux des autorités supérieures",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.2.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.2.1",
+     "sha256": "c1a99f4dbef97ca86beaece9297c5855abf30f09fe5b27529098c9e0496f860b"
+    }
+   ]
+  },
+  {
+   "slug": "129-3-1",
+   "short": "129.3.1",
+   "title": "Décret fixant le rang des autorités supérieures dans les cérémonies publiques",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.3.1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 3,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.3.1",
+     "sha256": "726f7413e8be6c27a7cb424111f0f02a91fa681d64191ff8eba1b2436e97ec56"
+    }
+   ]
+  },
+  {
+   "slug": "129-3-21",
+   "short": "129.3.21",
+   "title": "Arrêté fixant le rang des autorités subalternes dans les cérémonies publiques",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.3.21",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.3.21",
+     "sha256": "b3231992ed20400583b668bba8d093bbb37bac4ab01f1a0f8c36ce83b6eaa452"
+    }
+   ]
+  },
+  {
+   "slug": "129-3-31",
+   "short": "129.3.31",
+   "title": "Arrêté déclarant le Contingent des grenadiers fribourgeois garde d'honneur officielle des autorités supérieures du canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.3.31",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.3.31",
+     "sha256": "3e4aa79490032dd2a43ddfc9fc0083ea750916d9feb4ef26ae4fb50530e6cc4d"
+    }
+   ]
+  },
+  {
+   "slug": "129-3-41",
+   "short": "129.3.41",
+   "title": "Arrêté concernant la formation d'un corps de musique volontaire de Landwehr",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.3.41",
+   "versions": [
+    {
+     "from": "1879-02-10",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.3.41",
+     "sha256": "7e2ff057f48c25096d33c421ce6ec4f6024f7aba242a4bfe2c2b6994377a58c7"
+    }
+   ]
+  },
+  {
+   "slug": "129-4-11",
+   "short": "129.4.11",
+   "title": "Arrêté concernant les cartes de légitimation pour magistrats et collaborateurs de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/129.4.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/129.4.11",
+     "sha256": "6353e465411fec14f02d91010345ed2cac8cfed5b2938cbc74eafa32009813d0"
+    }
+   ]
+  },
+  {
+   "slug": "130-16",
+   "short": "130.16",
+   "title": "Tarif du Tribunal cantonal des émoluments pour les contestations portant sur des affaires pécuniaires",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/130.16",
+   "versions": [
+    {
+     "from": "2016-02-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/130.16",
+     "sha256": "34f4f0a58afe844b4888d51fcc27230dc6e9468ca2de2199d1c0dcd64806b832"
+    }
+   ]
+  },
+  {
+   "slug": "130-421",
+   "short": "130.421",
+   "title": "Directives du Tribunal cantonal sur le préarchivage des dossiers judiciaires et leur versement aux Archives",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/130.421",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/130.421",
+     "sha256": "e3c0e1d8191171f2ddd819990eb49b8e1b1510f3a585536412dfaced00c5bf40"
+    }
+   ]
+  },
+  {
+   "slug": "140-13",
+   "short": "140.13",
+   "title": "Arrêté désignant les préfets et préfètes suppléants chargés de la surveillance des associations de communes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/140.13",
+   "versions": [
+    {
+     "from": "2023-10-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/140.13",
+     "sha256": "3762cb365a79a7bd7f6f34ebfab50034f77430907f6e0984d5b3792e2bd6443a"
+    }
+   ]
+  },
+  {
+   "slug": "150-1",
+   "short": "150.1",
+   "title": "Code de procédure et de juridiction administrative",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/150.1",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 169,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/150.1",
+     "sha256": "24dba3fcc33d12decab4f852f1a26e068bbe9133c02b3b8a71c0565bae9b9528"
+    }
+   ]
+  },
+  {
+   "slug": "150-12",
+   "short": "150.12",
+   "title": "Tarif des frais de procédure et des indemnités en matière de juridiction administrative",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/150.12",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "units": 20,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/150.12",
+     "sha256": "40566c72f351dbd1523b6f24acff61e24431793ce5ab3a0d5705dda3b121dca6"
+    }
+   ]
+  },
+  {
+   "slug": "150-421",
+   "short": "150.421",
+   "title": "Directives du Tribunal administratif sur le préarchivage des dossiers judiciaires et leur versement aux Archives de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/150.421",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 13,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/150.421",
+     "sha256": "96f8d30cce10911925a8e0710018cceb22881bc9a4ecdf63161f94b90a7da7ad"
+    }
+   ]
+  },
+  {
+   "slug": "190-5",
+   "short": "190.5",
+   "title": "Convention cadre sur l'exercice des aumôneries catholique romaine et évangélique réformée dans les établissements de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/190.5",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 14,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/190.5",
+     "sha256": "449598a6566879c1dce4f69469ef7ed9877edf81abebd085d34625733a73fb90"
+    }
+   ]
+  },
+  {
+   "slug": "191-0-11",
+   "short": "191.0.11",
+   "title": "Statut des corporations ecclésiastiques catholiques du canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/191.0.11",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 102,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/191.0.11",
+     "sha256": "055ce8a1b0d9b2777dd6d06ed4f027a6b9e4a385c52a29ddbc2962675d2c7a84"
+    }
+   ]
+  },
+  {
+   "slug": "191-22-2",
+   "short": "191.22.2",
+   "title": "Convention relative à la propriété et à l'entretien de l'église collégiale de St-Nicolas",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/191.22.2",
+   "versions": [
+    {
+     "from": "1874-02-20",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/191.22.2",
+     "sha256": "1994ea2997d235a1db80f2c6aa5e7192d4613dcde3f206f6a9cac2cdc73cbf7c"
+    }
+   ]
+  },
+  {
+   "slug": "191-23-31",
+   "short": "191.23.31",
+   "title": "Arrêté concernant l'érection de la Fondation d'Hauterive",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/191.23.31",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 15,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/191.23.31",
+     "sha256": "60bfb54b1108c627fb3b836593708b2a13edd7344af3024ff97831904cd849ea"
+    }
+   ]
+  },
+  {
+   "slug": "192-6",
+   "short": "192.6",
+   "title": "Convention réglant d’une manière plus précise les rapports ecclésiastiques des communes mixtes de Ferenbalm, Chiètres et Morat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/192.6",
+   "versions": [
+    {
+     "from": "1959-03-13",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6130/pdf_file",
+     "sha256": "5d93b10ed142a6e1ccb481366cc786f8a66352f7e6a3f454719284127ac8434a"
+    }
+   ]
+  },
+  {
+   "slug": "192-11",
+   "short": "192.11",
+   "title": "Constitution ecclésiastique de l'Eglise évangélique réformée du canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/192.11",
+   "versions": [
+    {
+     "from": "2011-11-16",
+     "units": 55,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/192.11",
+     "sha256": "34afe5cf85ea03a783a8244a770a2b3f8df7490fdddef18125aced8e88d240b4"
+    }
+   ]
+  },
+  {
+   "slug": "193-2",
+   "short": "193.2",
+   "title": "Convention cadre sur l'exercice de l'aumônerie israélite dans les établissements de l'Etat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/193.2",
+   "versions": [
+    {
+     "from": "2009-06-01",
+     "units": 14,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/193.2",
+     "sha256": "014709950997063abe67ee1a775048b7f22ed9aeda15927fab1eec3ea4cb1f8d"
+    }
+   ]
+  },
+  {
+   "slug": "193-11",
+   "short": "193.11",
+   "title": "Statut de la Communauté israélite du canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/193.11",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 42,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/193.11",
+     "sha256": "f08e67d232bf4dc78624b4fd7ad248c71ed287d2bdd1042a2baf9044b087a0fc"
+    }
+   ]
+  },
+  {
+   "slug": "193-16",
+   "short": "193.16",
+   "title": "Arrêté concernant le montant alloué à la Communauté israélite du canton de Fribourg en compensation de sa part annuelle à l'impôt sur les personnes morales et à l'impôt prélevé à la source",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/193.16",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/193.16",
+     "sha256": "c5cfda146c1414cfe6f79ecd193fdb2ee0dc06a52359beab29a08868bd5cd08f"
+    }
+   ]
+  },
+  {
+   "slug": "210-113",
+   "short": "210.113",
+   "title": "Directives DSJ sur la vente de choses trouvées",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/210.113",
+   "versions": [
+    {
+     "from": "2015-12-02",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/210.113",
+     "sha256": "eae42b1c10d88b434a93ad2a43fdcca0b2b1980b710665be90ebc59fbe6b6303"
+    }
+   ]
+  },
+  {
+   "slug": "214-5-16",
+   "short": "214.5.16",
+   "title": "Tarif des émoluments fixes du registre foncier",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/214.5.16",
+   "versions": [
+    {
+     "from": "2018-12-01",
+     "units": 10,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/214.5.16",
+     "sha256": "9239764e8deb71c437fa780b457ae1c8c6c27efe2f40ef8d1939871ca3be5483"
+    }
+   ]
+  },
+  {
+   "slug": "214-12-13",
+   "short": "214.12.13",
+   "title": "Arrêté fixant les lieux à vocation touristique selon la législation sur l'acquisition d'immeubles par des personnes à l'étranger",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/214.12.13",
+   "versions": [
+    {
+     "from": "1999-10-05",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/214.12.13",
+     "sha256": "e7bd8f81f7fcb6b7351aa96570e487d9cdeb2f9532463bf26e4ba30fb77a846f"
+    }
+   ]
+  },
+  {
+   "slug": "222-5-92",
+   "short": "222.5.92",
+   "title": "Arrêté établissant le contrat-type de travail dans l'agriculture",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/222.5.92",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 23,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/222.5.92",
+     "sha256": "44ec35492ba6ce8039b9fb0a86cf3418ee4f41deba14af2b0dde985169c0c565"
+    }
+   ]
+  },
+  {
+   "slug": "261-16",
+   "short": "261.16",
+   "title": "Tarif des émoluments des notaires",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/261.16",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 11,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/261.16",
+     "sha256": "89f6359e6374f72fb80e75ea9f3aa19d91d19560f206a047cff64aeadb7ce8a1"
+    }
+   ]
+  },
+  {
+   "slug": "261-162",
+   "short": "261.162",
+   "title": "Tarif de l'Association des notaires relatif aux honoraires dus pour les opérations annexes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/261.162",
+   "versions": [
+    {
+     "from": "2005-07-01",
+     "units": 3,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/261.162",
+     "sha256": "79e2036a55a53940910a8187a5b5e9a0cef114c487707f770f73c6671f8373a4"
+    }
+   ]
+  },
+  {
+   "slug": "342-1",
+   "short": "342.1",
+   "title": "Concordat sur l’exécution des peines privatives de liberté et des mesures concernant les adultes et les jeunes adultes dans les cantons latins",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/342.1",
+   "versions": [
+    {
+     "from": "2007-11-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6135/pdf_file",
+     "sha256": "a0a1eb6667521f98eb74d2d4ee206b43ac8f430354e646fda177c718c33d5881"
+    }
+   ]
+  },
+  {
+   "slug": "342-2",
+   "short": "342.2",
+   "title": "Convention entre le canton de Berne et les cantons de Fribourg, Vaud, Valais, Neuchâtel, Genève et Tessin concernant l’exécution des peines et mesures prononcées contre des femmes par les tribunaux de ces six derniers cantons aux Etablissements de Hindelbank",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/342.2",
+   "versions": [
+    {
+     "from": "1978-05-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6136/pdf_file",
+     "sha256": "2e4b59e441dc3baeb62f15231b8a269ad3ed94ffe01fb9d4400c6e56f57d83b9"
+    }
+   ]
+  },
+  {
+   "slug": "342-3",
+   "short": "342.3",
+   "title": "Concordat sur l’exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/342.3",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6137/pdf_file",
+     "sha256": "e2de5eae87606a5fe6e548a9577d7fd368b3daca85b256c51eead67c0804da21"
+    }
+   ]
+  },
+  {
+   "slug": "410-4",
+   "short": "410.4",
+   "title": "Accord intercantonal sur la reconnaissance des diplômes de fin d’études",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/410.4",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7749/pdf_file",
+     "sha256": "12039cabd3d50768e973d6a3788070d51be748fadaa7f8c550451844ce86f423"
+    }
+   ]
+  },
+  {
+   "slug": "410-5",
+   "short": "410.5",
+   "title": "Convention intercantonale réglant la fréquentation d’une école située dans un canton autre que celui de domicile",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/410.5",
+   "versions": [
+    {
+     "from": "2006-09-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6139/pdf_file",
+     "sha256": "402e65bb2ce0f7c81f953d978f9b4f74ff928d85d12726cf3f70d00f4ae53d32"
+    }
+   ]
+  },
+  {
+   "slug": "411-0-24",
+   "short": "411.0.24",
+   "title": "Convention sur l’exercice de l’enseignement religieux catholique romain dans la scolarité obligatoire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.24",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7562/pdf_file",
+     "sha256": "937d229b1c083f4e94492b286620f04ab9af38e43aad641ad130dc4a48563cfd"
+    }
+   ]
+  },
+  {
+   "slug": "411-0-25",
+   "short": "411.0.25",
+   "title": "Convention sur l’exercice de l’enseignement religieux évangélique réformé dans la scolarité obligatoire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.25",
+   "versions": [
+    {
+     "from": "2009-09-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7563/pdf_file",
+     "sha256": "a03a5cfe4d62c1f551a6853cca2dcc907b461f3ce4ed1dad832d0afdb54364b2"
+    }
+   ]
+  },
+  {
+   "slug": "411-0-71",
+   "short": "411.0.71",
+   "title": "Arrêté sur l'éducation routière à l'école",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/411.0.71",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/411.0.71",
+     "sha256": "bc1b401f69a21fc1a6bc94784ec97d1d6e58873b8fa91ffa78fb0726026ebeaf"
+    }
+   ]
+  },
+  {
+   "slug": "412-0-17",
+   "short": "412.0.17",
+   "title": "Arrêté fixant les taxes d'examens finals des écoles du secondaire du deuxième degré",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.17",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/412.0.17",
+     "sha256": "4c328184e212be5db73fc0812e4d29643d9e782f5f8e26a4598e6fdd17c9f108"
+    }
+   ]
+  },
+  {
+   "slug": "412-0-42",
+   "short": "412.0.42",
+   "title": "Arrêté sur les indemnités dues aux membres des jurys des examens finals des écoles du secondaire du deuxième degré",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/412.0.42",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/412.0.42",
+     "sha256": "4598955ad501e86717073666c2cda417eb7ee846cfce354c3263ba8561df81ea"
+    }
+   ]
+  },
+  {
+   "slug": "412-1-8",
+   "short": "412.1.8",
+   "title": "Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/412.1.8",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8287/pdf_file",
+     "sha256": "5986fc403bce9d31cbd1ebc6845ea072354527dd614f30d82fb3cf2257ef59ed"
+    }
+   ]
+  },
+  {
+   "slug": "416-1",
+   "short": "416.1",
+   "title": "Concordat sur la coordination scolaire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.1",
+   "versions": [
+    {
+     "from": "1971-07-06",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6143/pdf_file",
+     "sha256": "5cf2c27606c95ab1fae8838ad6751da4fee6b7c758db23ec082d0f7b82b71918"
+    }
+   ]
+  },
+  {
+   "slug": "416-2",
+   "short": "416.2",
+   "title": "Accord intercantonal sur l’harmonisation de la scolarité obligatoire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.2",
+   "versions": [
+    {
+     "from": "2010-05-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6146/pdf_file",
+     "sha256": "148811af14f7856b0d024b40864cadfd1b720c3233bd7b8217e39615a6b3a515"
+    }
+   ]
+  },
+  {
+   "slug": "416-3",
+   "short": "416.3",
+   "title": "Convention scolaire romande adoptée par la Conférence intercantonale de l’instruction publique de la Suisse romande et du Tessin",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.3",
+   "versions": [
+    {
+     "from": "2009-08-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6147/pdf_file",
+     "sha256": "633eb655247b5d35008e39aff941f368a39e5ebbb5f2256651f051e86050d897"
+    }
+   ]
+  },
+  {
+   "slug": "416-4",
+   "short": "416.4",
+   "title": "Convention scolaire régionale concernant l’accueil réciproque d’élèves et le versement de contributions",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.4",
+   "versions": [
+    {
+     "from": "2009-08-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6148/pdf_file",
+     "sha256": "ef1d89a28841e2ba5ec7f27c6ffe4569b7c8d1e66a83cc5dab753f6bbe96d369"
+    }
+   ]
+  },
+  {
+   "slug": "416-5",
+   "short": "416.5",
+   "title": "Accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.5",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6149/pdf_file",
+     "sha256": "e7c960be9f9022a6ca1d34482219183fdd4a93aa0c0cef5a13243724c22626de"
+    }
+   ]
+  },
+  {
+   "slug": "416-6",
+   "short": "416.6",
+   "title": "Accord intercantonal sur les offres scolaires en milieu hospitalier",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/416.6",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8260/pdf_file",
+     "sha256": "d7836256b82ff28a4181e44b65efe050cd50795e585cd9a2be7af78d3e389813"
+    }
+   ]
+  },
+  {
+   "slug": "420-81",
+   "short": "420.81",
+   "title": "Statuts de l'Association du Centre professionnel cantonal (ACPC)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/420.81",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 17,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/420.81",
+     "sha256": "fb366df64e834ce66809c7865d1cc46267b41113a5d740d8c9a1e19cc154a9b7"
+    }
+   ]
+  },
+  {
+   "slug": "427-1",
+   "short": "427.1",
+   "title": "Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/427.1",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6150/pdf_file",
+     "sha256": "0fc40367fce8170a3b3831463d0c562116766785789149389abd6323ef4971f6"
+    }
+   ]
+  },
+  {
+   "slug": "427-2",
+   "short": "427.2",
+   "title": "Accord intercantonal sur les contributions dans le domaine des écoles supérieures",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/427.2",
+   "versions": [
+    {
+     "from": "2015-06-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6151/pdf_file",
+     "sha256": "f50243a61308abcbfd72a53d22e77dbc4be36f72eaf081659393529f4b8dcab4"
+    }
+   ]
+  },
+  {
+   "slug": "430-1",
+   "short": "430.1",
+   "title": "Accord intercantonal sur le domaine suisse des hautes écoles (concordat sur les hautes écoles)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/430.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6152/pdf_file",
+     "sha256": "07936a869d11f022004b81d8e6185be6262af67b9196e3b9eac3e4c9190d6ce4"
+    }
+   ]
+  },
+  {
+   "slug": "431-0-18",
+   "short": "431.0.18",
+   "title": "Convention entre les Evêques suisses, d’une part, et le Conseil d’Etat du canton de Fribourg, d’autre part, relative au développement de l’Université de Fribourg et à sa consolidation financière",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.18",
+   "versions": [
+    {
+     "from": "1978-06-20",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7371/pdf_file",
+     "sha256": "067a04a53ab0dd58eebf97787665e6c82ce705de7a80c55ecb1e877497a60f70"
+    }
+   ]
+  },
+  {
+   "slug": "431-0-26",
+   "short": "431.0.26",
+   "title": "Arrêté relatif à la rémunération des collaborateurs scientifiques et des sous-assistants",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.26",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 18,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/431.0.26",
+     "sha256": "ddb60e906187e01aa1c59c881be06f85986301d02c31ccb3faba5af239929038"
+    }
+   ]
+  },
+  {
+   "slug": "431-0-32",
+   "short": "431.0.32",
+   "title": "Accord relatif à la Faculté de théologie de l’Université de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/431.0.32",
+   "versions": [
+    {
+     "from": "1985-07-08",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6154/pdf_file",
+     "sha256": "952068a0a30cf59aaa146e3392ff2bc1141e95a64d2acb75e3c7b5f1fd8aea1c"
+    }
+   ]
+  },
+  {
+   "slug": "431-5-6",
+   "short": "431.5.6",
+   "title": "Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/431.5.6",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7532/pdf_file",
+     "sha256": "36173a221502c923ba57f543a61e62fa95821bf5fde8666deb08fbc6365cad96"
+    }
+   ]
+  },
+  {
+   "slug": "432-0-3",
+   "short": "432.0.3",
+   "title": "Accord intercantonal sur les hautes écoles spécialisées (AHES) à partir de 2005",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/432.0.3",
+   "versions": [
+    {
+     "from": "2005-11-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6156/pdf_file",
+     "sha256": "f71515d89886d1e42296c9e2d1fdad44aab5001e354a314fb8e73ed01d1b1661"
+    }
+   ]
+  },
+  {
+   "slug": "432-11-1",
+   "short": "432.11.1",
+   "title": "Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/432.11.1",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6157/pdf_file",
+     "sha256": "0b270fe407aecb3703d5be38bae32b62b9bb64eb87f0ddd78adf37af107777a5"
+    }
+   ]
+  },
+  {
+   "slug": "432-11-2",
+   "short": "432.11.2",
+   "title": "Convention intercantonale relative au contrôle parlementaire sur la Haute Ecole spécialisée de Suisse occidentale (HES-SO)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/432.11.2",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6158/pdf_file",
+     "sha256": "a63c51ae68446080c5d78eb0103d118a47909d92cdf1dd9c6e203bc90c3c7a62"
+    }
+   ]
+  },
+  {
+   "slug": "481-5-15",
+   "short": "481.5.15",
+   "title": "Arrêté concernant le Fonds Jean Tinguely–Niki de Saint Phalle",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/481.5.15",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/481.5.15",
+     "sha256": "23869c75a659cb0502d1fb8740ad5126de43517b65c9277407a51d5a88847be7"
+    }
+   ]
+  },
+  {
+   "slug": "482-42",
+   "short": "482.42",
+   "title": "Arrêté instituant une commission du recensement du patrimoine artistique",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/482.42",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/482.42",
+     "sha256": "65b9ece93083e92a0225ab52a0afaa70a6116acac8a6c616cddd3a1cf2f6f2fc"
+    }
+   ]
+  },
+  {
+   "slug": "482-43",
+   "short": "482.43",
+   "title": "Arrêté relatif à la conservation du patrimoine architectural alpestre",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/482.43",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 19,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/482.43",
+     "sha256": "56411873dc75f508a93778c9f4c863f438dcc6041ebb12ddb9a644dec8523b3c"
+    }
+   ]
+  },
+  {
+   "slug": "482-44",
+   "short": "482.44",
+   "title": "Arrêté instituant une commission du recensement des chalets d'alpage",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/482.44",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/482.44",
+     "sha256": "19628425d1dde7541ec0a1ecc74d8efe1ce16f888d1b5accbd2415c7413043c4"
+    }
+   ]
+  },
+  {
+   "slug": "511-52",
+   "short": "511.52",
+   "title": "Arrêté concernant l'attribution des compétences en matière de sanctions disciplinaires militaires",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/511.52",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/511.52",
+     "sha256": "b5d9d58542afb4284651b4e2a88167327ac19751c2b8292913b6cd3c60cff5a3"
+    }
+   ]
+  },
+  {
+   "slug": "514-21",
+   "short": "514.21",
+   "title": "Arrêté sur l'aide financière accordée aux sociétés de tir",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/514.21",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/514.21",
+     "sha256": "51e81c1beed1ef8a8259417a83276a73496a64a8fad48f5b100b75a7f686efff"
+    }
+   ]
+  },
+  {
+   "slug": "550-2",
+   "short": "550.2",
+   "title": "Convention entre la Confédération et les cantons relative à la mise en oeuvre, à l’application et au développement de l’acquis de Schengen et de Dublin",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/550.2",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/110/pdf_file",
+     "sha256": "c5d55a078e7f557b2df5fffdc9e889536c481a75eb25ee7b62061c56300529c6"
+    }
+   ]
+  },
+  {
+   "slug": "551-21",
+   "short": "551.21",
+   "title": "Décret fixant l'effectif des agents et agentes de la Police cantonale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/551.21",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 3,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/551.21",
+     "sha256": "4a79e4d8a44f477c9474e6efd55dd6731e3b5d8183e300d1ab7eb93c261bf608"
+    }
+   ]
+  },
+  {
+   "slug": "551-78",
+   "short": "551.78",
+   "title": "Arrêté relatif à la participation de l'Etat aux frais de l'assurance-maladie des agents de la force publique (régime transitoire)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/551.78",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/551.78",
+     "sha256": "62675b86f07c71fac944866072af8293bdb36b09887952f95951bca800d04c86"
+    }
+   ]
+  },
+  {
+   "slug": "551-181",
+   "short": "551.181",
+   "title": "Directives DSJ sur la durée de conservation et l'élimination des données de police",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/551.181",
+   "versions": [
+    {
+     "from": "2009-05-01",
+     "units": 21,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/551.181",
+     "sha256": "38b072e9573bc999951d20a1ed275477d33a8a29276b95d637afa68ac9d77b46"
+    }
+   ]
+  },
+  {
+   "slug": "559-2",
+   "short": "559.2",
+   "title": "Convention sur les engagements de police intercantonaux",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8263/pdf_file",
+     "sha256": "06560ef0e1e02e0e0d63f01b56a7bedea1b20bdfb48df97d2834da73787660bd"
+    }
+   ]
+  },
+  {
+   "slug": "559-3",
+   "short": "559.3",
+   "title": "Concordat réglant la coopération en matière de police en Suisse romande",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.3",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6161/pdf_file",
+     "sha256": "5617a65d6df9ab7daf1b8c3d654885502618ca2cf4df1f1258a170b0813533cb"
+    }
+   ]
+  },
+  {
+   "slug": "559-4",
+   "short": "559.4",
+   "title": "Convention entre la Confédération et les cantons sur l’harmonisation et la mise à disposition commune de la technique et de l’informatique policières en Suisse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.4",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7549/pdf_file",
+     "sha256": "6043251a4d41086a7653750fb96ed5d5cfa13df76916f9697bb4cf6da12916df"
+    }
+   ]
+  },
+  {
+   "slug": "559-5",
+   "short": "559.5",
+   "title": "Convention relative aux transports de police",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.5",
+   "versions": [
+    {
+     "from": "1910-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6162/pdf_file",
+     "sha256": "2107ec318cf38f1fed3290a6d99522f9e88d6bac3c8ab0a32cce9458e33540dd"
+    }
+   ]
+  },
+  {
+   "slug": "559-6",
+   "short": "559.6",
+   "title": "Concordat sur les entreprises de sécurité",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.6",
+   "versions": [
+    {
+     "from": "2025-01-04",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8165/pdf_file",
+     "sha256": "0a5a64a633b048b7ef5554a446d8ac36e02a6876e7e80277b85c8dbf13941a24"
+    }
+   ]
+  },
+  {
+   "slug": "559-7",
+   "short": "559.7",
+   "title": "Loi portant adhésion du canton de Fribourg au concordat instituant des mesures contre la violence lors de manifestations sportives",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.7",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/559.7",
+     "sha256": "fc4b384980fbc3332791809a174df298844b258cc6d7223fe02a00683d2669eb"
+    }
+   ]
+  },
+  {
+   "slug": "559-61",
+   "short": "559.61",
+   "title": "Arrêté d'exécution du concordat sur les entreprises de sécurité",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.61",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 20,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/559.61",
+     "sha256": "9f17de7f93d783eec5cdfebf48866cd1cd1e2985940bd15db3eca84735c296a4"
+    }
+   ]
+  },
+  {
+   "slug": "559-71",
+   "short": "559.71",
+   "title": "Concordat instituant des mesures contre la violence lors de manifestations sportives",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/559.71",
+   "versions": [
+    {
+     "from": "2014-04-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6164/pdf_file",
+     "sha256": "6ca91cc05b9b735d27c4a5f8f1e02f3cbcac5d218a5df583981a94cfcf00d58d"
+    }
+   ]
+  },
+  {
+   "slug": "612-81",
+   "short": "612.81",
+   "title": "Arrêté relatif à la vérification des comptes des institutions de droit public",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/612.81",
+   "versions": [
+    {
+     "from": "1924-01-22",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/612.81",
+     "sha256": "3153a2518051f04be0d6a687d35dcf6032447b45387b4777c0b7dbad70d139fd"
+    }
+   ]
+  },
+  {
+   "slug": "614-32",
+   "short": "614.32",
+   "title": "Tarif des honoraires perçus par l'Inspection des finances",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/614.32",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/614.32",
+     "sha256": "b7062329cf6492c1b62dc858d16ca0ff67d1bb93da865361b8f5d9563668efbd"
+    }
+   ]
+  },
+  {
+   "slug": "631-16",
+   "short": "631.16",
+   "title": "Tarif des émoluments du Service cantonal des contributions",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.16",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.16",
+     "sha256": "c5747fea18c000b5c89c411a32322f0cbe30af3cc60883575fb0e55f709581fa"
+    }
+   ]
+  },
+  {
+   "slug": "631-31",
+   "short": "631.31",
+   "title": "Arrêté sur l'imposition d'après la dépense",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.31",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 11,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.31",
+     "sha256": "ecc5b0d5d7a9571dc334ae6f0ef3ca7f52293a0ada7559613b26440c26e5c604"
+    }
+   ]
+  },
+  {
+   "slug": "631-33",
+   "short": "631.33",
+   "title": "Arrêté concernant l'imposition des immeubles non agricoles",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.33",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 22,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.33",
+     "sha256": "8f5b612cd4335daccfbfbd6e3d6db4aca1ccc82ff148a24473cdbf959e45a84b"
+    }
+   ]
+  },
+  {
+   "slug": "631-34",
+   "short": "631.34",
+   "title": "Arrêté concernant l’imposition des immeubles agricoles",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.34",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6166/pdf_file",
+     "sha256": "676c527bc5a8232a4721094c58e6dfb14a8c54029f6f5775affa5a00a608ab49"
+    }
+   ]
+  },
+  {
+   "slug": "631-36",
+   "short": "631.36",
+   "title": "Arrêté concernant l'imposition de la valeur locative du logement agricole",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.36",
+   "versions": [
+    {
+     "from": "2001-01-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.36",
+     "sha256": "3c12181abc1c1089f91e11afed9d2135c4a9e2a0f27d32940314c8dad698ed3e"
+    }
+   ]
+  },
+  {
+   "slug": "631-38",
+   "short": "631.38",
+   "title": "Arrêté sur l'inventaire fiscal au décès",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/631.38",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/631.38",
+     "sha256": "c52d614b6d83e0348f35ce4f022f7c2ec3f985b802cca585b7052119134b967a"
+    }
+   ]
+  },
+  {
+   "slug": "634-1-11",
+   "short": "634.1.11",
+   "title": "Arrêté d'exécution de la loi fédérale sur l'impôt fédéral direct",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/634.1.11",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 15,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/634.1.11",
+     "sha256": "c8014f2f762c3be050e448e7b4e8bcb82db8b70435780d9afd90c77bf9615393"
+    }
+   ]
+  },
+  {
+   "slug": "635-1-11",
+   "short": "635.1.11",
+   "title": "Arrêté sur les droits de mutation et les droits sur les gages immobiliers",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/635.1.11",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/635.1.11",
+     "sha256": "7d9efdcacc6896fb81cb823890d5e55148995b17e13d3c7722e6a93812960001"
+    }
+   ]
+  },
+  {
+   "slug": "636-1",
+   "short": "636.1",
+   "title": "Concordat entre les cantons de la Confédération suisse sur l’interdiction des arrangements fiscaux",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/636.1",
+   "versions": [
+    {
+     "from": "1949-10-06",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6167/pdf_file",
+     "sha256": "b678bfe525a0b4b235516e936bd2f029450f05b6b7a81d68d00ee4ad80af26f6"
+    }
+   ]
+  },
+  {
+   "slug": "710-2",
+   "short": "710.2",
+   "title": "Décret fixant les principes généraux et les objectifs en matière d'aménagement du territoire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/710.2",
+   "versions": [
+    {
+     "from": "2016-02-02",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/710.2",
+     "sha256": "0c164ca442d7e09635a7a2c19ae97313a0135a3c6216e943f38edab32b5d356c"
+    }
+   ]
+  },
+  {
+   "slug": "710-7",
+   "short": "710.7",
+   "title": "Accord intercantonal harmonisant la terminologie dans le domaine des constructions",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/710.7",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6855/pdf_file",
+     "sha256": "02da9c790c1e74ff30d008e177f657ed63390b826502ff059cce3dda36e396f3"
+    }
+   ]
+  },
+  {
+   "slug": "710-12",
+   "short": "710.12",
+   "title": "Arrêté désignant les associations cantonales, non affiliées à une association d'importance nationale, habilitées à former opposition et recours",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/710.12",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/710.12",
+     "sha256": "1e2dca614a067a1d16f52abc2e97fa2817ef60555517350b3bdaa28b50f700c9"
+    }
+   ]
+  },
+  {
+   "slug": "721-1-11",
+   "short": "721.1.11",
+   "title": "Arrêté concernant la protection de la faune et de la flore fribourgeoise",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/721.1.11",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 13,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/721.1.11",
+     "sha256": "a10efda802437349612888c58e8164c356b2481852cbb7280fe76f4101e9d81b"
+    }
+   ]
+  },
+  {
+   "slug": "721-1-21",
+   "short": "721.1.21",
+   "title": "Arrêté relatif à la protection des escargots",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/721.1.21",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/721.1.21",
+     "sha256": "6c49dd139100d192cf895c89774c3b2338b59e70ca3fefd2ff21d56d6e6adfbb"
+    }
+   ]
+  },
+  {
+   "slug": "721-1-53",
+   "short": "721.1.53",
+   "title": "Arrêté concernant la réserve mycologique Moosboden, sur le territoire de la commune de Cerniat, forêt domaniale du Höllbach",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/721.1.53",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/721.1.53",
+     "sha256": "c70ea543c9e2c5f4ef4b5ec0736c54a2dd94ca8ed396cd65620e15784d737bf6"
+    }
+   ]
+  },
+  {
+   "slug": "721-3-12",
+   "short": "721.3.12",
+   "title": "Arrêté concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/721.3.12",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/721.3.12",
+     "sha256": "c4c0eb3bca810e31c1e7085826bc38bf9d567056ee8a3bc03135180865abef7e"
+    }
+   ]
+  },
+  {
+   "slug": "731-3-12",
+   "short": "731.3.12",
+   "title": "Tarif des frais d'intervention des sapeurs-pompiers",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/731.3.12",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/731.3.12",
+     "sha256": "2a4eb8b9682d3764b04582af32c7fae28bd02694bbfc3bd8e742d6fc2db785b1"
+    }
+   ]
+  },
+  {
+   "slug": "741-9",
+   "short": "741.9",
+   "title": "Convention sur le Service intercantonal d’entretien du réseau autoroutier des cantons de Fribourg, de Vaud et de la République et canton de Genève",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/741.9",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6169/pdf_file",
+     "sha256": "2668f442c6969351eb07eca32ce5ca77b9462831b62530fdd9df7b0a45ba9ca7"
+    }
+   ]
+  },
+  {
+   "slug": "741-16",
+   "short": "741.16",
+   "title": "Tarif concernant l'utilisation des canalisations des routes cantonales pour l'évacuation des eaux",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/741.16",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/741.16",
+     "sha256": "22e178170d41db24bb74e191685a816b52b0e70e1bdb837186ba9bd64dcf049b"
+    }
+   ]
+  },
+  {
+   "slug": "741-62",
+   "short": "741.62",
+   "title": "Décret relatif à l'application de l'article 66 de la loi du 15 décembre 1967 sur les routes (subventions)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/741.62",
+   "versions": [
+    {
+     "from": "1988-10-04",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/741.62",
+     "sha256": "ef1e3c3aa68b9546892dc0e44c9398c462237892b29d4bf3a9fa2d30422e8e87"
+    }
+   ]
+  },
+  {
+   "slug": "743-7-2",
+   "short": "743.7.2",
+   "title": "Convention intercantonale concernant l’entretien et la surveillance en commun de l’oeuvre intercantonale de la IIe correction des eaux du Jura et la régularisation des eaux qui en font partie",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/743.7.2",
+   "versions": [
+    {
+     "from": "1986-02-04",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/719/pdf_file",
+     "sha256": "7caab770c27135bbfc4c33a1a8cad63f5298e7c7f247e706a227422860256fd3"
+    }
+   ]
+  },
+  {
+   "slug": "743-7-3",
+   "short": "743.7.3",
+   "title": "Convention intercantonale entre les Etats de Fribourg et de Vaud pour l’entretien des corrections de la Glâne et du Fossé-Neuf",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/743.7.3",
+   "versions": [
+    {
+     "from": "1938-03-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7281/pdf_file",
+     "sha256": "240719a4cea66b615522cf101e68c2ddf240c9d25f74d0b4bcba3c1e87f86e0c"
+    }
+   ]
+  },
+  {
+   "slug": "750-16",
+   "short": "750.16",
+   "title": "Ordonnance fixant les taxes et redevances pour l’utilisation du domaine public",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/750.16",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8358/pdf_file",
+     "sha256": "0f89aceb49693e75f72e487569a9d4c6991b1ba44b0528ef98312bfca537a915"
+    }
+   ]
+  },
+  {
+   "slug": "750-21",
+   "short": "750.21",
+   "title": "Arrêté concernant l'utilisation du domaine public ou privé de l'Etat en vue de la construction de maisons de vacances",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/750.21",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 11,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/750.21",
+     "sha256": "3ec8a756e9dc59ae2a7dbfa38305ff76fdc39fe18796196e5bb31a0f3e911671"
+    }
+   ]
+  },
+  {
+   "slug": "753-12",
+   "short": "753.12",
+   "title": "Arrêté concernant l'utilisation des rives des lacs par les particuliers",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/753.12",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/753.12",
+     "sha256": "1f85372ebb3bd2d82246fc47d554c368f490b8c84faa5bd6cba638dbf8e729ab"
+    }
+   ]
+  },
+  {
+   "slug": "753-31",
+   "short": "753.31",
+   "title": "Arrêté instaurant des mesures concernant les maisons de vacances sur le domaine public et privé de l'Etat au bord du lac de Neuchâtel",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/753.31",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/753.31",
+     "sha256": "99c885d8a950944b134a97d6af007bf6a1f941cde1d416767e74348a62e541cc"
+    }
+   ]
+  },
+  {
+   "slug": "773-11",
+   "short": "773.11",
+   "title": "Arrêté pour l'exécution de la loi fédérale sur l'utilisation des forces hydrauliques",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/773.11",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 21,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/773.11",
+     "sha256": "32853bf0a0ccdeb24251cb64236bfae411168d0127cff2359a901aa000026582"
+    }
+   ]
+  },
+  {
+   "slug": "775-2-11",
+   "short": "775.2.11",
+   "title": "Arrêté sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux non soumises à concession fédérale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/775.2.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/775.2.11",
+     "sha256": "a23682d78df3fc64df1c7409d420e20c5a1a19e63cc1d3560ea4fceff772f108"
+    }
+   ]
+  },
+  {
+   "slug": "775-2-12",
+   "short": "775.2.12",
+   "title": "Arrêté désignant l'organe de contrôle technique des installations de transport par conduites du gaz naturel non soumises à concession fédérale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/775.2.12",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/775.2.12",
+     "sha256": "ac9e3bccd50dc12d59c63ddb6227d048588665a2a8bb08dba5898834a5b29bb3"
+    }
+   ]
+  },
+  {
+   "slug": "781-11",
+   "short": "781.11",
+   "title": "Arrêté d'exécution de la loi d'application de la législation fédérale sur la circulation routière",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/781.11",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/781.11",
+     "sha256": "4e445c0691f1f1448aeaeb10052cd0f34337c20eeaad38fb47ff5b1601e4c9d2"
+    }
+   ]
+  },
+  {
+   "slug": "781-16",
+   "short": "781.16",
+   "title": "Arrêté fixant les émoluments en matière de circulation routière",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/781.16",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 18,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/781.16",
+     "sha256": "a04c436fa5aabb5511190ba2e2edbc0555fbf357d357f8c7ca356bed0a9d7c01"
+    }
+   ]
+  },
+  {
+   "slug": "781-31",
+   "short": "781.31",
+   "title": "Arrêté concernant l'emploi de véhicules à moteur hors des routes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/781.31",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 28,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/781.31",
+     "sha256": "916b40d92087e76c7b38c2f817318b7bbb4f968fe5d454642bb94ead0d30e88c"
+    }
+   ]
+  },
+  {
+   "slug": "782-5",
+   "short": "782.5",
+   "title": "Décret concernant la constitution de la Compagnie des chemins de fer fribourgeois",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/782.5",
+   "versions": [
+    {
+     "from": "1949-11-25",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/782.5",
+     "sha256": "b894c04eefd9e7cec1214a9d60142eb4dbb306cc8dd9a3d05b52e35c5dabb567"
+    }
+   ]
+  },
+  {
+   "slug": "784-2",
+   "short": "784.2",
+   "title": "Concordat concernant les installations de transport par câbles et skilifts sans concession fédérale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/784.2",
+   "versions": [
+    {
+     "from": "1972-11-27",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8665/pdf_file",
+     "sha256": "497e0a28a0f1fddf3c70800346bd7fbe5fba9ce9d8e55da6a112bccb972443e2"
+    }
+   ]
+  },
+  {
+   "slug": "785-5",
+   "short": "785.5",
+   "title": "Convention intercantonale relative à l’organisation et à la gestion de la police du lac de Neuchâtel",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/785.5",
+   "versions": [
+    {
+     "from": "2014-08-15",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6173/pdf_file",
+     "sha256": "7ea343eb58c7225f4e44611ee7d0b5509ee1bfa51eb3155f783867e936ed0745"
+    }
+   ]
+  },
+  {
+   "slug": "785-13",
+   "short": "785.13",
+   "title": "Arrêté concernant la navigation sur les cours d'eau",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/785.13",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/785.13",
+     "sha256": "08099286fc0bfb09aeef113ef8c0f28553611ce1c267da68275360fc749dd64e"
+    }
+   ]
+  },
+  {
+   "slug": "785-16",
+   "short": "785.16",
+   "title": "Arrêté fixant les émoluments en matière de navigation",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/785.16",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/785.16",
+     "sha256": "1f372f03af6ab30255506a5a9fb8d0aa5a0e661dfdd1a2e3a82bc506b6283e7c"
+    }
+   ]
+  },
+  {
+   "slug": "785-21",
+   "short": "785.21",
+   "title": "Arrêté limitant et interdisant la navigation sur certains lacs",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/785.21",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/785.21",
+     "sha256": "3178cb43aa497ba7143aaf0404169f4025848bc013e060e0a36c8e7182cee3bc"
+    }
+   ]
+  },
+  {
+   "slug": "786-11",
+   "short": "786.11",
+   "title": "Arrêté sur la navigation aérienne",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/786.11",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 10,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/786.11",
+     "sha256": "7a003c587350a1b124331f448886c49884f414caefe41c2d4fbcc8b95863686d"
+    }
+   ]
+  },
+  {
+   "slug": "810-14",
+   "short": "810.14",
+   "title": "Arrêté d'exécution de dispositions fédérales sur la protection contre les accidents majeurs",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/810.14",
+   "versions": [
+    {
+     "from": "2022-12-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/810.14",
+     "sha256": "a2a1b2f6524a5cf64ada2ea270919002874542105cf00d709e059274b77237ea"
+    }
+   ]
+  },
+  {
+   "slug": "810-22",
+   "short": "810.22",
+   "title": "Arrêté approuvant le plan cantonal de gestion des déchets",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/810.22",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 8,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/810.22",
+     "sha256": "2497243726ffa289151725e528c4c939adbd272ea299a4e2aae6bdf8bdf2334b"
+    }
+   ]
+  },
+  {
+   "slug": "810-23",
+   "short": "810.23",
+   "title": "Arrêté modifiant le plan cantonal de gestion des déchets",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/810.23",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/810.23",
+     "sha256": "4ca9a500188c49f493f3d7eeae93cf7a4bc4436f900ed87cedd0a033310140e8"
+    }
+   ]
+  },
+  {
+   "slug": "813-11",
+   "short": "813.11",
+   "title": "Arrêté d'exécution de dispositions fédérales sur la protection de l'air",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/813.11",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 12,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/813.11",
+     "sha256": "4103e3252dd389f3b2504e37bfc43f8a424e04ba3baf416e64c77996648bf106"
+    }
+   ]
+  },
+  {
+   "slug": "820-8",
+   "short": "820.8",
+   "title": "Convention intercantonale relative à la médecine hautement spécialisée",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/820.8",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6174/pdf_file",
+     "sha256": "497a789b331c2dc67b19d30b8cf093bac85a3cdecd4c7569916ccc251dd6acd0"
+    }
+   ]
+  },
+  {
+   "slug": "821-5-11",
+   "short": "821.5.11",
+   "title": "Arrêté sur les sépultures",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.5.11",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 19,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.5.11",
+     "sha256": "9e2be45e9fc3686f34941244efe5cdd09443f525bd4b0e9d84deb249d26f58eb"
+    }
+   ]
+  },
+  {
+   "slug": "821-10-4",
+   "short": "821.10.4",
+   "title": "Convention entre les cantons et la Croix-Rouge suisse concernant la formation professionnelle du personnel infirmier, médico-technique et médico-thérapeutique",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.10.4",
+   "versions": [
+    {
+     "from": "1977-08-16",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6175/pdf_file",
+     "sha256": "7c0599a6b03cbb9d567940e9f52b31bcb3817686b92458c9b8373f5d1a7c9210"
+    }
+   ]
+  },
+  {
+   "slug": "821-10-5",
+   "short": "821.10.5",
+   "title": "Convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.10.5",
+   "versions": [
+    {
+     "from": "1996-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6176/pdf_file",
+     "sha256": "628e72924b530cb176b18006094094f8950d6223a096ac8c2a68b452be1d1874"
+    }
+   ]
+  },
+  {
+   "slug": "821-10-51",
+   "short": "821.10.51",
+   "title": "Arrêté approuvant la convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement ainsi que ses annexes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.10.51",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.10.51",
+     "sha256": "15f392afec3bc354d3c9d2feaae72cba03991a43c77cbcb914d5090a73534d17"
+    }
+   ]
+  },
+  {
+   "slug": "821-17-42",
+   "short": "821.17.42",
+   "title": "Arrêté concernant la reconnaissance des écoles suisses de pédicures",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.17.42",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.17.42",
+     "sha256": "8f50058039770ab3003ac67c4787e1abb6b63406e58b59216095c148126c3fd8"
+    }
+   ]
+  },
+  {
+   "slug": "821-41-11",
+   "short": "821.41.11",
+   "title": "Arrêté sur la lutte contre les maladies transmissibles et autres mesures de police sanitaire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.41.11",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 13,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.41.11",
+     "sha256": "90538a88919b1a036214578a65394e5419bba311575f61fd7a3a4e40598caa5f"
+    }
+   ]
+  },
+  {
+   "slug": "821-41-12",
+   "short": "821.41.12",
+   "title": "Arrêté relatif à la fusion du laboratoire de l'hôpital fribourgeois et de l'Institut cantonal d'hygiène et de microbiologie",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.41.12",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.41.12",
+     "sha256": "03916cd292eeb93eb1506fa4ed44684857094605ce76d10de80e7860b9ce069f"
+    }
+   ]
+  },
+  {
+   "slug": "821-44-12",
+   "short": "821.44.12",
+   "title": "Arrêté concernant la prévention de l'alcoolisme et des autres toxicomanies",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.44.12",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.44.12",
+     "sha256": "2722330dc979a0f07aa15e2c28013f27af3cc8dca951b08485add1075dac67f0"
+    }
+   ]
+  },
+  {
+   "slug": "821-44-32",
+   "short": "821.44.32",
+   "title": "Arrêté instituant un Fonds de recherche en matière d'affections psychiques et de toxicodépendances",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/821.44.32",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/821.44.32",
+     "sha256": "df37babcfa7e8123f15a9072beb6fb71612dd9cd5cacce51bc807ba36f2f1c88"
+    }
+   ]
+  },
+  {
+   "slug": "822-0-6",
+   "short": "822.0.6",
+   "title": "Convention sur les contributions des cantons aux hôpitaux relative au financement de la formation médicale postgrade et sur la compensation intercantonale des charges",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.6",
+   "versions": [
+    {
+     "from": "2022-01-25",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7551/pdf_file",
+     "sha256": "991e7f768ce39d34603f761bef5e0db75a0bbef5d472c45df4a512ed5ede9ac9"
+    }
+   ]
+  },
+  {
+   "slug": "822-0-7",
+   "short": "822.0.7",
+   "title": "Convention intercantonale sur l’Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.7",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6178/pdf_file",
+     "sha256": "2a001e899baaae69b1f4b9fb0169ecc3f16718d0a662f4f9e99131dbd7dffb53"
+    }
+   ]
+  },
+  {
+   "slug": "822-0-71",
+   "short": "822.0.71",
+   "title": "Règlement d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg, relatif à l'exploitation de l'établissement",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/822.0.71",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8265/pdf_file",
+     "sha256": "a7435af8f57b64cca38549db9b32c1cf6034d429ca0ce326bff5fad5d23b1181"
+    }
+   ]
+  },
+  {
+   "slug": "823-2",
+   "short": "823.2",
+   "title": "Convention concernant l’organisation des services de soins extra-hospitaliers dans le canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/823.2",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6179/pdf_file",
+     "sha256": "26c99c8b489aa845da0ffee0be053a03abc59eda55a0a9fad971a6e5a161832f"
+    }
+   ]
+  },
+  {
+   "slug": "823-16",
+   "short": "823.16",
+   "title": "Arrêté fixant les tarifs de l'aide familiale à domicile",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/823.16",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/823.16",
+     "sha256": "a0b11d8f0f3a1ee0ae2ce42df8cdf55249c5c3b14fe0b6ee22b93bea15c27e25"
+    }
+   ]
+  },
+  {
+   "slug": "824-1",
+   "short": "824.1",
+   "title": "Convention intercantonale en matière de santé numérique",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/824.1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8362/pdf_file",
+     "sha256": "44d99dfebc03aba3eb1b3ee4186f880c3945f24b9814b11020e005dcdfad75c6"
+    }
+   ]
+  },
+  {
+   "slug": "834-0-4",
+   "short": "834.0.4",
+   "title": "Convention intercantonale relative aux institutions sociales",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/834.0.4",
+   "versions": [
+    {
+     "from": "2020-06-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/7559/pdf_file",
+     "sha256": "4631c67c4c8687176eb21f9d020d8c3038c68cd67bc03ba0fe986dc173ec973f"
+    }
+   ]
+  },
+  {
+   "slug": "834-1-26",
+   "short": "834.1.26",
+   "title": "Arrêté fixant la contribution aux frais des personnes prises en charge dans les institutions spécialisées",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/834.1.26",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/834.1.26",
+     "sha256": "8118b4ced64d08604b9c4e3e59be84da1f7b13daf33763adfe5efea751661f4c"
+    }
+   ]
+  },
+  {
+   "slug": "838-11",
+   "short": "838.11",
+   "title": "Arrêté de reconnaissance d'un office de consultation conjugale",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/838.11",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/838.11",
+     "sha256": "22d3773fc65d8abc847371d7a0016f8179d4d1ee2abd183962c620348d6403f3"
+    }
+   ]
+  },
+  {
+   "slug": "838-31",
+   "short": "838.31",
+   "title": "Arrêté concernant les centres de consultation en matière de grossesse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/838.31",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/838.31",
+     "sha256": "90af1524cea8d5baa1660c09e9f53331b5117ef014ced7bdad7612d4895bd274"
+    }
+   ]
+  },
+  {
+   "slug": "841-1-63",
+   "short": "841.1.63",
+   "title": "Arrêté concernant la mise en compte et la perception des parts communales aux charges financières incombant au canton pour l'assurance-vieillesse et survivants, l'assurance-invalidité, les prestations complémentaires à l'AVS/AI et les allocations familiales aux travailleurs agricoles et aux petits paysans",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/841.1.63",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 10,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/841.1.63",
+     "sha256": "97b6f560fde3875bb84dad7ce61e330ea2bff5b0732122c0979071131a1d6e70"
+    }
+   ]
+  },
+  {
+   "slug": "841-3-11",
+   "short": "841.3.11",
+   "title": "Arrêté d'exécution de la loi du 16 novembre 1965 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, modifiée par celle du 11 novembre 1970",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/841.3.11",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 20,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/841.3.11",
+     "sha256": "19b6965e70cee5234888462edcc9f6eb5f1b68cb9625a800b0d9bd2741e10503"
+    }
+   ]
+  },
+  {
+   "slug": "841-4-13",
+   "short": "841.4.13",
+   "title": "Convention relative à la surveillance des institutions de prévoyance professionnelle ayant leur siège dans le canton de Fribourg",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/841.4.13",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/5429/pdf_file",
+     "sha256": "437756c1e5b33f2338696fe19f2e5f5441b3ca267af9c913ba3ad49613ea7cfb"
+    }
+   ]
+  },
+  {
+   "slug": "842-1-18",
+   "short": "842.1.18",
+   "title": "Arrêté fixant le tarif cadre médical",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/842.1.18",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/842.1.18",
+     "sha256": "023d12627454c5f0c2d46e60855165874a256b87b42cedf0c2594ac19dad861d"
+    }
+   ]
+  },
+  {
+   "slug": "843-15",
+   "short": "843.15",
+   "title": "Arrêté concernant les contestations relatives à l'assurance militaire",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/843.15",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 6,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/843.15",
+     "sha256": "198bdc33a8b3f7687480fa0bb8de7226c6108de1b649c152798a91f045be5725"
+    }
+   ]
+  },
+  {
+   "slug": "864-1-16",
+   "short": "864.1.16",
+   "title": "Arrêté fixant les émoluments administratifs pour les autorisations et approbations données en application de la législation sur le travail dans l'industrie, l'artisanat et le commerce",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/864.1.16",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 7,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/864.1.16",
+     "sha256": "d2031041165923df7797d2a23bdf0793d077adb9f24f65bf54d22108acc37ac1"
+    }
+   ]
+  },
+  {
+   "slug": "865-51",
+   "short": "865.51",
+   "title": "Arrêté concernant la célébration de la Fête fédérale d'actions de grâces",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/865.51",
+   "versions": [
+    {
+     "from": "1930-09-06",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/865.51",
+     "sha256": "d42819499df2d33668f114d0ea230024d3771946ed7c359e46b16b71d841a14c"
+    }
+   ]
+  },
+  {
+   "slug": "910-61",
+   "short": "910.61",
+   "title": "Arrêté concernant l'exécution de l'ordonnance fédérale relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/910.61",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/910.61",
+     "sha256": "67b6ad16b92e5e46c3f08aa68d13fdb953a62ffa59a8eec76333ff8af1bc6bf5"
+    }
+   ]
+  },
+  {
+   "slug": "914-10-65",
+   "short": "914.10.65",
+   "title": "Arrêté adoptant le plan de couverture des besoins en centres collecteurs de déchets animaux",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/914.10.65",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 4,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/914.10.65",
+     "sha256": "bbaedcd039fface184c87fb5dc54cf2b812a8e6e3d661dc8cfc6265c0fbfe7a0"
+    }
+   ]
+  },
+  {
+   "slug": "917-16",
+   "short": "917.16",
+   "title": "Arrêté concernant les subventions cantonales en faveur d'améliorations foncières",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/917.16",
+   "versions": [
+    {
+     "from": "2023-03-01",
+     "units": 17,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/917.16",
+     "sha256": "a1258946afddcdce902e4b4abd26b72de00b796e998f4d59c85ce834f8aca081"
+    }
+   ]
+  },
+  {
+   "slug": "921-4",
+   "short": "921.4",
+   "title": "Convention relative à la création et à l’exploitation de l’Ecole intercantonale de gardes forestiers de Lyss",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/921.4",
+   "versions": [
+    {
+     "from": "1969-03-28",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6181/pdf_file",
+     "sha256": "b83612e8266d5666a9a9b3a4e27d5796f6a519de6c5f45a3963d2a2ea98b0beb"
+    }
+   ]
+  },
+  {
+   "slug": "921-17",
+   "short": "921.17",
+   "title": "Arrêté portant création d'un fonds d'investissement forestier",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/921.17",
+   "versions": [
+    {
+     "from": "2019-04-01",
+     "units": 14,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/921.17",
+     "sha256": "d6fb63acb51415daa24baf2577e04a58cd3e2e385606c7b39c1c380814b97ac6"
+    }
+   ]
+  },
+  {
+   "slug": "922-4",
+   "short": "922.4",
+   "title": "Concordat sur l’exercice et la surveillance de la chasse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/922.4",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6183/pdf_file",
+     "sha256": "f61b8baacde71bde21db80981164c2bcf4d20d14b371455a7c266e2f7572c8bb"
+    }
+   ]
+  },
+  {
+   "slug": "922-5",
+   "short": "922.5",
+   "title": "Concordat concernant la chasse sur le lac de Neuchâtel",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/922.5",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6491/pdf_file",
+     "sha256": "2a41ae032bf84e329f376a515246f2dae6c8d289788e5fba2c9adbd284f235d9"
+    }
+   ]
+  },
+  {
+   "slug": "922-6",
+   "short": "922.6",
+   "title": "Concordat concernant la chasse sur le lac de Morat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/922.6",
+   "versions": [
+    {
+     "from": "2020-09-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6492/pdf_file",
+     "sha256": "3e5eea8d7f672456be711736495f0e037451286e9cfdc7b88b013ca98c4f43c7"
+    }
+   ]
+  },
+  {
+   "slug": "923-4",
+   "short": "923.4",
+   "title": "Concordat sur l’exercice de la pêche",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.4",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6187/pdf_file",
+     "sha256": "87d7ee1810f2ad0b3162742c0de466e62fecef7e4583d093c6c12b14e7efd209"
+    }
+   ]
+  },
+  {
+   "slug": "923-5",
+   "short": "923.5",
+   "title": "Concordat sur la pêche dans le lac de Neuchâtel",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.5",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8060/pdf_file",
+     "sha256": "13f821997f34da2169c7dd05b57af6f4b6274e5728aa62a4ff315f6d28177254"
+    }
+   ]
+  },
+  {
+   "slug": "923-6",
+   "short": "923.6",
+   "title": "Concordat sur la pêche dans le lac de Morat",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.6",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6190/pdf_file",
+     "sha256": "599b5e712ce922f0cb6850e7c72db495f41892974355197574a9d6e6cab7bfcf"
+    }
+   ]
+  },
+  {
+   "slug": "923-7",
+   "short": "923.7",
+   "title": "Convention entre les cantons de Berne et de Fribourg concernant la pêche dans les eaux limitrophes de la Singine et de la Sarine",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.7",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6191/pdf_file",
+     "sha256": "7cd77ea3c4b629b4f08ca82fd904066cacf22ba580b4480aaba558fb39d1f9ef"
+    }
+   ]
+  },
+  {
+   "slug": "923-51",
+   "short": "923.51",
+   "title": "Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2025, 2026 et 2027",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.51",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8112/pdf_file",
+     "sha256": "85e59648e67283a4767287c46f2e4579efc7d5ca8bbb7d233ae37ab1194cad4d"
+    }
+   ]
+  },
+  {
+   "slug": "923-61",
+   "short": "923.61",
+   "title": "Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2025, 2026 et 2027",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/923.61",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/8111/pdf_file",
+     "sha256": "d4edc7989c4bdef80bfcdfd8439c4ebd9fe1f06b96fa24ace8757f0fb1b49d63"
+    }
+   ]
+  },
+  {
+   "slug": "940-3",
+   "short": "940.3",
+   "title": "Convention administrative sur les activités industrielles et artisanales réglementées (Espace Mittelland)",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/940.3",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6192/pdf_file",
+     "sha256": "91fe628f335fcea94dd0f3a783d6829ac5401d771e6c6430d787ec537b1ca19a"
+    }
+   ]
+  },
+  {
+   "slug": "940-8",
+   "short": "940.8",
+   "title": "Accord intercantonal sur l’élimination des entraves techniques au commerce",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/940.8",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6193/pdf_file",
+     "sha256": "46d5d128cf8abe2435cc8b4f43bba7164702058fff474a62e793207458201644"
+    }
+   ]
+  },
+  {
+   "slug": "940-72",
+   "short": "940.72",
+   "title": "Arrêté relatif aux collectes",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/940.72",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 17,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/940.72",
+     "sha256": "d94eee3edc9d59e6d7308532ca8b9f42103327b72e6d7c2ab183ca161fe862f9"
+    }
+   ]
+  },
+  {
+   "slug": "942-11",
+   "short": "942.11",
+   "title": "Arrêté sur le contrôle des prix",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/942.11",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/942.11",
+     "sha256": "06f5f8fcb849642d89fb3cbfc868a20545052f304eb01ac4a2b72fdf7fed8ab6"
+    }
+   ]
+  },
+  {
+   "slug": "947-2-1",
+   "short": "947.2.1",
+   "title": "Convention intercantonale sur la vente du sel en Suisse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/947.2.1",
+   "versions": [
+    {
+     "from": "1974-08-12",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6194/pdf_file",
+     "sha256": "99314177abd8fd0e9936e6ab530a905c3e7492593979a4a8e014ff5cd06ae754"
+    }
+   ]
+  },
+  {
+   "slug": "947-7-11",
+   "short": "947.7.11",
+   "title": "Arrêté d'application de la loi fédérale du 25 mars 1977 sur les substances explosibles",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/947.7.11",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 16,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/947.7.11",
+     "sha256": "f00787bc92ad14deb1683065b9cc0fa7f3b343b152dc94580fabaec5f13abfd9"
+    }
+   ]
+  },
+  {
+   "slug": "952-81",
+   "short": "952.81",
+   "title": "Arrêté fixant définitivement la durée des mascarades",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/952.81",
+   "versions": [
+    {
+     "from": "1929-01-18",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/952.81",
+     "sha256": "2fb3605a649619206239320536d54a76c8a9f54b9c86979354f346ce453ce7b8"
+    }
+   ]
+  },
+  {
+   "slug": "952-171",
+   "short": "952.171",
+   "title": "Directives pour la construction et l’aménagement des établissements publics",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/952.171",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6195/pdf_file",
+     "sha256": "a3533f43303f95509bf3681ea3958b3f1cffe32a693a389c2ac1962a2ad26c60"
+    }
+   ]
+  },
+  {
+   "slug": "958-6",
+   "short": "958.6",
+   "title": "Concordat sur les jeux d’argent au niveau suisse",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/958.6",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6684/pdf_file",
+     "sha256": "2bedbf660999c4979a955c9f521c4e9f08b37ec9ad5a00cdab1eb1264b1a5368"
+    }
+   ]
+  },
+  {
+   "slug": "958-7",
+   "short": "958.7",
+   "title": "Convention romande sur les jeux d’argent",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/958.7",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 1,
+     "source_url": "https://bdlf.fr.ch/api/fr/versions/6766/pdf_file",
+     "sha256": "c9e15a4802fffe74a9e98f6bf7c6e0c360f5ab740268776ed54c964c4d80c96a"
+    }
+   ]
+  },
+  {
+   "slug": "958-32",
+   "short": "958.32",
+   "title": "Arrêté concernant la désignation des membres fribourgeois de la Société de la loterie de la Suisse romande",
+   "url": "https://bdlf.fr.ch/app/fr/texts_of_law/958.32",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 5,
+     "source_url": "https://bdlf.fr.ch/api/fr/texts_of_law/958.32",
+     "sha256": "60690325ff9453b32174c5e875414edf95ccb8bb92b065f93450a3f32cbe49d9"
     }
    ]
   }

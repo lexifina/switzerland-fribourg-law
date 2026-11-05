@@ -1,6 +1,6 @@
 # Ordonnance relative à l'identité visuelle de l'Etat de Fribourg
 
-OIV · 6 versions, from 2015-07-01 (latest in force: 2026-10-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.14>
+OIV · 6 versions, from 2015-07-01 (latest in force: 2026-11-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.14>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

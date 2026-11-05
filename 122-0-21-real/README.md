@@ -1,6 +1,6 @@
 # Règlement sur l'élaboration des actes législatifs
 
-REAL · 4 versions, from 2011-01-01 (latest in force: 2022-01-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.21>
+REAL · 4 versions, from 2011-01-01 (latest in force: 2026-11-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.21>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -47,5 +47,4 @@ REAL · 4 versions, from 2011-01-01 (latest in force: 2022-01-01) · <https://bd
 | Art. 38 | [art-038.md](art-038.md) | 0 |  |
 | Art. 39 | [art-039.md](art-039.md) | 1 | 2019-01-01 |
 | Art. 40 | [art-040.md](art-040.md) | 0 |  |
-| Gliederung | [gliederung.md](gliederung.md) | 2 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 3 | 2026-11-01 |

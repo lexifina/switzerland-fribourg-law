@@ -8,7 +8,7 @@ The text is in French, the canton's first official language in the collection, e
 
 ## What this repository holds
 
-591 acts with 1522 versions so far: the cantonal constitution, the cantonal laws (Gesetze) in force and 422 ordonnances and règlements in force, in the order of the systematic collection, added in parts. Other decrees and decisions, intercantonal agreements and repealed acts are not included yet.
+792 instruments with 1723 versions: the original 591 acts with 1522 consolidated versions, plus 201 instruments with one current consolidated corpus version each. The additional scope includes decrees, decisions, intercantonal agreements and tariffs. RSF 122.91.3 is excluded because four glyphs in the official PDF cannot be decoded reliably. The two image-incomplete acts are identified below.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -604,18 +604,228 @@ The text is in French, the canton's first official language in the collection, e
 | `958-11-oajar/` | Ordonnance sur les jeux d'argent (RSF 958.11) | 3 | oldest version available, then each consolidated version: 1 January 2003 to 1 November 2023 |
 | `958-31/` | Ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande (RSF 958.31) | 3 | oldest version available, then each consolidated version: 1 January 2016 to 1 January 2025 |
 
+## Additional current texts
+
+These 201 instruments each have one current consolidated corpus version, credited to the official publisher. Earlier wording is not asserted. RSF 122.91.3 is not included because four glyphs in the official PDF cannot be decoded reliably.
+
+| Act | Title | Versions | Coverage |
+| --- | --- | ---: | --- |
+| `28-81/` | Traité entre le Grand-Duché de Bade et la Confédération suisse sur la réciprocité de droit en matière de concours (RSF 28.81) | 1 | current consolidated text, 1808-07-09 |
+| `28-82/` | Convention entre la Confédération suisse et la Couronne de Wurtemberg sur les faillites et l’égalité qui doit être observée, en fait de collocation, entre les créanciers ressortissant à l’un ou à l’autre des deux pays (RSF 28.82) | 1 | current consolidated text, 1826-05-13 |
+| `28-83/` | Convention entre des cantons suisses et le Royaume de Bavière portant que les ressortissants respectifs seront traités à droits égaux dans les cas de concours juridiques (RSF 28.83) | 1 | current consolidated text, 1834-06-27 |
+| `28-84/` | Convention entre des cantons suisses et le Royaume de Saxe au sujet de l’égalité de droit des ressortissants respectifs dans les concours par suite des faillites (RSF 28.84) | 1 | current consolidated text, 1837-02-18 |
+| `31-16/` | Tarif relatif à la participation financière des personnes astreintes à un programme de prévention de la violence (RSF 31.16) | 1 | current consolidated text, 2025-03-01 |
+| `44-6/` | Accord intercantonal sur l’harmonisation des régimes de bourses d’études (RSF 44.6) | 1 | current consolidated text, 2013-03-01 |
+| `76-16/` | Tarif des frais de procédure en matière d'expropriation (RSF 76.16) | 1 | current consolidated text, 2022-02-01 |
+| `76-17/` | Tarif des dépens en matière d'expropriation (RSF 76.17) | 1 | current consolidated text, 2022-02-01 |
+| `76-61/` | Arrêté relatif à l'exécution de la loi fédérale du 20 juin 1930 sur l'expropriation (RSF 76.61) | 1 | current consolidated text, 1992-01-01 |
+| `87-27/` | Arrêté concernant le loyer des logements à caractère social construits par des personnes à l'étranger (RSF 87.27) | 1 | current consolidated text, 2003-01-01 |
+| `112-8/` | Concordat sur la modification territoriale résultant du transfert de la commune municipale bernoise de Clavaleyres au canton de Fribourg (RSF 112.8) | 1 | current consolidated text, 2022-01-01 |
+| `112-9/` | Convention d'exécution entre le canton de Berne et le canton de Fribourg relative au transfert de la commune de Clavaleyres au canton de Fribourg (RSF 112.9) | 1 | current consolidated text, 2022-01-01 |
+| `113-31/` | Arrêté concernant la reconnaissance officielle des armoiries des districts et des communes (RSF 113.31) | 1 | current consolidated text, 1943-07-06 |
+| `114-21-16/` | Arrêté fixant les émoluments en matière de contrôle des habitants (RSF 114.21.16) | 1 | current consolidated text, 2010-07-01 |
+| `121-3/` | Loi concernant les conventions intercantonales (RSF 121.3) | 1 | current consolidated text, 2024-01-01 |
+| `121-4/` | Convention relative à la participation des Parlements cantonaux dans le cadre de l’élaboration, de la ratification, de l’exécution et de la modification des conventions intercantonales et des traités des cantons avec l’étranger (RSF 121.4) | 1 | current consolidated text, 2011-01-01 |
+| `121-5/` | Accord-cadre pour la collaboration intercantonale assortie d’une compensation des charges (RSF 121.5) | 1 | current consolidated text, 2007-05-11 |
+| `122-0-11/` | Arrêté répartissant les Directions du Conseil d'Etat et formant ses délégations (RSF 122.0.11) | 1 | current consolidated text, 2023-03-14 |
+| `122-0-16/` | Directive concernant la représentation de l'Etat au sein des entreprises (gouvernance d'entreprise publique) (RSF 122.0.16) | 1 | current consolidated text, 2017-01-01 |
+| `122-0-511/` | Directives CHA relatives à l'information et à la communication (RSF 122.0.511) | 1 | current consolidated text, 2022-02-01 |
+| `122-3-61/` | Tarif concernant les émoluments de préfecture (RSF 122.3.61) | 1 | current consolidated text, 1992-01-01 |
+| `122-70-51/` | Directive concernant l'Annuaire téléphonique des collaborateurs et collaboratrices de l'Etat (RSF 122.70.51) | 1 | current consolidated text, 2016-11-01 |
+| `122-72-15/` | Arrêté relatif à l'unification des dates de paie des traitements du personnel de l'Etat (RSF 122.72.15) | 1 | current consolidated text, 2003-01-01 |
+| `122-72-16/` | Arrêté concernant le maintien de l'octroi de l'allocation pour personnes à charge, dans les situations de rigueur (RSF 122.72.16) | 1 | current consolidated text, 2003-01-01 |
+| `122-72-23/` | Arrêté relatif à la fixation des traitements initiaux du personnel de l'Etat (RSF 122.72.23) | 1 | current consolidated text, 1994-03-01 |
+| `122-72-24/` | Arrêté fixant le système d'évaluation des fonctions du personnel de l'Etat (RSF 122.72.24) | 1 | current consolidated text, 2003-01-01 |
+| `122-91-2/` | Accord intercantonal de 1994 sur les marchés publics (RSF 122.91.2) | 1 | current consolidated text, 2010-07-01 |
+| `122-93-16/` | Tarif des frais et honoraires perçus par la Commission d'acquisition des immeubles (RSF 122.93.16) | 1 | current consolidated text, 2012-01-01 |
+| `122-98-11/` | Arrêté concernant l'attribution et la gestion des places de stationnement pour voitures (RSF 122.98.11) | 1 | current consolidated text, 2022-02-01 |
+| `126-21/` | Tarif des émoluments administratifs (RSF 126.21) | 1 | current consolidated text, 2026-01-01 |
+| `129-1-1/` | Décret relatif au serment des fonctionnaires de l'Etat (RSF 129.1.1) | 1 | current consolidated text, 2008-01-01 |
+| `129-2-1/` | Décret déterminant les sceaux des autorités supérieures (RSF 129.2.1) | 1 | current consolidated text, 2008-01-01 |
+| `129-3-1/` | Décret fixant le rang des autorités supérieures dans les cérémonies publiques (RSF 129.3.1) | 1 | current consolidated text, 2008-01-01 |
+| `129-3-21/` | Arrêté fixant le rang des autorités subalternes dans les cérémonies publiques (RSF 129.3.21) | 1 | current consolidated text, 2011-01-01 |
+| `129-3-31/` | Arrêté déclarant le Contingent des grenadiers fribourgeois garde d'honneur officielle des autorités supérieures du canton de Fribourg (RSF 129.3.31) | 1 | current consolidated text, 2022-02-01 |
+| `129-3-41/` | Arrêté concernant la formation d'un corps de musique volontaire de Landwehr (RSF 129.3.41) | 1 | current consolidated text, 1879-02-10 |
+| `129-4-11/` | Arrêté concernant les cartes de légitimation pour magistrats et collaborateurs de l'Etat (RSF 129.4.11) | 1 | current consolidated text, 2011-01-01 |
+| `130-16/` | Tarif du Tribunal cantonal des émoluments pour les contestations portant sur des affaires pécuniaires (RSF 130.16) | 1 | current consolidated text, 2016-02-01 |
+| `130-421/` | Directives du Tribunal cantonal sur le préarchivage des dossiers judiciaires et leur versement aux Archives (RSF 130.421) | 1 | current consolidated text, 2022-01-01 |
+| `140-13/` | Arrêté désignant les préfets et préfètes suppléants chargés de la surveillance des associations de communes (RSF 140.13) | 1 | current consolidated text, 2023-10-01 |
+| `150-1/` | Code de procédure et de juridiction administrative (RSF 150.1) | 1 | current consolidated text, 2026-10-01 |
+| `150-12/` | Tarif des frais de procédure et des indemnités en matière de juridiction administrative (RSF 150.12) | 1 | current consolidated text, 2015-07-01 |
+| `150-421/` | Directives du Tribunal administratif sur le préarchivage des dossiers judiciaires et leur versement aux Archives de l'Etat (RSF 150.421) | 1 | current consolidated text, 2002-07-01 |
+| `190-5/` | Convention cadre sur l'exercice des aumôneries catholique romaine et évangélique réformée dans les établissements de l'Etat (RSF 190.5) | 1 | current consolidated text, 2008-07-01 |
+| `191-0-11/` | Statut des corporations ecclésiastiques catholiques du canton de Fribourg (RSF 191.0.11) | 1 | current consolidated text, 2024-01-01 |
+| `191-22-2/` | Convention relative à la propriété et à l'entretien de l'église collégiale de St-Nicolas (RSF 191.22.2) | 1 | current consolidated text, 1874-02-20 |
+| `191-23-31/` | Arrêté concernant l'érection de la Fondation d'Hauterive (RSF 191.23.31) | 1 | current consolidated text, 2022-02-01 |
+| `192-6/` | Convention réglant d’une manière plus précise les rapports ecclésiastiques des communes mixtes de Ferenbalm, Chiètres et Morat (RSF 192.6) | 1 | current consolidated text, 1959-03-13 |
+| `192-11/` | Constitution ecclésiastique de l'Eglise évangélique réformée du canton de Fribourg (RSF 192.11) | 1 | current consolidated text, 2011-11-16 |
+| `193-2/` | Convention cadre sur l'exercice de l'aumônerie israélite dans les établissements de l'Etat (RSF 193.2) | 1 | current consolidated text, 2009-06-01 |
+| `193-11/` | Statut de la Communauté israélite du canton de Fribourg (RSF 193.11) | 1 | current consolidated text, 2008-01-01 |
+| `193-16/` | Arrêté concernant le montant alloué à la Communauté israélite du canton de Fribourg en compensation de sa part annuelle à l'impôt sur les personnes morales et à l'impôt prélevé à la source (RSF 193.16) | 1 | current consolidated text, 2003-01-01 |
+| `210-113/` | Directives DSJ sur la vente de choses trouvées (RSF 210.113) | 1 | current consolidated text, 2015-12-02 |
+| `214-5-16/` | Tarif des émoluments fixes du registre foncier (RSF 214.5.16) | 1 | current consolidated text, 2018-12-01 |
+| `214-12-13/` | Arrêté fixant les lieux à vocation touristique selon la législation sur l'acquisition d'immeubles par des personnes à l'étranger (RSF 214.12.13) | 1 | current consolidated text, 1999-10-05 |
+| `222-5-92/` | Arrêté établissant le contrat-type de travail dans l'agriculture (RSF 222.5.92) | 1 | current consolidated text, 2011-01-01 |
+| `261-16/` | Tarif des émoluments des notaires (RSF 261.16) | 1 | current consolidated text, 2016-07-01 |
+| `261-162/` | Tarif de l'Association des notaires relatif aux honoraires dus pour les opérations annexes (RSF 261.162) | 1 | current consolidated text, 2005-07-01 |
+| `342-1/` | Concordat sur l’exécution des peines privatives de liberté et des mesures concernant les adultes et les jeunes adultes dans les cantons latins (RSF 342.1) | 1 | current consolidated text, 2007-11-01 |
+| `342-2/` | Convention entre le canton de Berne et les cantons de Fribourg, Vaud, Valais, Neuchâtel, Genève et Tessin concernant l’exécution des peines et mesures prononcées contre des femmes par les tribunaux de ces six derniers cantons aux Etablissements de Hindelbank (RSF 342.2) | 1 | current consolidated text, 1978-05-01 |
+| `342-3/` | Concordat sur l’exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) (RSF 342.3) | 1 | current consolidated text, 2018-07-01 |
+| `410-4/` | Accord intercantonal sur la reconnaissance des diplômes de fin d’études (RSF 410.4) | 1 | current consolidated text, 2017-01-01 |
+| `410-5/` | Convention intercantonale réglant la fréquentation d’une école située dans un canton autre que celui de domicile (RSF 410.5) | 1 | current consolidated text, 2006-09-01 |
+| `411-0-24/` | Convention sur l’exercice de l’enseignement religieux catholique romain dans la scolarité obligatoire (RSF 411.0.24) | 1 | current consolidated text, 2009-09-01 |
+| `411-0-25/` | Convention sur l’exercice de l’enseignement religieux évangélique réformé dans la scolarité obligatoire (RSF 411.0.25) | 1 | current consolidated text, 2009-09-01 |
+| `411-0-71/` | Arrêté sur l'éducation routière à l'école (RSF 411.0.71) | 1 | current consolidated text, 2022-02-01 |
+| `412-0-17/` | Arrêté fixant les taxes d'examens finals des écoles du secondaire du deuxième degré (RSF 412.0.17) | 1 | current consolidated text, 2026-01-01 |
+| `412-0-42/` | Arrêté sur les indemnités dues aux membres des jurys des examens finals des écoles du secondaire du deuxième degré (RSF 412.0.42) | 1 | current consolidated text, 2022-02-01 |
+| `412-1-8/` | Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye (RSF 412.1.8) | 1 | current consolidated text, 2024-01-01 |
+| `416-1/` | Concordat sur la coordination scolaire (RSF 416.1) | 1 | current consolidated text, 1971-07-06 |
+| `416-2/` | Accord intercantonal sur l’harmonisation de la scolarité obligatoire (RSF 416.2) | 1 | current consolidated text, 2010-05-01 |
+| `416-3/` | Convention scolaire romande adoptée par la Conférence intercantonale de l’instruction publique de la Suisse romande et du Tessin (RSF 416.3) | 1 | current consolidated text, 2009-08-01 |
+| `416-4/` | Convention scolaire régionale concernant l’accueil réciproque d’élèves et le versement de contributions (RSF 416.4) | 1 | current consolidated text, 2009-08-01 |
+| `416-5/` | Accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée (RSF 416.5) | 1 | current consolidated text, 2011-01-01 |
+| `416-6/` | Accord intercantonal sur les offres scolaires en milieu hospitalier (RSF 416.6) | 1 | current consolidated text, 2026-01-01 |
+| `420-81/` | Statuts de l'Association du Centre professionnel cantonal (ACPC) (RSF 420.81) | 1 | current consolidated text, 2021-09-21 |
+| `427-1/` | Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale (RSF 427.1) | 1 | current consolidated text, 2007-08-01 |
+| `427-2/` | Accord intercantonal sur les contributions dans le domaine des écoles supérieures (RSF 427.2) | 1 | current consolidated text, 2015-06-01 |
+| `430-1/` | Accord intercantonal sur le domaine suisse des hautes écoles (concordat sur les hautes écoles) (RSF 430.1) | 1 | current consolidated text, 2015-01-01 |
+| `431-0-18/` | Convention entre les Evêques suisses, d’une part, et le Conseil d’Etat du canton de Fribourg, d’autre part, relative au développement de l’Université de Fribourg et à sa consolidation financière (RSF 431.0.18) | 1 | current consolidated text, 1978-06-20 |
+| `431-0-26/` | Arrêté relatif à la rémunération des collaborateurs scientifiques et des sous-assistants (RSF 431.0.26) | 1 | current consolidated text, 2003-01-01 |
+| `431-0-32/` | Accord relatif à la Faculté de théologie de l’Université de Fribourg (RSF 431.0.32) | 1 | current consolidated text, 1985-07-08 |
+| `431-5-6/` | Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires (RSF 431.5.6) | 1 | current consolidated text, 2022-07-01 |
+| `432-0-3/` | Accord intercantonal sur les hautes écoles spécialisées (AHES) à partir de 2005 (RSF 432.0.3) | 1 | current consolidated text, 2005-11-01 |
+| `432-11-1/` | Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale (RSF 432.11.1) | 1 | current consolidated text, 2013-01-01 |
+| `432-11-2/` | Convention intercantonale relative au contrôle parlementaire sur la Haute Ecole spécialisée de Suisse occidentale (HES-SO) (RSF 432.11.2) | 1 | current consolidated text, 2005-01-01 |
+| `481-5-15/` | Arrêté concernant le Fonds Jean Tinguely–Niki de Saint Phalle (RSF 481.5.15) | 1 | current consolidated text, 2022-02-01 |
+| `482-42/` | Arrêté instituant une commission du recensement du patrimoine artistique (RSF 482.42) | 1 | current consolidated text, 2022-02-01 |
+| `482-43/` | Arrêté relatif à la conservation du patrimoine architectural alpestre (RSF 482.43) | 1 | current consolidated text, 2022-02-01 |
+| `482-44/` | Arrêté instituant une commission du recensement des chalets d'alpage (RSF 482.44) | 1 | current consolidated text, 2022-02-01 |
+| `511-52/` | Arrêté concernant l'attribution des compétences en matière de sanctions disciplinaires militaires (RSF 511.52) | 1 | current consolidated text, 2022-12-01 |
+| `514-21/` | Arrêté sur l'aide financière accordée aux sociétés de tir (RSF 514.21) | 1 | current consolidated text, 2022-12-01 |
+| `550-2/` | Convention entre la Confédération et les cantons relative à la mise en oeuvre, à l’application et au développement de l’acquis de Schengen et de Dublin (RSF 550.2) | 1 | current consolidated text, 2009-04-01 |
+| `551-21/` | Décret fixant l'effectif des agents et agentes de la Police cantonale (RSF 551.21) | 1 | current consolidated text, 2022-01-01 |
+| `551-78/` | Arrêté relatif à la participation de l'Etat aux frais de l'assurance-maladie des agents de la force publique (régime transitoire) (RSF 551.78) | 1 | current consolidated text, 2022-02-01 |
+| `551-181/` | Directives DSJ sur la durée de conservation et l'élimination des données de police (RSF 551.181) | 1 | current consolidated text, 2009-05-01 |
+| `559-2/` | Convention sur les engagements de police intercantonaux (RSF 559.2) | 1 | current consolidated text, 2025-01-01 |
+| `559-3/` | Concordat réglant la coopération en matière de police en Suisse romande (RSF 559.3) | 1 | current consolidated text, 2017-01-01 |
+| `559-4/` | Convention entre la Confédération et les cantons sur l’harmonisation et la mise à disposition commune de la technique et de l’informatique policières en Suisse (RSF 559.4) | 1 | current consolidated text, 2021-01-01 |
+| `559-5/` | Convention relative aux transports de police (RSF 559.5) | 1 | current consolidated text, 1910-01-01 |
+| `559-6/` | Concordat sur les entreprises de sécurité (RSF 559.6) | 1 | current consolidated text, 2025-01-04 |
+| `559-7/` | Loi portant adhésion du canton de Fribourg au concordat instituant des mesures contre la violence lors de manifestations sportives (RSF 559.7) | 1 | current consolidated text, 2014-04-01 |
+| `559-61/` | Arrêté d'exécution du concordat sur les entreprises de sécurité (RSF 559.61) | 1 | current consolidated text, 2022-02-01 |
+| `559-71/` | Concordat instituant des mesures contre la violence lors de manifestations sportives (RSF 559.71) | 1 | current consolidated text, 2014-04-01 |
+| `612-81/` | Arrêté relatif à la vérification des comptes des institutions de droit public (RSF 612.81) | 1 | current consolidated text, 1924-01-22 |
+| `614-32/` | Tarif des honoraires perçus par l'Inspection des finances (RSF 614.32) | 1 | current consolidated text, 2009-01-01 |
+| `631-16/` | Tarif des émoluments du Service cantonal des contributions (RSF 631.16) | 1 | current consolidated text, 2018-01-01 |
+| `631-31/` | Arrêté sur l'imposition d'après la dépense (RSF 631.31) | 1 | current consolidated text, 2014-01-01 |
+| `631-33/` | Arrêté concernant l'imposition des immeubles non agricoles (RSF 631.33) | 1 | current consolidated text, 2023-01-01 |
+| `631-34/` | Arrêté concernant l’imposition des immeubles agricoles (RSF 631.34) | 1 | current consolidated text, 2001-01-01 |
+| `631-36/` | Arrêté concernant l'imposition de la valeur locative du logement agricole (RSF 631.36) | 1 | current consolidated text, 2001-01-01 |
+| `631-38/` | Arrêté sur l'inventaire fiscal au décès (RSF 631.38) | 1 | current consolidated text, 2016-01-01 |
+| `634-1-11/` | Arrêté d'exécution de la loi fédérale sur l'impôt fédéral direct (RSF 634.1.11) | 1 | current consolidated text, 2016-01-01 |
+| `635-1-11/` | Arrêté sur les droits de mutation et les droits sur les gages immobiliers (RSF 635.1.11) | 1 | current consolidated text, 1997-01-01 |
+| `636-1/` | Concordat entre les cantons de la Confédération suisse sur l’interdiction des arrangements fiscaux (RSF 636.1) | 1 | current consolidated text, 1949-10-06 |
+| `710-2/` | Décret fixant les principes généraux et les objectifs en matière d'aménagement du territoire (RSF 710.2) | 1 | current consolidated text, 2016-02-02 |
+| `710-7/` | Accord intercantonal harmonisant la terminologie dans le domaine des constructions (RSF 710.7) | 1 | current consolidated text, 2015-05-01 |
+| `710-12/` | Arrêté désignant les associations cantonales, non affiliées à une association d'importance nationale, habilitées à former opposition et recours (RSF 710.12) | 1 | current consolidated text, 2023-01-01 |
+| `721-1-11/` | Arrêté concernant la protection de la faune et de la flore fribourgeoise (RSF 721.1.11) | 1 | current consolidated text, 2014-07-01 |
+| `721-1-21/` | Arrêté relatif à la protection des escargots (RSF 721.1.21) | 1 | current consolidated text, 2019-04-01 |
+| `721-1-53/` | Arrêté concernant la réserve mycologique Moosboden, sur le territoire de la commune de Cerniat, forêt domaniale du Höllbach (RSF 721.1.53) | 1 | current consolidated text, 2019-04-01 |
+| `721-3-12/` | Arrêté concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens (RSF 721.3.12) | 1 | current consolidated text, 2019-04-01 |
+| `731-3-12/` | Tarif des frais d'intervention des sapeurs-pompiers (RSF 731.3.12) | 1 | current consolidated text, 2024-01-01 |
+| `741-9/` | Convention sur le Service intercantonal d’entretien du réseau autoroutier des cantons de Fribourg, de Vaud et de la République et canton de Genève (RSF 741.9) | 1 | current consolidated text, 2019-01-01 |
+| `741-16/` | Tarif concernant l'utilisation des canalisations des routes cantonales pour l'évacuation des eaux (RSF 741.16) | 1 | current consolidated text, 2023-01-01 |
+| `741-62/` | Décret relatif à l'application de l'article 66 de la loi du 15 décembre 1967 sur les routes (subventions) (RSF 741.62) | 1 | current consolidated text, 1988-10-04 |
+| `743-7-2/` | Convention intercantonale concernant l’entretien et la surveillance en commun de l’oeuvre intercantonale de la IIe correction des eaux du Jura et la régularisation des eaux qui en font partie (RSF 743.7.2) | 1 | current consolidated text, 1986-02-04 |
+| `743-7-3/` | Convention intercantonale entre les Etats de Fribourg et de Vaud pour l’entretien des corrections de la Glâne et du Fossé-Neuf (RSF 743.7.3) | 1 | current consolidated text, 1938-03-01 |
+| `750-16/` | Ordonnance fixant les taxes et redevances pour l’utilisation du domaine public (RSF 750.16) | 1 | current consolidated text, 2026-01-01 |
+| `750-21/` | Arrêté concernant l'utilisation du domaine public ou privé de l'Etat en vue de la construction de maisons de vacances (RSF 750.21) | 1 | current consolidated text, 2022-02-01 |
+| `753-12/` | Arrêté concernant l'utilisation des rives des lacs par les particuliers (RSF 753.12) | 1 | current consolidated text, 2022-02-01 |
+| `753-31/` | Arrêté instaurant des mesures concernant les maisons de vacances sur le domaine public et privé de l'Etat au bord du lac de Neuchâtel (RSF 753.31) | 1 | current consolidated text, 2022-02-01 |
+| `773-11/` | Arrêté pour l'exécution de la loi fédérale sur l'utilisation des forces hydrauliques (RSF 773.11) | 1 | current consolidated text, 2022-02-01 |
+| `775-2-11/` | Arrêté sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux non soumises à concession fédérale (RSF 775.2.11) | 1 | current consolidated text, 2012-01-01 |
+| `775-2-12/` | Arrêté désignant l'organe de contrôle technique des installations de transport par conduites du gaz naturel non soumises à concession fédérale (RSF 775.2.12) | 1 | current consolidated text, 2012-01-01 |
+| `781-11/` | Arrêté d'exécution de la loi d'application de la législation fédérale sur la circulation routière (RSF 781.11) | 1 | current consolidated text, 2022-07-01 |
+| `781-16/` | Arrêté fixant les émoluments en matière de circulation routière (RSF 781.16) | 1 | current consolidated text, 2025-09-01 |
+| `781-31/` | Arrêté concernant l'emploi de véhicules à moteur hors des routes (RSF 781.31) | 1 | current consolidated text, 2019-04-01 |
+| `782-5/` | Décret concernant la constitution de la Compagnie des chemins de fer fribourgeois (RSF 782.5) | 1 | current consolidated text, 1949-11-25 |
+| `784-2/` | Concordat concernant les installations de transport par câbles et skilifts sans concession fédérale (RSF 784.2) | 1 | current consolidated text, 1972-11-27 |
+| `785-5/` | Convention intercantonale relative à l’organisation et à la gestion de la police du lac de Neuchâtel (RSF 785.5) | 1 | current consolidated text, 2014-08-15 |
+| `785-13/` | Arrêté concernant la navigation sur les cours d'eau (RSF 785.13) | 1 | current consolidated text, 1992-01-01 |
+| `785-16/` | Arrêté fixant les émoluments en matière de navigation (RSF 785.16) | 1 | current consolidated text, 2025-09-01 |
+| `785-21/` | Arrêté limitant et interdisant la navigation sur certains lacs (RSF 785.21) | 1 | current consolidated text, 2019-04-01 |
+| `786-11/` | Arrêté sur la navigation aérienne (RSF 786.11) | 1 | current consolidated text, 2012-01-01 |
+| `810-14/` | Arrêté d'exécution de dispositions fédérales sur la protection contre les accidents majeurs (RSF 810.14) | 1 | current consolidated text, 2022-12-01 |
+| `810-22/` | Arrêté approuvant le plan cantonal de gestion des déchets (RSF 810.22) | 1 | current consolidated text, 2022-02-01 |
+| `810-23/` | Arrêté modifiant le plan cantonal de gestion des déchets (RSF 810.23) | 1 | current consolidated text, 2003-01-01 |
+| `813-11/` | Arrêté d'exécution de dispositions fédérales sur la protection de l'air (RSF 813.11) | 1 | current consolidated text, 2022-02-01 |
+| `820-8/` | Convention intercantonale relative à la médecine hautement spécialisée (RSF 820.8) | 1 | current consolidated text, 2009-01-01 |
+| `821-5-11/` | Arrêté sur les sépultures (RSF 821.5.11) | 1 | current consolidated text, 2011-01-01 |
+| `821-10-4/` | Convention entre les cantons et la Croix-Rouge suisse concernant la formation professionnelle du personnel infirmier, médico-technique et médico-thérapeutique (RSF 821.10.4) | 1 | current consolidated text, 1977-08-16 |
+| `821-10-5/` | Convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement (RSF 821.10.5) | 1 | current consolidated text, 1996-01-01 |
+| `821-10-51/` | Arrêté approuvant la convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement ainsi que ses annexes (RSF 821.10.51) | 1 | current consolidated text, 2022-02-01 |
+| `821-17-42/` | Arrêté concernant la reconnaissance des écoles suisses de pédicures (RSF 821.17.42) | 1 | current consolidated text, 2003-01-01 |
+| `821-41-11/` | Arrêté sur la lutte contre les maladies transmissibles et autres mesures de police sanitaire (RSF 821.41.11) | 1 | current consolidated text, 2014-05-01 |
+| `821-41-12/` | Arrêté relatif à la fusion du laboratoire de l'hôpital fribourgeois et de l'Institut cantonal d'hygiène et de microbiologie (RSF 821.41.12) | 1 | current consolidated text, 2015-01-01 |
+| `821-44-12/` | Arrêté concernant la prévention de l'alcoolisme et des autres toxicomanies (RSF 821.44.12) | 1 | current consolidated text, 2003-01-01 |
+| `821-44-32/` | Arrêté instituant un Fonds de recherche en matière d'affections psychiques et de toxicodépendances (RSF 821.44.32) | 1 | current consolidated text, 2003-01-01 |
+| `822-0-6/` | Convention sur les contributions des cantons aux hôpitaux relative au financement de la formation médicale postgrade et sur la compensation intercantonale des charges (RSF 822.0.6) | 1 | current consolidated text, 2022-01-25 |
+| `822-0-7/` | Convention intercantonale sur l’Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg (RSF 822.0.7) | 1 | current consolidated text, 2014-01-01 |
+| `822-0-71/` | Règlement d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg, relatif à l'exploitation de l'établissement (RSF 822.0.71) | 1 | current consolidated text, 2025-10-06 |
+| `823-2/` | Convention concernant l’organisation des services de soins extra-hospitaliers dans le canton de Fribourg (RSF 823.2) | 1 | current consolidated text, 2003-01-01 |
+| `823-16/` | Arrêté fixant les tarifs de l'aide familiale à domicile (RSF 823.16) | 1 | current consolidated text, 2001-07-01 |
+| `824-1/` | Convention intercantonale en matière de santé numérique (RSF 824.1) | 1 | current consolidated text, 2024-02-01 |
+| `834-0-4/` | Convention intercantonale relative aux institutions sociales (RSF 834.0.4) | 1 | current consolidated text, 2020-06-01 |
+| `834-1-26/` | Arrêté fixant la contribution aux frais des personnes prises en charge dans les institutions spécialisées (RSF 834.1.26) | 1 | current consolidated text, 2026-01-01 |
+| `838-11/` | Arrêté de reconnaissance d'un office de consultation conjugale (RSF 838.11) | 1 | current consolidated text, 2003-01-01 |
+| `838-31/` | Arrêté concernant les centres de consultation en matière de grossesse (RSF 838.31) | 1 | current consolidated text, 2012-01-01 |
+| `841-1-63/` | Arrêté concernant la mise en compte et la perception des parts communales aux charges financières incombant au canton pour l'assurance-vieillesse et survivants, l'assurance-invalidité, les prestations complémentaires à l'AVS/AI et les allocations familiales aux travailleurs agricoles et aux petits paysans (RSF 841.1.63) | 1 | current consolidated text, 2003-01-01 |
+| `841-3-11/` | Arrêté d'exécution de la loi du 16 novembre 1965 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, modifiée par celle du 11 novembre 1970 (RSF 841.3.11) | 1 | current consolidated text, 2026-01-01 |
+| `841-4-13/` | Convention relative à la surveillance des institutions de prévoyance professionnelle ayant leur siège dans le canton de Fribourg (RSF 841.4.13) | 1 | current consolidated text, 2012-01-01 |
+| `842-1-18/` | Arrêté fixant le tarif cadre médical (RSF 842.1.18) | 1 | current consolidated text, 1998-01-01 |
+| `843-15/` | Arrêté concernant les contestations relatives à l'assurance militaire (RSF 843.15) | 1 | current consolidated text, 2008-01-01 |
+| `864-1-16/` | Arrêté fixant les émoluments administratifs pour les autorisations et approbations données en application de la législation sur le travail dans l'industrie, l'artisanat et le commerce (RSF 864.1.16) | 1 | current consolidated text, 2026-01-01 |
+| `865-51/` | Arrêté concernant la célébration de la Fête fédérale d'actions de grâces (RSF 865.51) | 1 | current consolidated text, 1930-09-06 |
+| `910-61/` | Arrêté concernant l'exécution de l'ordonnance fédérale relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse (RSF 910.61) | 1 | current consolidated text, 2013-01-01 |
+| `914-10-65/` | Arrêté adoptant le plan de couverture des besoins en centres collecteurs de déchets animaux (RSF 914.10.65) | 1 | current consolidated text, 1999-01-01 |
+| `917-16/` | Arrêté concernant les subventions cantonales en faveur d'améliorations foncières (RSF 917.16) | 1 | current consolidated text, 2023-03-01 |
+| `921-4/` | Convention relative à la création et à l’exploitation de l’Ecole intercantonale de gardes forestiers de Lyss (RSF 921.4) | 1 | current consolidated text, 1969-03-28 |
+| `921-17/` | Arrêté portant création d'un fonds d'investissement forestier (RSF 921.17) | 1 | current consolidated text, 2019-04-01 |
+| `922-4/` | Concordat sur l’exercice et la surveillance de la chasse (RSF 922.4) | 1 | current consolidated text, 2017-05-01 |
+| `922-5/` | Concordat concernant la chasse sur le lac de Neuchâtel (RSF 922.5) | 1 | current consolidated text, 2020-09-01 |
+| `922-6/` | Concordat concernant la chasse sur le lac de Morat (RSF 922.6) | 1 | current consolidated text, 2020-09-01 |
+| `923-4/` | Concordat sur l’exercice de la pêche (RSF 923.4) | 1 | current consolidated text, 1998-01-01 |
+| `923-5/` | Concordat sur la pêche dans le lac de Neuchâtel (RSF 923.5) | 1 | current consolidated text, 2024-01-01 |
+| `923-6/` | Concordat sur la pêche dans le lac de Morat (RSF 923.6) | 1 | current consolidated text, 2004-01-01 |
+| `923-7/` | Convention entre les cantons de Berne et de Fribourg concernant la pêche dans les eaux limitrophes de la Singine et de la Sarine (RSF 923.7) | 1 | current consolidated text, 2010-01-01 |
+| `923-51/` | Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2025, 2026 et 2027 (RSF 923.51) | 1 | current consolidated text, 2025-01-01 |
+| `923-61/` | Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2025, 2026 et 2027 (RSF 923.61) | 1 | current consolidated text, 2025-01-01 |
+| `940-3/` | Convention administrative sur les activités industrielles et artisanales réglementées (Espace Mittelland) (RSF 940.3) | 1 | current consolidated text, 1999-07-01 |
+| `940-8/` | Accord intercantonal sur l’élimination des entraves techniques au commerce (RSF 940.8) | 1 | current consolidated text, 2003-02-04 |
+| `940-72/` | Arrêté relatif aux collectes (RSF 940.72) | 1 | current consolidated text, 2022-02-01 |
+| `942-11/` | Arrêté sur le contrôle des prix (RSF 942.11) | 1 | current consolidated text, 2022-01-01 |
+| `947-2-1/` | Convention intercantonale sur la vente du sel en Suisse (RSF 947.2.1) | 1 | current consolidated text, 1974-08-12 |
+| `947-7-11/` | Arrêté d'application de la loi fédérale du 25 mars 1977 sur les substances explosibles (RSF 947.7.11) | 1 | current consolidated text, 2022-02-01 |
+| `952-81/` | Arrêté fixant définitivement la durée des mascarades (RSF 952.81) | 1 | current consolidated text, 1929-01-18 |
+| `952-171/` | Directives pour la construction et l’aménagement des établissements publics (RSF 952.171) | 1 | current consolidated text, 2013-01-01 |
+| `958-6/` | Concordat sur les jeux d’argent au niveau suisse (RSF 958.6) | 1 | current consolidated text, 2021-01-01 |
+| `958-7/` | Convention romande sur les jeux d’argent (RSF 958.7) | 1 | current consolidated text, 2021-01-01 |
+| `958-32/` | Arrêté concernant la désignation des membres fribourgeois de la Société de la loterie de la Suisse romande (RSF 958.32) | 1 | current consolidated text, 2016-01-01 |
+
 ## Source
 
-The RSF (systematic collection) of the canton, published by the canton at <https://bdlf.fr.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (ROF). Annexes the collection publishes only as separate PDF files are not included.
+The RSF (systematic collection) of the canton, published by the canton at <https://bdlf.fr.ch/>. For each act it gives every consolidated version it holds, with the day each version took effect, and a change table listing each amendment: its decision date, the day it took effect, the provision it touched and its entry in the chronological collection (ROF). The additional current texts include the textual separate annexes of RSF 261.16 and 631.33 and the text layer of the map annex of RSF 785.21. Other separately published annexes in the earlier collection remain outside this corpus. The map in RSF 112.8 and the eleven maps in RSF 785.21 are absent; those two acts are incomplete for normative images.
 
 ## Dates
 
-- Each commit is dated at **noon, Europe/Zurich, on the day the version took effect**, as the collection gives it ("in Kraft seit / von"). The decision date of each amending act is the `Enacted:` trailer.
+- The `In-force:` trailer records the day the collection says the version took effect. The author date uses noon in Europe/Zurich; appended commit dates preserve repository order. The decision date of each amending act is the `Enacted:` trailer.
 - An act's first commit is its oldest version in the collection. It is credited to the act as enacted only when the change table shows no amendment in force before it; otherwise it is the "oldest version available", naming the earlier amendments.
 - Versions that take effect after the retrieval day are on the `futur` branch, never merged into `main`.
 - `--before="YYYY-MM-DD"` alone uses your clock's time of day; use `T23:59:59Z` or `tools/on.py`.
 
 ## Files
+
+The 75 additional PDF-only acts use `texte-integral.md` for the complete official text layer, with printed line breaks in page order. Three additional acts use `annexe-001.md` for their separate annex text. These texts were not OCRed.
 
 `<act>/art-005.md` is Art. 5 (or § 5), `art-005a.md` Art. 5a; `ingress.md` holds the title, date and preamble; `gliederung.md` the section headings; `schluss.md` the closing formula and signatures. One paragraph or list item per line. Amendment markers (`*`), footnote numbers and the "Stand" date are left out.
 
@@ -631,4 +841,4 @@ The author of a commit is the amending act, named by its entry in the chronologi
 
 ## Limits
 
-This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. The tables above list all included instruments. Normative image limits are stated in the Source section.

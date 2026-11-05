@@ -4,6 +4,11 @@ RSF 122.0.15 · 4 versions, from 2019-02-01 (latest in force: 2025-10-17) · <ht
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annexe, page 1 | [annexe-page-001.md](annexe-page-001.md) | 1 | 2025-10-17 |
+| Annexe, page 2 | [annexe-page-002.md](annexe-page-002.md) | 1 | 2025-10-17 |
+| Annexe, page 3 | [annexe-page-003.md](annexe-page-003.md) | 1 | 2025-10-17 |
+| Annexe, page 4 | [annexe-page-004.md](annexe-page-004.md) | 1 | 2025-10-17 |
+| Annexe, page 5 | [annexe-page-005.md](annexe-page-005.md) | 1 | 2025-10-17 |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2023-09-04 |
 | Art. 2 | [art-002.md](art-002.md) | 1 | 2023-09-04 |
 | Art. 3 | [art-003.md](art-003.md) | 1 | 2023-09-04 |

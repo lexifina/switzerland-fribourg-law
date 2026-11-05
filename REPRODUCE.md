@@ -1,12 +1,13 @@
 # How this repository was made (Fribourg)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Etat de Fribourg: RSF (LexWork) | <https://bdlf.fr.ch/> | 2026-10-30 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Etat de Fribourg: current RSF texts and official PDF annexes | <https://bdlf.fr.ch/> | 2026-11-05 | Official enactments: Swiss URG Art. 5(1)(a). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -605,20 +606,221 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `957-11` | Ordonnance d'application de la loi fédérale sur les guides de montagne et les organisateurs d'autres activités à risque | 2 | 2014-01-01 to 2025-06-30 |
 | `958-11-oajar` | Ordonnance sur les jeux d'argent | 3 | 2003-01-01 to 2023-11-01 |
 | `958-31` | Ordonnance concernant la répartition des bénéfices nets de la Société de la Loterie de la Suisse romande | 3 | 2016-01-01 to 2025-01-01 |
+| `28-81` | Traité entre le Grand-Duché de Bade et la Confédération suisse sur la réciprocité de droit en matière de concours | 1 | 1808-07-09 to 1808-07-09 |
+| `28-82` | Convention entre la Confédération suisse et la Couronne de Wurtemberg sur les faillites et l’égalité qui doit être observée, en fait de collocation, entre les créanciers ressortissant à l’un ou à l’autre des deux pays | 1 | 1826-05-13 to 1826-05-13 |
+| `28-83` | Convention entre des cantons suisses et le Royaume de Bavière portant que les ressortissants respectifs seront traités à droits égaux dans les cas de concours juridiques | 1 | 1834-06-27 to 1834-06-27 |
+| `28-84` | Convention entre des cantons suisses et le Royaume de Saxe au sujet de l’égalité de droit des ressortissants respectifs dans les concours par suite des faillites | 1 | 1837-02-18 to 1837-02-18 |
+| `31-16` | Tarif relatif à la participation financière des personnes astreintes à un programme de prévention de la violence | 1 | 2025-03-01 to 2025-03-01 |
+| `44-6` | Accord intercantonal sur l’harmonisation des régimes de bourses d’études | 1 | 2013-03-01 to 2013-03-01 |
+| `76-16` | Tarif des frais de procédure en matière d'expropriation | 1 | 2022-02-01 to 2022-02-01 |
+| `76-17` | Tarif des dépens en matière d'expropriation | 1 | 2022-02-01 to 2022-02-01 |
+| `76-61` | Arrêté relatif à l'exécution de la loi fédérale du 20 juin 1930 sur l'expropriation | 1 | 1992-01-01 to 1992-01-01 |
+| `87-27` | Arrêté concernant le loyer des logements à caractère social construits par des personnes à l'étranger | 1 | 2003-01-01 to 2003-01-01 |
+| `112-8` | Concordat sur la modification territoriale résultant du transfert de la commune municipale bernoise de Clavaleyres au canton de Fribourg | 1 | 2022-01-01 to 2022-01-01 |
+| `112-9` | Convention d'exécution entre le canton de Berne et le canton de Fribourg relative au transfert de la commune de Clavaleyres au canton de Fribourg | 1 | 2022-01-01 to 2022-01-01 |
+| `113-31` | Arrêté concernant la reconnaissance officielle des armoiries des districts et des communes | 1 | 1943-07-06 to 1943-07-06 |
+| `114-21-16` | Arrêté fixant les émoluments en matière de contrôle des habitants | 1 | 2010-07-01 to 2010-07-01 |
+| `121-3` | Loi concernant les conventions intercantonales | 1 | 2024-01-01 to 2024-01-01 |
+| `121-4` | Convention relative à la participation des Parlements cantonaux dans le cadre de l’élaboration, de la ratification, de l’exécution et de la modification des conventions intercantonales et des traités des cantons avec l’étranger | 1 | 2011-01-01 to 2011-01-01 |
+| `121-5` | Accord-cadre pour la collaboration intercantonale assortie d’une compensation des charges | 1 | 2007-05-11 to 2007-05-11 |
+| `122-0-11` | Arrêté répartissant les Directions du Conseil d'Etat et formant ses délégations | 1 | 2023-03-14 to 2023-03-14 |
+| `122-0-16` | Directive concernant la représentation de l'Etat au sein des entreprises (gouvernance d'entreprise publique) | 1 | 2017-01-01 to 2017-01-01 |
+| `122-0-511` | Directives CHA relatives à l'information et à la communication | 1 | 2022-02-01 to 2022-02-01 |
+| `122-3-61` | Tarif concernant les émoluments de préfecture | 1 | 1992-01-01 to 1992-01-01 |
+| `122-70-51` | Directive concernant l'Annuaire téléphonique des collaborateurs et collaboratrices de l'Etat | 1 | 2016-11-01 to 2016-11-01 |
+| `122-72-15` | Arrêté relatif à l'unification des dates de paie des traitements du personnel de l'Etat | 1 | 2003-01-01 to 2003-01-01 |
+| `122-72-16` | Arrêté concernant le maintien de l'octroi de l'allocation pour personnes à charge, dans les situations de rigueur | 1 | 2003-01-01 to 2003-01-01 |
+| `122-72-23` | Arrêté relatif à la fixation des traitements initiaux du personnel de l'Etat | 1 | 1994-03-01 to 1994-03-01 |
+| `122-72-24` | Arrêté fixant le système d'évaluation des fonctions du personnel de l'Etat | 1 | 2003-01-01 to 2003-01-01 |
+| `122-91-2` | Accord intercantonal de 1994 sur les marchés publics | 1 | 2010-07-01 to 2010-07-01 |
+| `122-93-16` | Tarif des frais et honoraires perçus par la Commission d'acquisition des immeubles | 1 | 2012-01-01 to 2012-01-01 |
+| `122-98-11` | Arrêté concernant l'attribution et la gestion des places de stationnement pour voitures | 1 | 2022-02-01 to 2022-02-01 |
+| `126-21` | Tarif des émoluments administratifs | 1 | 2026-01-01 to 2026-01-01 |
+| `129-1-1` | Décret relatif au serment des fonctionnaires de l'Etat | 1 | 2008-01-01 to 2008-01-01 |
+| `129-2-1` | Décret déterminant les sceaux des autorités supérieures | 1 | 2008-01-01 to 2008-01-01 |
+| `129-3-1` | Décret fixant le rang des autorités supérieures dans les cérémonies publiques | 1 | 2008-01-01 to 2008-01-01 |
+| `129-3-21` | Arrêté fixant le rang des autorités subalternes dans les cérémonies publiques | 1 | 2011-01-01 to 2011-01-01 |
+| `129-3-31` | Arrêté déclarant le Contingent des grenadiers fribourgeois garde d'honneur officielle des autorités supérieures du canton de Fribourg | 1 | 2022-02-01 to 2022-02-01 |
+| `129-3-41` | Arrêté concernant la formation d'un corps de musique volontaire de Landwehr | 1 | 1879-02-10 to 1879-02-10 |
+| `129-4-11` | Arrêté concernant les cartes de légitimation pour magistrats et collaborateurs de l'Etat | 1 | 2011-01-01 to 2011-01-01 |
+| `130-16` | Tarif du Tribunal cantonal des émoluments pour les contestations portant sur des affaires pécuniaires | 1 | 2016-02-01 to 2016-02-01 |
+| `130-421` | Directives du Tribunal cantonal sur le préarchivage des dossiers judiciaires et leur versement aux Archives | 1 | 2022-01-01 to 2022-01-01 |
+| `140-13` | Arrêté désignant les préfets et préfètes suppléants chargés de la surveillance des associations de communes | 1 | 2023-10-01 to 2023-10-01 |
+| `150-1` | Code de procédure et de juridiction administrative | 1 | 2026-10-01 to 2026-10-01 |
+| `150-12` | Tarif des frais de procédure et des indemnités en matière de juridiction administrative | 1 | 2015-07-01 to 2015-07-01 |
+| `150-421` | Directives du Tribunal administratif sur le préarchivage des dossiers judiciaires et leur versement aux Archives de l'Etat | 1 | 2002-07-01 to 2002-07-01 |
+| `190-5` | Convention cadre sur l'exercice des aumôneries catholique romaine et évangélique réformée dans les établissements de l'Etat | 1 | 2008-07-01 to 2008-07-01 |
+| `191-0-11` | Statut des corporations ecclésiastiques catholiques du canton de Fribourg | 1 | 2024-01-01 to 2024-01-01 |
+| `191-22-2` | Convention relative à la propriété et à l'entretien de l'église collégiale de St-Nicolas | 1 | 1874-02-20 to 1874-02-20 |
+| `191-23-31` | Arrêté concernant l'érection de la Fondation d'Hauterive | 1 | 2022-02-01 to 2022-02-01 |
+| `192-6` | Convention réglant d’une manière plus précise les rapports ecclésiastiques des communes mixtes de Ferenbalm, Chiètres et Morat | 1 | 1959-03-13 to 1959-03-13 |
+| `192-11` | Constitution ecclésiastique de l'Eglise évangélique réformée du canton de Fribourg | 1 | 2011-11-16 to 2011-11-16 |
+| `193-2` | Convention cadre sur l'exercice de l'aumônerie israélite dans les établissements de l'Etat | 1 | 2009-06-01 to 2009-06-01 |
+| `193-11` | Statut de la Communauté israélite du canton de Fribourg | 1 | 2008-01-01 to 2008-01-01 |
+| `193-16` | Arrêté concernant le montant alloué à la Communauté israélite du canton de Fribourg en compensation de sa part annuelle à l'impôt sur les personnes morales et à l'impôt prélevé à la source | 1 | 2003-01-01 to 2003-01-01 |
+| `210-113` | Directives DSJ sur la vente de choses trouvées | 1 | 2015-12-02 to 2015-12-02 |
+| `214-5-16` | Tarif des émoluments fixes du registre foncier | 1 | 2018-12-01 to 2018-12-01 |
+| `214-12-13` | Arrêté fixant les lieux à vocation touristique selon la législation sur l'acquisition d'immeubles par des personnes à l'étranger | 1 | 1999-10-05 to 1999-10-05 |
+| `222-5-92` | Arrêté établissant le contrat-type de travail dans l'agriculture | 1 | 2011-01-01 to 2011-01-01 |
+| `261-16` | Tarif des émoluments des notaires | 1 | 2016-07-01 to 2016-07-01 |
+| `261-162` | Tarif de l'Association des notaires relatif aux honoraires dus pour les opérations annexes | 1 | 2005-07-01 to 2005-07-01 |
+| `342-1` | Concordat sur l’exécution des peines privatives de liberté et des mesures concernant les adultes et les jeunes adultes dans les cantons latins | 1 | 2007-11-01 to 2007-11-01 |
+| `342-2` | Convention entre le canton de Berne et les cantons de Fribourg, Vaud, Valais, Neuchâtel, Genève et Tessin concernant l’exécution des peines et mesures prononcées contre des femmes par les tribunaux de ces six derniers cantons aux Etablissements de Hindelbank | 1 | 1978-05-01 to 1978-05-01 |
+| `342-3` | Concordat sur l’exécution de la détention pénale des personnes mineures des cantons romands (et partiellement du Tessin) | 1 | 2018-07-01 to 2018-07-01 |
+| `410-4` | Accord intercantonal sur la reconnaissance des diplômes de fin d’études | 1 | 2017-01-01 to 2017-01-01 |
+| `410-5` | Convention intercantonale réglant la fréquentation d’une école située dans un canton autre que celui de domicile | 1 | 2006-09-01 to 2006-09-01 |
+| `411-0-24` | Convention sur l’exercice de l’enseignement religieux catholique romain dans la scolarité obligatoire | 1 | 2009-09-01 to 2009-09-01 |
+| `411-0-25` | Convention sur l’exercice de l’enseignement religieux évangélique réformé dans la scolarité obligatoire | 1 | 2009-09-01 to 2009-09-01 |
+| `411-0-71` | Arrêté sur l'éducation routière à l'école | 1 | 2022-02-01 to 2022-02-01 |
+| `412-0-17` | Arrêté fixant les taxes d'examens finals des écoles du secondaire du deuxième degré | 1 | 2026-01-01 to 2026-01-01 |
+| `412-0-42` | Arrêté sur les indemnités dues aux membres des jurys des examens finals des écoles du secondaire du deuxième degré | 1 | 2022-02-01 to 2022-02-01 |
+| `412-1-8` | Convention intercantonale sur la création et l’exploitation du Gymnase intercantonal de la Broye | 1 | 2024-01-01 to 2024-01-01 |
+| `416-1` | Concordat sur la coordination scolaire | 1 | 1971-07-06 to 1971-07-06 |
+| `416-2` | Accord intercantonal sur l’harmonisation de la scolarité obligatoire | 1 | 2010-05-01 to 2010-05-01 |
+| `416-3` | Convention scolaire romande adoptée par la Conférence intercantonale de l’instruction publique de la Suisse romande et du Tessin | 1 | 2009-08-01 to 2009-08-01 |
+| `416-4` | Convention scolaire régionale concernant l’accueil réciproque d’élèves et le versement de contributions | 1 | 2009-08-01 to 2009-08-01 |
+| `416-5` | Accord intercantonal sur la collaboration dans le domaine de la pédagogie spécialisée | 1 | 2011-01-01 to 2011-01-01 |
+| `416-6` | Accord intercantonal sur les offres scolaires en milieu hospitalier | 1 | 2026-01-01 to 2026-01-01 |
+| `420-81` | Statuts de l'Association du Centre professionnel cantonal (ACPC) | 1 | 2021-09-21 to 2021-09-21 |
+| `427-1` | Accord intercantonal sur les contributions dans le domaine de la formation professionnelle initiale | 1 | 2007-08-01 to 2007-08-01 |
+| `427-2` | Accord intercantonal sur les contributions dans le domaine des écoles supérieures | 1 | 2015-06-01 to 2015-06-01 |
+| `430-1` | Accord intercantonal sur le domaine suisse des hautes écoles (concordat sur les hautes écoles) | 1 | 2015-01-01 to 2015-01-01 |
+| `431-0-18` | Convention entre les Evêques suisses, d’une part, et le Conseil d’Etat du canton de Fribourg, d’autre part, relative au développement de l’Université de Fribourg et à sa consolidation financière | 1 | 1978-06-20 to 1978-06-20 |
+| `431-0-26` | Arrêté relatif à la rémunération des collaborateurs scientifiques et des sous-assistants | 1 | 2003-01-01 to 2003-01-01 |
+| `431-0-32` | Accord relatif à la Faculté de théologie de l’Université de Fribourg | 1 | 1985-07-08 to 1985-07-08 |
+| `431-5-6` | Accord intercantonal sur les contributions aux coûts de formation des hautes écoles universitaires | 1 | 2022-07-01 to 2022-07-01 |
+| `432-0-3` | Accord intercantonal sur les hautes écoles spécialisées (AHES) à partir de 2005 | 1 | 2005-11-01 to 2005-11-01 |
+| `432-11-1` | Convention intercantonale sur la Haute Ecole spécialisée de Suisse occidentale | 1 | 2013-01-01 to 2013-01-01 |
+| `432-11-2` | Convention intercantonale relative au contrôle parlementaire sur la Haute Ecole spécialisée de Suisse occidentale (HES-SO) | 1 | 2005-01-01 to 2005-01-01 |
+| `481-5-15` | Arrêté concernant le Fonds Jean Tinguely–Niki de Saint Phalle | 1 | 2022-02-01 to 2022-02-01 |
+| `482-42` | Arrêté instituant une commission du recensement du patrimoine artistique | 1 | 2022-02-01 to 2022-02-01 |
+| `482-43` | Arrêté relatif à la conservation du patrimoine architectural alpestre | 1 | 2022-02-01 to 2022-02-01 |
+| `482-44` | Arrêté instituant une commission du recensement des chalets d'alpage | 1 | 2022-02-01 to 2022-02-01 |
+| `511-52` | Arrêté concernant l'attribution des compétences en matière de sanctions disciplinaires militaires | 1 | 2022-12-01 to 2022-12-01 |
+| `514-21` | Arrêté sur l'aide financière accordée aux sociétés de tir | 1 | 2022-12-01 to 2022-12-01 |
+| `550-2` | Convention entre la Confédération et les cantons relative à la mise en oeuvre, à l’application et au développement de l’acquis de Schengen et de Dublin | 1 | 2009-04-01 to 2009-04-01 |
+| `551-21` | Décret fixant l'effectif des agents et agentes de la Police cantonale | 1 | 2022-01-01 to 2022-01-01 |
+| `551-78` | Arrêté relatif à la participation de l'Etat aux frais de l'assurance-maladie des agents de la force publique (régime transitoire) | 1 | 2022-02-01 to 2022-02-01 |
+| `551-181` | Directives DSJ sur la durée de conservation et l'élimination des données de police | 1 | 2009-05-01 to 2009-05-01 |
+| `559-2` | Convention sur les engagements de police intercantonaux | 1 | 2025-01-01 to 2025-01-01 |
+| `559-3` | Concordat réglant la coopération en matière de police en Suisse romande | 1 | 2017-01-01 to 2017-01-01 |
+| `559-4` | Convention entre la Confédération et les cantons sur l’harmonisation et la mise à disposition commune de la technique et de l’informatique policières en Suisse | 1 | 2021-01-01 to 2021-01-01 |
+| `559-5` | Convention relative aux transports de police | 1 | 1910-01-01 to 1910-01-01 |
+| `559-6` | Concordat sur les entreprises de sécurité | 1 | 2025-01-04 to 2025-01-04 |
+| `559-7` | Loi portant adhésion du canton de Fribourg au concordat instituant des mesures contre la violence lors de manifestations sportives | 1 | 2014-04-01 to 2014-04-01 |
+| `559-61` | Arrêté d'exécution du concordat sur les entreprises de sécurité | 1 | 2022-02-01 to 2022-02-01 |
+| `559-71` | Concordat instituant des mesures contre la violence lors de manifestations sportives | 1 | 2014-04-01 to 2014-04-01 |
+| `612-81` | Arrêté relatif à la vérification des comptes des institutions de droit public | 1 | 1924-01-22 to 1924-01-22 |
+| `614-32` | Tarif des honoraires perçus par l'Inspection des finances | 1 | 2009-01-01 to 2009-01-01 |
+| `631-16` | Tarif des émoluments du Service cantonal des contributions | 1 | 2018-01-01 to 2018-01-01 |
+| `631-31` | Arrêté sur l'imposition d'après la dépense | 1 | 2014-01-01 to 2014-01-01 |
+| `631-33` | Arrêté concernant l'imposition des immeubles non agricoles | 1 | 2023-01-01 to 2023-01-01 |
+| `631-34` | Arrêté concernant l’imposition des immeubles agricoles | 1 | 2001-01-01 to 2001-01-01 |
+| `631-36` | Arrêté concernant l'imposition de la valeur locative du logement agricole | 1 | 2001-01-01 to 2001-01-01 |
+| `631-38` | Arrêté sur l'inventaire fiscal au décès | 1 | 2016-01-01 to 2016-01-01 |
+| `634-1-11` | Arrêté d'exécution de la loi fédérale sur l'impôt fédéral direct | 1 | 2016-01-01 to 2016-01-01 |
+| `635-1-11` | Arrêté sur les droits de mutation et les droits sur les gages immobiliers | 1 | 1997-01-01 to 1997-01-01 |
+| `636-1` | Concordat entre les cantons de la Confédération suisse sur l’interdiction des arrangements fiscaux | 1 | 1949-10-06 to 1949-10-06 |
+| `710-2` | Décret fixant les principes généraux et les objectifs en matière d'aménagement du territoire | 1 | 2016-02-02 to 2016-02-02 |
+| `710-7` | Accord intercantonal harmonisant la terminologie dans le domaine des constructions | 1 | 2015-05-01 to 2015-05-01 |
+| `710-12` | Arrêté désignant les associations cantonales, non affiliées à une association d'importance nationale, habilitées à former opposition et recours | 1 | 2023-01-01 to 2023-01-01 |
+| `721-1-11` | Arrêté concernant la protection de la faune et de la flore fribourgeoise | 1 | 2014-07-01 to 2014-07-01 |
+| `721-1-21` | Arrêté relatif à la protection des escargots | 1 | 2019-04-01 to 2019-04-01 |
+| `721-1-53` | Arrêté concernant la réserve mycologique Moosboden, sur le territoire de la commune de Cerniat, forêt domaniale du Höllbach | 1 | 2019-04-01 to 2019-04-01 |
+| `721-3-12` | Arrêté concernant la réserve forestière des Vanils du Paradis et de la Fayère, sur le territoire de la commune d'Estavannens | 1 | 2019-04-01 to 2019-04-01 |
+| `731-3-12` | Tarif des frais d'intervention des sapeurs-pompiers | 1 | 2024-01-01 to 2024-01-01 |
+| `741-9` | Convention sur le Service intercantonal d’entretien du réseau autoroutier des cantons de Fribourg, de Vaud et de la République et canton de Genève | 1 | 2019-01-01 to 2019-01-01 |
+| `741-16` | Tarif concernant l'utilisation des canalisations des routes cantonales pour l'évacuation des eaux | 1 | 2023-01-01 to 2023-01-01 |
+| `741-62` | Décret relatif à l'application de l'article 66 de la loi du 15 décembre 1967 sur les routes (subventions) | 1 | 1988-10-04 to 1988-10-04 |
+| `743-7-2` | Convention intercantonale concernant l’entretien et la surveillance en commun de l’oeuvre intercantonale de la IIe correction des eaux du Jura et la régularisation des eaux qui en font partie | 1 | 1986-02-04 to 1986-02-04 |
+| `743-7-3` | Convention intercantonale entre les Etats de Fribourg et de Vaud pour l’entretien des corrections de la Glâne et du Fossé-Neuf | 1 | 1938-03-01 to 1938-03-01 |
+| `750-16` | Ordonnance fixant les taxes et redevances pour l’utilisation du domaine public | 1 | 2026-01-01 to 2026-01-01 |
+| `750-21` | Arrêté concernant l'utilisation du domaine public ou privé de l'Etat en vue de la construction de maisons de vacances | 1 | 2022-02-01 to 2022-02-01 |
+| `753-12` | Arrêté concernant l'utilisation des rives des lacs par les particuliers | 1 | 2022-02-01 to 2022-02-01 |
+| `753-31` | Arrêté instaurant des mesures concernant les maisons de vacances sur le domaine public et privé de l'Etat au bord du lac de Neuchâtel | 1 | 2022-02-01 to 2022-02-01 |
+| `773-11` | Arrêté pour l'exécution de la loi fédérale sur l'utilisation des forces hydrauliques | 1 | 2022-02-01 to 2022-02-01 |
+| `775-2-11` | Arrêté sur les installations de transport par conduites de combustibles ou carburants liquides ou gazeux non soumises à concession fédérale | 1 | 2012-01-01 to 2012-01-01 |
+| `775-2-12` | Arrêté désignant l'organe de contrôle technique des installations de transport par conduites du gaz naturel non soumises à concession fédérale | 1 | 2012-01-01 to 2012-01-01 |
+| `781-11` | Arrêté d'exécution de la loi d'application de la législation fédérale sur la circulation routière | 1 | 2022-07-01 to 2022-07-01 |
+| `781-16` | Arrêté fixant les émoluments en matière de circulation routière | 1 | 2025-09-01 to 2025-09-01 |
+| `781-31` | Arrêté concernant l'emploi de véhicules à moteur hors des routes | 1 | 2019-04-01 to 2019-04-01 |
+| `782-5` | Décret concernant la constitution de la Compagnie des chemins de fer fribourgeois | 1 | 1949-11-25 to 1949-11-25 |
+| `784-2` | Concordat concernant les installations de transport par câbles et skilifts sans concession fédérale | 1 | 1972-11-27 to 1972-11-27 |
+| `785-5` | Convention intercantonale relative à l’organisation et à la gestion de la police du lac de Neuchâtel | 1 | 2014-08-15 to 2014-08-15 |
+| `785-13` | Arrêté concernant la navigation sur les cours d'eau | 1 | 1992-01-01 to 1992-01-01 |
+| `785-16` | Arrêté fixant les émoluments en matière de navigation | 1 | 2025-09-01 to 2025-09-01 |
+| `785-21` | Arrêté limitant et interdisant la navigation sur certains lacs | 1 | 2019-04-01 to 2019-04-01 |
+| `786-11` | Arrêté sur la navigation aérienne | 1 | 2012-01-01 to 2012-01-01 |
+| `810-14` | Arrêté d'exécution de dispositions fédérales sur la protection contre les accidents majeurs | 1 | 2022-12-01 to 2022-12-01 |
+| `810-22` | Arrêté approuvant le plan cantonal de gestion des déchets | 1 | 2022-02-01 to 2022-02-01 |
+| `810-23` | Arrêté modifiant le plan cantonal de gestion des déchets | 1 | 2003-01-01 to 2003-01-01 |
+| `813-11` | Arrêté d'exécution de dispositions fédérales sur la protection de l'air | 1 | 2022-02-01 to 2022-02-01 |
+| `820-8` | Convention intercantonale relative à la médecine hautement spécialisée | 1 | 2009-01-01 to 2009-01-01 |
+| `821-5-11` | Arrêté sur les sépultures | 1 | 2011-01-01 to 2011-01-01 |
+| `821-10-4` | Convention entre les cantons et la Croix-Rouge suisse concernant la formation professionnelle du personnel infirmier, médico-technique et médico-thérapeutique | 1 | 1977-08-16 to 1977-08-16 |
+| `821-10-5` | Convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement | 1 | 1996-01-01 to 1996-01-01 |
+| `821-10-51` | Arrêté approuvant la convention intercantonale concernant la formation aux professions de la santé (professions médicales exceptées) et son financement ainsi que ses annexes | 1 | 2022-02-01 to 2022-02-01 |
+| `821-17-42` | Arrêté concernant la reconnaissance des écoles suisses de pédicures | 1 | 2003-01-01 to 2003-01-01 |
+| `821-41-11` | Arrêté sur la lutte contre les maladies transmissibles et autres mesures de police sanitaire | 1 | 2014-05-01 to 2014-05-01 |
+| `821-41-12` | Arrêté relatif à la fusion du laboratoire de l'hôpital fribourgeois et de l'Institut cantonal d'hygiène et de microbiologie | 1 | 2015-01-01 to 2015-01-01 |
+| `821-44-12` | Arrêté concernant la prévention de l'alcoolisme et des autres toxicomanies | 1 | 2003-01-01 to 2003-01-01 |
+| `821-44-32` | Arrêté instituant un Fonds de recherche en matière d'affections psychiques et de toxicodépendances | 1 | 2003-01-01 to 2003-01-01 |
+| `822-0-6` | Convention sur les contributions des cantons aux hôpitaux relative au financement de la formation médicale postgrade et sur la compensation intercantonale des charges | 1 | 2022-01-25 to 2022-01-25 |
+| `822-0-7` | Convention intercantonale sur l’Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg | 1 | 2014-01-01 to 2014-01-01 |
+| `822-0-71` | Règlement d'application de la Convention intercantonale du 21 août 2013 sur l'Hôpital intercantonal de la Broye (HIB) Vaud-Fribourg, relatif à l'exploitation de l'établissement | 1 | 2025-10-06 to 2025-10-06 |
+| `823-2` | Convention concernant l’organisation des services de soins extra-hospitaliers dans le canton de Fribourg | 1 | 2003-01-01 to 2003-01-01 |
+| `823-16` | Arrêté fixant les tarifs de l'aide familiale à domicile | 1 | 2001-07-01 to 2001-07-01 |
+| `824-1` | Convention intercantonale en matière de santé numérique | 1 | 2024-02-01 to 2024-02-01 |
+| `834-0-4` | Convention intercantonale relative aux institutions sociales | 1 | 2020-06-01 to 2020-06-01 |
+| `834-1-26` | Arrêté fixant la contribution aux frais des personnes prises en charge dans les institutions spécialisées | 1 | 2026-01-01 to 2026-01-01 |
+| `838-11` | Arrêté de reconnaissance d'un office de consultation conjugale | 1 | 2003-01-01 to 2003-01-01 |
+| `838-31` | Arrêté concernant les centres de consultation en matière de grossesse | 1 | 2012-01-01 to 2012-01-01 |
+| `841-1-63` | Arrêté concernant la mise en compte et la perception des parts communales aux charges financières incombant au canton pour l'assurance-vieillesse et survivants, l'assurance-invalidité, les prestations complémentaires à l'AVS/AI et les allocations familiales aux travailleurs agricoles et aux petits paysans | 1 | 2003-01-01 to 2003-01-01 |
+| `841-3-11` | Arrêté d'exécution de la loi du 16 novembre 1965 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité, modifiée par celle du 11 novembre 1970 | 1 | 2026-01-01 to 2026-01-01 |
+| `841-4-13` | Convention relative à la surveillance des institutions de prévoyance professionnelle ayant leur siège dans le canton de Fribourg | 1 | 2012-01-01 to 2012-01-01 |
+| `842-1-18` | Arrêté fixant le tarif cadre médical | 1 | 1998-01-01 to 1998-01-01 |
+| `843-15` | Arrêté concernant les contestations relatives à l'assurance militaire | 1 | 2008-01-01 to 2008-01-01 |
+| `864-1-16` | Arrêté fixant les émoluments administratifs pour les autorisations et approbations données en application de la législation sur le travail dans l'industrie, l'artisanat et le commerce | 1 | 2026-01-01 to 2026-01-01 |
+| `865-51` | Arrêté concernant la célébration de la Fête fédérale d'actions de grâces | 1 | 1930-09-06 to 1930-09-06 |
+| `910-61` | Arrêté concernant l'exécution de l'ordonnance fédérale relative à la déclaration de produits agricoles issus de modes de production interdits en Suisse | 1 | 2013-01-01 to 2013-01-01 |
+| `914-10-65` | Arrêté adoptant le plan de couverture des besoins en centres collecteurs de déchets animaux | 1 | 1999-01-01 to 1999-01-01 |
+| `917-16` | Arrêté concernant les subventions cantonales en faveur d'améliorations foncières | 1 | 2023-03-01 to 2023-03-01 |
+| `921-4` | Convention relative à la création et à l’exploitation de l’Ecole intercantonale de gardes forestiers de Lyss | 1 | 1969-03-28 to 1969-03-28 |
+| `921-17` | Arrêté portant création d'un fonds d'investissement forestier | 1 | 2019-04-01 to 2019-04-01 |
+| `922-4` | Concordat sur l’exercice et la surveillance de la chasse | 1 | 2017-05-01 to 2017-05-01 |
+| `922-5` | Concordat concernant la chasse sur le lac de Neuchâtel | 1 | 2020-09-01 to 2020-09-01 |
+| `922-6` | Concordat concernant la chasse sur le lac de Morat | 1 | 2020-09-01 to 2020-09-01 |
+| `923-4` | Concordat sur l’exercice de la pêche | 1 | 1998-01-01 to 1998-01-01 |
+| `923-5` | Concordat sur la pêche dans le lac de Neuchâtel | 1 | 2024-01-01 to 2024-01-01 |
+| `923-6` | Concordat sur la pêche dans le lac de Morat | 1 | 2004-01-01 to 2004-01-01 |
+| `923-7` | Convention entre les cantons de Berne et de Fribourg concernant la pêche dans les eaux limitrophes de la Singine et de la Sarine | 1 | 2010-01-01 to 2010-01-01 |
+| `923-51` | Règlement d’exécution du concordat sur la pêche dans le lac de Neuchâtel en 2025, 2026 et 2027 | 1 | 2025-01-01 to 2025-01-01 |
+| `923-61` | Règlement d’exécution du concordat sur la pêche dans le lac de Morat en 2025, 2026 et 2027 | 1 | 2025-01-01 to 2025-01-01 |
+| `940-3` | Convention administrative sur les activités industrielles et artisanales réglementées (Espace Mittelland) | 1 | 1999-07-01 to 1999-07-01 |
+| `940-8` | Accord intercantonal sur l’élimination des entraves techniques au commerce | 1 | 2003-02-04 to 2003-02-04 |
+| `940-72` | Arrêté relatif aux collectes | 1 | 2022-02-01 to 2022-02-01 |
+| `942-11` | Arrêté sur le contrôle des prix | 1 | 2022-01-01 to 2022-01-01 |
+| `947-2-1` | Convention intercantonale sur la vente du sel en Suisse | 1 | 1974-08-12 to 1974-08-12 |
+| `947-7-11` | Arrêté d'application de la loi fédérale du 25 mars 1977 sur les substances explosibles | 1 | 2022-02-01 to 2022-02-01 |
+| `952-81` | Arrêté fixant définitivement la durée des mascarades | 1 | 1929-01-18 to 1929-01-18 |
+| `952-171` | Directives pour la construction et l’aménagement des établissements publics | 1 | 2013-01-01 to 2013-01-01 |
+| `958-6` | Concordat sur les jeux d’argent au niveau suisse | 1 | 2021-01-01 to 2021-01-01 |
+| `958-7` | Convention romande sur les jeux d’argent | 1 | 2021-01-01 to 2021-01-01 |
+| `958-32` | Arrêté concernant la désignation des membres fribourgeois de la Société de la loterie de la Suisse romande | 1 | 2016-01-01 to 2016-01-01 |
 
-The build made 1160 commits:
+The build made 1382 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 591 | first version of an act |
-| 568 | one law on its in-force day |
-| 1 | changes no amendment note explains, credited to the publisher |
+| 792 | first version of an act |
+| 571 | one law on its in-force day |
+| 2 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 13 commits on the branch `futur`: laws not yet in force on 2026-10-30.
-- 4 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 13 commits on the branch `futur`: laws not yet in force on 2026-11-05.
+- 20 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 1912 laws in the record.
-- 2079 tags.
+- 2281 tags.
 
 ## Dates
 
@@ -630,15 +832,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a6212fc95a89bbeb1f6dec92ed6b4dbba0a8f2f4dccc98b2e15d85411c65f030` (18067616 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `8b1fefb28b00ddbdd87460391c0c151dea742c1eebcfa54eda89a5e2f7e53142` (25562452 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1522 versions of 591 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 1365 history commits and 2280 tags (history tip `402c5733ebd41d18f06bbde93614d1bf6206eca9`).
 
 ## Decisions made by hand
 
@@ -647,6 +849,38 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- These 201 acts each record one current consolidated version, with first_law null and publisher attribution as the oldest corpus version available.
+- Every version is dated by the explicit entry-into-force day stated in the official selected-version metadata; no retrieval date is used as an in-force date.
+- 126 acts use the official XHTML text. 75 PDF-only acts preserve the complete official text layer as one unit, in page order and with printed line breaks. No OCR or model word correction was used.
+- Separate annex text layers are included for RSF 261.16, 631.33 and 785.21. The 261.16 and 631.33 attachments are textual tables; the 785.21 attachment also contains eleven maps.
+- Normative images are not included: one Clavaleyres territory map in RSF 112.8 and eleven kite-surfing exclusion maps in RSF 785.21. These two acts have complete extracted text but incomplete normative image content.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
+- Separately published textual annex pages are restored as preformatted digital text in the current in-force version; article wording and historical versions are retained.
+- Version dates are the official RSF version commencement dates, not retrieval dates.
+- Normative graphical content remains outside this textual correction set pending the separate image work.
 
 ## What AI did and did not do
 
@@ -658,3 +892,13 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the canton's own collection.
+- A model wrote and reviewed extraction and validation code for 201 included acts. Law text comes mechanically from official XHTML or official PDF text layers; no model-authored law text, OCR or word corrections were used.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.
+- A language model wrote extraction and validation code and classified attachments; no legal wording was written or corrected by the model.

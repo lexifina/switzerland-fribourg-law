@@ -1,6 +1,6 @@
 # Ordonnance concernant la taxe d'exemption de l'obligation de servir
 
-RSF 513.11 · 3 versions, from 2010-07-01 (latest in force: 2022-12-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/513.11>
+RSF 513.11 · 3 versions, from 2010-07-01 (latest in force: 2026-11-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/513.11>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

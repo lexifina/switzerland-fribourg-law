@@ -1,12 +1,13 @@
 # Ordonnance relative à l'information sur les activités du Conseil d'Etat et de l'administration
 
-OInf · 4 versions, from 2011-01-01 (latest in force: 2026-06-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.51>
+OInf · 4 versions, from 2011-01-01 (latest in force: 2026-11-01) · <https://bdlf.fr.ch/app/fr/texts_of_law/122.0.51>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Art. 1 | [art-001.md](art-001.md) | 1 | 2026-11-01 |
 | Art. 2 | [art-002.md](art-002.md) | 0 |  |
 | Art. 3 | [art-003.md](art-003.md) | 1 | 2026-11-01 |
+| Art. 3a | [art-003a.md](art-003a.md) | 1 | 2026-11-01 |
 | Art. 4 | [art-004.md](art-004.md) | 1 | 2026-06-01 |
 | Art. 5 | [art-005.md](art-005.md) | 1 | 2026-11-01 |
 | Art. 6 | [art-006.md](art-006.md) | 2 | 2026-11-01 |
@@ -36,15 +37,32 @@ OInf · 4 versions, from 2011-01-01 (latest in force: 2026-06-01) · <https://bd
 | Art. 30 | [art-030.md](art-030.md) | 1 | 2026-11-01 |
 | Art. 31 | [art-031.md](art-031.md) | 3 | 2026-11-01 |
 | Art. 32 | [art-032.md](art-032.md) | 1 | 2026-11-01 |
+| Art. 32a | [art-032a.md](art-032a.md) | 1 | 2026-11-01 |
+| Art. 32b | [art-032b.md](art-032b.md) | 1 | 2026-11-01 |
 | Art. 33 | [art-033.md](art-033.md) | 1 | 2026-11-01 |
 | Art. 34 | [art-034.md](art-034.md) | 1 | 2026-11-01 |
+| Art. 34a | [art-034a.md](art-034a.md) | 1 | 2026-11-01 |
 | Art. 35 | [art-035.md](art-035.md) | 1 | 2026-11-01 |
+| Art. 35a | [art-035a.md](art-035a.md) | 1 | 2026-11-01 |
 | Art. 36 | [art-036.md](art-036.md) | 1 | 2026-11-01 |
 | Art. 37 | [art-037.md](art-037.md) | 2 | 2026-11-01 |
+| Art. 37a | [art-037a.md](art-037a.md) | 1 | 2026-11-01 |
+| Art. 37b | [art-037b.md](art-037b.md) | 1 | 2026-11-01 |
+| Art. 37c | [art-037c.md](art-037c.md) | 1 | 2026-11-01 |
+| Art. 37d | [art-037d.md](art-037d.md) | 1 | 2026-11-01 |
+| Art. 37e | [art-037e.md](art-037e.md) | 1 | 2026-11-01 |
+| Art. 37f | [art-037f.md](art-037f.md) | 1 | 2026-11-01 |
+| Art. 37g | [art-037g.md](art-037g.md) | 1 | 2026-11-01 |
+| Art. 37h | [art-037h.md](art-037h.md) | 1 | 2026-11-01 |
+| Art. 37i | [art-037i.md](art-037i.md) | 1 | 2026-11-01 |
+| Art. 37j | [art-037j.md](art-037j.md) | 1 | 2026-11-01 |
+| Art. 37k | [art-037k.md](art-037k.md) | 1 | 2026-11-01 |
+| Art. 37l | [art-037l.md](art-037l.md) | 1 | 2026-11-01 |
 | Art. 38 | [art-038.md](art-038.md) | 0 |  |
 | Art. 39 | [art-039.md](art-039.md) | 0 |  |
 | Art. 40 | [art-040.md](art-040.md) | 1 | 2026-06-01 |
 | Art. 41 | [art-041.md](art-041.md) | 0 |  |
 | Art. 42 | [art-042.md](art-042.md) | 0 |  |
+| Art. 42a | [art-042a.md](art-042a.md) | 1 | 2026-11-01 |
 | Art. 43 | [art-043.md](art-043.md) | 0 |  |
 | Titel und Ingress | [ingress.md](ingress.md) | 3 | 2026-11-01 |

@@ -4,6 +4,8 @@ RSF 822.0.21 · 3 versions, from 2017-01-01 (latest in force: 2023-03-01) · <ht
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
+| Annexe, page 10 | [annexe-page-010.md](annexe-page-010.md) | 1 | 2023-03-01 |
+| Annexe, page 11 | [annexe-page-011.md](annexe-page-011.md) | 1 | 2023-03-01 |
 | Art. 1 | [art-001.md](art-001.md) | 0 |  |
 | Art. 2 | [art-002.md](art-002.md) | 1 | 2023-03-01 |
 | Art. 3 | [art-003.md](art-003.md) | 1 | 2023-03-01 |
