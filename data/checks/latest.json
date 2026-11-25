@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:19:32Z",
+ "generated": "2026-11-25T08:26:55Z",
  "latest": {
   "lexwork-fribourg|switzerland/fribourg/acts": {
    "attempt": 1,
@@ -13,65 +13,41 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 114,
+    "checked": 133,
     "current": 792,
     "gone": 0,
     "held": 792,
     "not_at_source": 18,
     "out_of_scope": 1,
-    "pending": 18,
+    "pending": 0,
     "repo": 792,
-    "source_in_scope": 810
+    "source_in_scope": 792
    },
-   "check_id": "ch-lexwork-fribourg-20261124T120502Z",
+   "check_id": "ch-lexwork-fribourg-20261125T063226Z",
    "commits": null,
    "corpus": "switzerland/fribourg/acts",
    "error": null,
-   "finished": "2026-11-24T12:19:30Z",
-   "flags": [
-    {
-     "detail": "19 of 269 texts differ from the source",
-     "flag": "verify-differ"
-    }
-   ],
-   "gap": 20,
-   "note": "bdlf.fr.ch: index of 811 acts (811 in force); held 792; 18 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 114 held acts compared with the collection this check (every one within 7 days); 18 candidate acts read",
-   "outcome": "changed",
+   "finished": "2026-11-25T06:45:13Z",
+   "flags": [],
+   "gap": 21,
+   "note": "bdlf.fr.ch: index of 811 acts (811 in force); held 792; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 18 published only as PDF; 133 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 635,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 735,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "122.91.3",
-     "261.12",
-     "261.110",
-     "342.10",
-     "410.20",
-     "410.40",
-     "412.1.80",
-     "431.0.10",
-     "432.10",
-     "432.12.10",
-     "559.60",
-     "635.2.6",
-     "732.1.10",
-     "784.20",
-     "822.2.10",
-     "834.0.40",
-     "940.80",
-     "958.60"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "811 entries, 811 in force (bdlf.fr.ch)",
    "source": "lexwork-fribourg",
-   "started": "2026-11-24T12:05:02Z",
+   "started": "2026-11-25T06:32:26Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -79,28 +55,25 @@
     "new": 0,
     "nothing_new": 0,
     "parts": [],
-    "pdf_only": 18,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
    "verify": {
     "cycle_days": 7,
-    "examples": [
-     "31.16 (31-16): 2025-03-01",
-     "44.11 (44-11-rbpe): 2026-08-17",
-     "52.21 (52-21-rprotpop): 2026-10-01",
-     "76.16 (76-16): 2022-02-01",
-     "76.17 (76-17): 2022-02-01",
-     "76.61 (76-61): 1992-01-01",
-     "87.27 (87-27): 2003-01-01",
-     "112.8 (112-8): 2022-01-01"
-    ],
+    "examples": [],
     "held": 792,
-    "method": "each act compared this check (114 of 792: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bdlf.fr.ch (the act document and each version by id), parsed by the builder (ch_cantons.parse_act), and compared version by version, letters and digits of every unit, with the corpus this repository is built from; the corpus's newest version rendered by the builder (gitlaw_common) and compared with the files at the tip of main. A difference is re-read and corrected by the next check's update (Kind: correction)",
-    "ok": false,
-    "swept": 114,
-    "versions_checked": 269,
-    "versions_differ": 19
+    "method": "each act compared this check (133 of 792: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bdlf.fr.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "not_compared": {
+     "90-verify-486.json": 46,
+     "91-q743-text-annexes-01.json": 4,
+     "91-q743-text-annexes-02.json": 2
+    },
+    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
+    "ok": true,
+    "swept": 133,
+    "versions_checked": 217,
+    "versions_differ": 0
    }
   }
  },
