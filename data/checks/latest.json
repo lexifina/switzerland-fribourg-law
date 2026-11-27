@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:18:16Z",
+ "generated": "2026-11-27T07:12:29Z",
  "latest": {
   "lexwork-fribourg|switzerland/fribourg/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 114,
+    "checked": 116,
     "current": 792,
     "gone": 0,
     "held": 792,
@@ -23,26 +23,26 @@
     "repo": 792,
     "source_in_scope": 792
    },
-   "check_id": "ch-lexwork-fribourg-20261126T061042Z",
+   "check_id": "ch-lexwork-fribourg-20261127T060408Z",
    "commits": null,
    "corpus": "switzerland/fribourg/acts",
    "error": null,
-   "finished": "2026-11-26T06:21:18Z",
+   "finished": "2026-11-27T06:14:48Z",
    "flags": [
     {
-     "detail": "2 of 227 texts differ from the source",
+     "detail": "2 of 182 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 21,
-   "note": "bdlf.fr.ch: index of 811 acts (811 in force); held 792; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 18 published only as PDF; 114 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "gap": 20,
+   "note": "bdlf.fr.ch: index of 811 acts (811 in force); held 792; 0 in force and in scope not held yet, 1 out of scope (land-use plans, concessions, directives, forms: as the builder), 18 published only as PDF; 116 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 599,
+   "requests": 616,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "811 entries, 811 in force (bdlf.fr.ch)",
    "source": "lexwork-fribourg",
-   "started": "2026-11-26T06:10:42Z",
+   "started": "2026-11-27T06:04:08Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -71,16 +71,16 @@
      "412.0.11 (412-0-11-ress): 2025-08-15"
     ],
     "held": 792,
-    "method": "each act compared this check (114 of 792: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bdlf.fr.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (116 of 792: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from bdlf.fr.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {
-     "90-verify-486.json": 33,
-     "91-q743-text-annexes-03.json": 2,
-     "91-q743-text-annexes-04.json": 1
+     "90-verify-486.json": 36,
+     "91-q743-text-annexes-04.json": 4,
+     "91-q743-text-annexes-05.json": 2
     },
     "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
     "ok": false,
-    "swept": 114,
-    "versions_checked": 227,
+    "swept": 116,
+    "versions_checked": 182,
     "versions_differ": 2
    }
   }
